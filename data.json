@@ -17,7 +17,15 @@
       "serie": "30-ans",
       "source": "Annonces Leboncoin FR scellé, oct. 2026",
       "type": "Bundle",
-      "id": "30-ans-bundle"
+      "id": "30-ans-bundle",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 75,
+          "moy": 85,
+          "max": 90
+        }
+      ]
     },
     {
       "cote": 200,
@@ -33,7 +41,15 @@
       "serie": "30-ans",
       "source": "Annonces Leboncoin FR scellé, oct. 2026",
       "type": "ETB",
-      "id": "30-ans-etb"
+      "id": "30-ans-etb",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 170,
+          "moy": 200,
+          "max": 260
+        }
+      ]
     },
     {
       "cote": 35,
@@ -50,7 +66,15 @@
       "source": "Boutiques FR (34,99 € revendeur)",
       "type": "Coffret",
       "id": "30-ans-journee-2026",
-      "note": "1 booster Méga-Évolution + 2 Flammes Fantasmagoriques · promo Pikachu"
+      "note": "1 booster Méga-Évolution + 2 Flammes Fantasmagoriques · promo Pikachu",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 30,
+          "moy": 35,
+          "max": 45
+        }
+      ]
     },
     {
       "cote": 50,
@@ -66,7 +90,15 @@
       "serie": "30-ans",
       "source": "Leboncoin + boutiques FR, oct. 2026",
       "type": "Pokébox",
-      "id": "30-ans-pokebox"
+      "id": "30-ans-pokebox",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 40,
+          "moy": 50,
+          "max": 60
+        }
+      ]
     },
     {
       "cote": 25,
@@ -83,7 +115,15 @@
       "serie": "mega-evolution",
       "source": "Boutiques FR, décote pour l'état",
       "type": "Coffret",
-      "id": "30-ans-premiers-partenaires-s1"
+      "id": "30-ans-premiers-partenaires-s1",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 20,
+          "moy": 25,
+          "max": 30
+        }
+      ]
     },
     {
       "cote": 25,
@@ -100,7 +140,15 @@
       "serie": "evolution-celeste",
       "source": "PkmCards / CardNexus FR, eBay FR",
       "type": "Booster",
-      "id": "eb07-booster"
+      "id": "eb07-booster",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 20,
+          "moy": 25,
+          "max": 30
+        }
+      ]
     },
     {
       "cote": 8,
@@ -117,7 +165,15 @@
       "serie": "stars-etincelantes",
       "source": "PkmCards / CardNexus FR",
       "type": "Booster",
-      "id": "eb09-booster"
+      "id": "eb09-booster",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 6,
+          "moy": 8,
+          "max": 10
+        }
+      ]
     },
     {
       "cote": 15,
@@ -134,7 +190,15 @@
       "serie": "origine-perdue-paldea",
       "source": "Boutiques FR (19,90 € neuf, décote pour l'état)",
       "type": "Duopack",
-      "id": "eb11ev02-duopack"
+      "id": "eb11ev02-duopack",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 12,
+          "moy": 15,
+          "max": 20
+        }
+      ]
     },
     {
       "cote": 7,
@@ -151,7 +215,15 @@
       "serie": "flammes-obsidiennes",
       "source": "Boutiques FR",
       "type": "Booster",
-      "id": "ev03-booster"
+      "id": "ev03-booster",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 6,
+          "moy": 7,
+          "max": 9
+        }
+      ]
     },
     {
       "cote": 6,
@@ -168,7 +240,15 @@
       "serie": "couronne-stellaire",
       "source": "PkmCards / CardNexus FR",
       "type": "Booster",
-      "id": "ev07-booster"
+      "id": "ev07-booster",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 5,
+          "moy": 6,
+          "max": 8
+        }
+      ]
     },
     {
       "cote": 7,
@@ -185,7 +265,15 @@
       "serie": "etincelles-deferlantes",
       "source": "PkmCards / CardNexus FR",
       "type": "Booster",
-      "id": "ev08-booster"
+      "id": "ev08-booster",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 6,
+          "moy": 7,
+          "max": 9
+        }
+      ]
     },
     {
       "cote": 22,
@@ -201,7 +289,15 @@
       "serie": "etincelles-deferlantes",
       "source": "Estimation (boosters + promo)",
       "type": "Tripack",
-      "id": "ev08-tripack"
+      "id": "ev08-tripack",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 18,
+          "moy": 22,
+          "max": 26
+        }
+      ]
     },
     {
       "cote": 45,
@@ -218,7 +314,15 @@
       "serie": "etincelles-deferlantes",
       "source": "Boutiques FR",
       "type": "Valise",
-      "id": "ev08-valise"
+      "id": "ev08-valise",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 38,
+          "moy": 45,
+          "max": 55
+        }
+      ]
     },
     {
       "cote": 6,
@@ -235,7 +339,15 @@
       "serie": "aventures-ensemble",
       "source": "Cote display Cardmarket ÷ 36",
       "type": "Booster",
-      "id": "ev09-booster"
+      "id": "ev09-booster",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 5,
+          "moy": 6,
+          "max": 8
+        }
+      ]
     },
     {
       "cote": 75,
@@ -251,7 +363,15 @@
       "serie": "aventures-ensemble",
       "source": "PkmCards FR",
       "type": "ETB",
-      "id": "ev09-etb"
+      "id": "ev09-etb",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 65,
+          "moy": 75,
+          "max": 85
+        }
+      ]
     },
     {
       "cote": 7,
@@ -268,7 +388,15 @@
       "serie": "rivalites-destinees",
       "source": "PkmCards / CardNexus FR",
       "type": "Booster",
-      "id": "ev10-booster"
+      "id": "ev10-booster",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 6,
+          "moy": 7,
+          "max": 9
+        }
+      ]
     },
     {
       "cote": 130,
@@ -284,7 +412,15 @@
       "serie": "rivalites-destinees",
       "source": "Amazon / boosters à l'unité FR",
       "type": "Demi-display",
-      "id": "ev10-demidisplay"
+      "id": "ev10-demidisplay",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 115,
+          "moy": 130,
+          "max": 150
+        }
+      ]
     },
     {
       "cote": 110,
@@ -301,7 +437,15 @@
       "serie": "rivalites-destinees",
       "source": "PkmCards FR (130 € neuf parfait, décote pour le trou)",
       "type": "ETB",
-      "id": "ev10-etb"
+      "id": "ev10-etb",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 95,
+          "moy": 110,
+          "max": 120
+        }
+      ]
     },
     {
       "cote": 24,
@@ -317,7 +461,15 @@
       "serie": "rivalites-destinees",
       "source": "Estimation (boosters + promo)",
       "type": "Tripack",
-      "id": "ev10-tripack"
+      "id": "ev10-tripack",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 20,
+          "moy": 24,
+          "max": 28
+        }
+      ]
     },
     {
       "cote": 100,
@@ -333,7 +485,15 @@
       "serie": "destinees-de-paldea",
       "source": "Boutiques FR (124,99 € revendeur)",
       "type": "Bundle",
-      "id": "ev45-bundle"
+      "id": "ev45-bundle",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 85,
+          "moy": 100,
+          "max": 125
+        }
+      ]
     },
     {
       "cote": 48,
@@ -350,7 +510,15 @@
       "serie": "destinees-de-paldea",
       "source": "PkmCards FR",
       "type": "Pokébox",
-      "id": "ev45-pokebox"
+      "id": "ev45-pokebox",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 40,
+          "moy": 48,
+          "max": 55
+        }
+      ]
     },
     {
       "cote": 25,
@@ -366,7 +534,15 @@
       "serie": "destinees-de-paldea",
       "source": "PkmCards FR (22 € à 38 € selon la promo)",
       "type": "Tripack",
-      "id": "ev45-tripack"
+      "id": "ev45-tripack",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 22,
+          "moy": 25,
+          "max": 38
+        }
+      ]
     },
     {
       "cote": 100,
@@ -382,7 +558,15 @@
       "serie": "evolutions-prismatiques",
       "source": "Boutiques FR (124,99 € revendeur)",
       "type": "Bundle",
-      "id": "ev85-bundle"
+      "id": "ev85-bundle",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 85,
+          "moy": 100,
+          "max": 125
+        }
+      ]
     },
     {
       "cote": 85,
@@ -398,7 +582,15 @@
       "serie": "evolutions-prismatiques",
       "source": "Boutiques FR (109,99 € revendeur)",
       "type": "Coffret",
-      "id": "ev85-pochette"
+      "id": "ev85-pochette",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 70,
+          "moy": 85,
+          "max": 110
+        }
+      ]
     },
     {
       "cote": 50,
@@ -414,7 +606,15 @@
       "serie": "evolutions-prismatiques",
       "source": "Boutiques FR (64,99 € revendeur)",
       "type": "Coffret",
-      "id": "ev85-surprise"
+      "id": "ev85-surprise",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 40,
+          "moy": 50,
+          "max": 65
+        }
+      ]
     },
     {
       "cote": 30,
@@ -430,7 +630,15 @@
       "serie": "foudre-noire-flamme-blanche",
       "source": "Estimation (boosters + promo)",
       "type": "Tripack",
-      "id": "fn-tripack"
+      "id": "fn-tripack",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 25,
+          "moy": 30,
+          "max": 35
+        }
+      ]
     },
     {
       "cote": 35,
@@ -446,7 +654,15 @@
       "serie": "foudre-noire-flamme-blanche",
       "source": "PkmCards FR",
       "type": "Coffret",
-      "id": "fnfb-poster"
+      "id": "fnfb-poster",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 30,
+          "moy": 35,
+          "max": 40
+        }
+      ]
     },
     {
       "cote": 55,
@@ -462,7 +678,15 @@
       "serie": "foudre-noire-flamme-blanche",
       "source": "Boutiques FR",
       "type": "Coffret",
-      "id": "fnfb-victini"
+      "id": "fnfb-victini",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 45,
+          "moy": 55,
+          "max": 67
+        }
+      ]
     },
     {
       "cote": 7,
@@ -479,7 +703,15 @@
       "serie": "mega-evolution",
       "source": "PkmCards / CardNexus FR",
       "type": "Booster",
-      "id": "me01-booster"
+      "id": "me01-booster",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 6,
+          "moy": 7,
+          "max": 9
+        }
+      ]
     },
     {
       "cote": 22,
@@ -496,7 +728,15 @@
       "serie": "mega-evolution",
       "source": "Estimation (boosters + promo)",
       "type": "Tripack",
-      "id": "me01-tripack"
+      "id": "me01-tripack",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 18,
+          "moy": 22,
+          "max": 26
+        }
+      ]
     },
     {
       "cote": 9,
@@ -513,7 +753,15 @@
       "serie": "flammes-fantasmagoriques",
       "source": "Estimation d'après displays FR Leboncoin",
       "type": "Booster",
-      "id": "me02-booster"
+      "id": "me02-booster",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 7,
+          "moy": 9,
+          "max": 12
+        }
+      ]
     },
     {
       "cote": 100,
@@ -529,7 +777,15 @@
       "serie": "flammes-fantasmagoriques",
       "source": "Annonces Leboncoin FR scellé",
       "type": "ETB",
-      "id": "me02-etb"
+      "id": "me02-etb",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 85,
+          "moy": 100,
+          "max": 120
+        }
+      ]
     },
     {
       "cote": 30,
@@ -545,7 +801,15 @@
       "serie": "flammes-fantasmagoriques",
       "source": "Annonces Leboncoin FR scellé",
       "type": "Tripack",
-      "id": "me02-tripack"
+      "id": "me02-tripack",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 25,
+          "moy": 30,
+          "max": 45
+        }
+      ]
     },
     {
       "cote": 200,
@@ -561,7 +825,15 @@
       "serie": "flammes-fantasmagoriques",
       "source": "Annonces Leboncoin FR scellé",
       "type": "UPC",
-      "id": "me02-upc"
+      "id": "me02-upc",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 180,
+          "moy": 200,
+          "max": 240
+        }
+      ]
     },
     {
       "cote": 46,
@@ -577,7 +849,15 @@
       "serie": "heros-transcendants",
       "source": "Boutiques FR, oct. 2026",
       "type": "Bundle",
-      "id": "me025-bundle"
+      "id": "me025-bundle",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 40,
+          "moy": 46,
+          "max": 50
+        }
+      ]
     },
     {
       "cote": 110,
@@ -593,7 +873,15 @@
       "serie": "heros-transcendants",
       "source": "Annonces Leboncoin FR scellé",
       "type": "ETB",
-      "id": "me025-etb"
+      "id": "me025-etb",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 95,
+          "moy": 110,
+          "max": 125
+        }
+      ]
     },
     {
       "cote": 28,
@@ -610,7 +898,15 @@
       "serie": "heros-transcendants",
       "source": "Boutiques FR (11,99 € en sortie, 39,99 € en revendeur)",
       "type": "Mini-Tin",
-      "id": "me025-minitin"
+      "id": "me025-minitin",
+      "historique": [
+        {
+          "d": "2026-10-18",
+          "bas": 22,
+          "moy": 28,
+          "max": 40
+        }
+      ]
     }
   ]
 }
