@@ -62,7 +62,9 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
 .alt-k{color:var(--muted);font-weight:600;letter-spacing:.06em;text-transform:uppercase;font-size:10.5px}
 .alt-v{color:var(--fg);font-weight:600}
 .alt-p{margin-left:auto;font-weight:600}
-.alts{font-family:var(--f-mono);font-size:11px;color:var(--muted);white-space:nowrap}
+.alts{font-family:var(--f-mono);font-size:10.5px;line-height:1.35;color:var(--muted);display:flex;flex-direction:column;align-items:flex-end;margin-top:2px;max-width:100%}
+.alts > span{white-space:nowrap}
+.stats > div{min-width:0}
 .alts i{font-style:normal}
 @media (max-width:420px){.alt{grid-template-columns:1fr}}
 .tile.hero{background:linear-gradient(135deg,var(--surface) 0%,var(--surface-2) 100%);box-shadow:var(--shadow)}
@@ -129,7 +131,7 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
   .item > .qty{grid-area:qty;align-self:start}
   .stats{grid-area:stats;display:grid !important;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;border-top:1px solid var(--line);padding-top:10px}
   .stats > div{align-items:flex-start !important;text-align:left !important;display:flex;flex-direction:column;gap:2px}
-  .alts{white-space:normal}
+  .alts{align-items:flex-start}
   .ml{display:block;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
 }
 @media (min-width:761px){ .stats{display:contents} }
@@ -262,7 +264,7 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
           <div class="stats">
             <div class="r"><span class="ml">Retail</span><span class="mono">${fmt(it.retail||0)}</span></div>
             <div class="r cote"><span class="ml">Prix bas</span><b>${fmt(lo)}</b>${trend}${range}</div>
-            <div class="r profit"><span class="ml">Bénéfice prudent</span><b class="${unit>=0?"pos":"neg"}">${signed(tot)}</b><span class="alts">moy. <i class="${uMoy>=0?"pos":"neg"}">${signed(uMoy*(it.qte||0))}</i> · max <i class="${uMax>=0?"pos":"neg"}">${signed(uMax*(it.qte||0))}</i></span></div>
+            <div class="r profit"><span class="ml">Bénéfice prudent</span><b class="${unit>=0?"pos":"neg"}">${signed(tot)}</b><span class="alts"><span>moy. <i class="${uMoy>=0?"pos":"neg"}">${signed(uMoy*(it.qte||0))}</i></span><span>max <i class="${uMax>=0?"pos":"neg"}">${signed(uMax*(it.qte||0))}</i></span></span></div>
           </div>
         </article>`;
       }).join("");
