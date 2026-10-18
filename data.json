@@ -1,912 +1,7268 @@
 {
-  "meta": {
-    "maj": "2026-10-18T16:40:00+02:00"
-  },
-  "items": [
+ "meta": {
+  "maj": "2026-10-18T17:05:00+02:00"
+ },
+ "items": [
+  {
+   "cote": 85,
+   "fourchette": [
+    75,
+    90
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:00:00+02:00",
+   "nom": "Bundle 6 boosters 30e Anniversaire",
+   "qte": 6,
+   "retail": 35.99,
+   "serie": "30-ans",
+   "source": "Annonces Leboncoin FR scellé, oct. 2026",
+   "type": "Bundle",
+   "id": "30-ans-bundle",
+   "historique": [
     {
-      "cote": 85,
-      "fourchette": [
-        75,
-        90
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:00:00+02:00",
-      "nom": "Bundle 6 boosters 30e Anniversaire",
-      "qte": 6,
-      "retail": 35.99,
-      "serie": "30-ans",
-      "source": "Annonces Leboncoin FR scellé, oct. 2026",
-      "type": "Bundle",
-      "id": "30-ans-bundle",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 75,
-          "moy": 85,
-          "max": 90
-        }
-      ]
+     "d": "2026-10-02",
+     "bas": 76,
+     "moy": 86,
+     "max": 91,
+     "rec": 1
     },
     {
-      "cote": 200,
-      "fourchette": [
-        170,
-        260
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:00:00+02:00",
-      "nom": "Coffret Dresseur d'Élite (ETB) 30e Anniversaire",
-      "qte": 1,
-      "retail": 69.9,
-      "serie": "30-ans",
-      "source": "Annonces Leboncoin FR scellé, oct. 2026",
-      "type": "ETB",
-      "id": "30-ans-etb",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 170,
-          "moy": 200,
-          "max": 260
-        }
-      ]
+     "d": "2026-10-03",
+     "bas": 75,
+     "moy": 85,
+     "max": 90,
+     "rec": 1
     },
     {
-      "cote": 35,
-      "fourchette": [
-        30,
-        45
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Coffret Journée Pokémon 2026",
-      "qte": 1,
-      "retail": 24.9,
-      "serie": "mega-evolution",
-      "source": "Boutiques FR (34,99 € revendeur)",
-      "type": "Coffret",
-      "id": "30-ans-journee-2026",
-      "note": "1 booster Méga-Évolution + 2 Flammes Fantasmagoriques · promo Pikachu",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 30,
-          "moy": 35,
-          "max": 45
-        }
-      ]
+     "d": "2026-10-04",
+     "bas": 75,
+     "moy": 85,
+     "max": 90,
+     "rec": 1
     },
     {
-      "cote": 50,
-      "fourchette": [
-        40,
-        60
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:00:00+02:00",
-      "nom": "Pokébox 30e Anniversaire (Nymphali-ex / Amphinobi-ex)",
-      "qte": 4,
-      "retail": 25.9,
-      "serie": "30-ans",
-      "source": "Leboncoin + boutiques FR, oct. 2026",
-      "type": "Pokébox",
-      "id": "30-ans-pokebox",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 40,
-          "moy": 50,
-          "max": 60
-        }
-      ]
+     "d": "2026-10-06",
+     "bas": 74,
+     "moy": 84,
+     "max": 89,
+     "rec": 1
     },
     {
-      "cote": 25,
-      "fourchette": [
-        20,
-        30
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Collection Illustration Premiers Partenaires Série 1",
-      "note": "abîmé · booster Premiers Partenaires + Méga-Évolution + Flammes Fantasmagoriques",
-      "qte": 1,
-      "retail": 19.99,
-      "serie": "mega-evolution",
-      "source": "Boutiques FR, décote pour l'état",
-      "type": "Coffret",
-      "id": "30-ans-premiers-partenaires-s1",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 20,
-          "moy": 25,
-          "max": 30
-        }
-      ]
+     "d": "2026-10-07",
+     "bas": 74,
+     "moy": 84,
+     "max": 89,
+     "rec": 1
     },
     {
-      "cote": 25,
-      "fourchette": [
-        20,
-        30
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:20:00+02:00",
-      "nom": "Booster Évolution Céleste",
-      "note": "loose · illustration Rayquaza",
-      "qte": 1,
-      "retail": 4.99,
-      "serie": "evolution-celeste",
-      "source": "PkmCards / CardNexus FR, eBay FR",
-      "type": "Booster",
-      "id": "eb07-booster",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 20,
-          "moy": 25,
-          "max": 30
-        }
-      ]
+     "d": "2026-10-08",
+     "bas": 74,
+     "moy": 84,
+     "max": 89,
+     "rec": 1
     },
     {
-      "cote": 8,
-      "fourchette": [
-        6,
-        10
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:20:00+02:00",
-      "nom": "Booster Stars Étincelantes",
-      "note": "loose · illustration Shaymin",
-      "qte": 1,
-      "retail": 4.99,
-      "serie": "stars-etincelantes",
-      "source": "PkmCards / CardNexus FR",
-      "type": "Booster",
-      "id": "eb09-booster",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 6,
-          "moy": 8,
-          "max": 10
-        }
-      ]
+     "d": "2026-10-09",
+     "bas": 74,
+     "moy": 84,
+     "max": 89,
+     "rec": 1
     },
     {
-      "cote": 15,
-      "fourchette": [
-        12,
-        20
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Duopack Tokopiyon (Origine Perdue + Évolutions à Paldea)",
-      "note": "un peu abîmé",
-      "qte": 1,
-      "retail": 12.99,
-      "serie": "origine-perdue-paldea",
-      "source": "Boutiques FR (19,90 € neuf, décote pour l'état)",
-      "type": "Duopack",
-      "id": "eb11ev02-duopack",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 12,
-          "moy": 15,
-          "max": 20
-        }
-      ]
+     "d": "2026-10-10",
+     "bas": 74,
+     "moy": 84,
+     "max": 89,
+     "rec": 1
     },
     {
-      "cote": 7,
-      "fourchette": [
-        6,
-        9
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:20:00+02:00",
-      "nom": "Booster Flammes Obsidiennes",
-      "note": "blister plastique",
-      "qte": 1,
-      "retail": 6.5,
-      "serie": "flammes-obsidiennes",
-      "source": "Boutiques FR",
-      "type": "Booster",
-      "id": "ev03-booster",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 6,
-          "moy": 7,
-          "max": 9
-        }
-      ]
+     "d": "2026-10-11",
+     "bas": 74,
+     "moy": 84,
+     "max": 89,
+     "rec": 1
     },
     {
-      "cote": 6,
-      "fourchette": [
-        5,
-        8
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:20:00+02:00",
-      "nom": "Booster Couronne Stellaire",
-      "note": "loose · illustration Terapagos",
-      "qte": 1,
-      "retail": 6.5,
-      "serie": "couronne-stellaire",
-      "source": "PkmCards / CardNexus FR",
-      "type": "Booster",
-      "id": "ev07-booster",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 5,
-          "moy": 6,
-          "max": 8
-        }
-      ]
+     "d": "2026-10-12",
+     "bas": 74,
+     "moy": 83,
+     "max": 88,
+     "rec": 1
     },
     {
-      "cote": 7,
-      "fourchette": [
-        6,
-        9
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:20:00+02:00",
-      "nom": "Booster Étincelles Déferlantes",
-      "note": "blister plastique",
-      "qte": 2,
-      "retail": 6.5,
-      "serie": "etincelles-deferlantes",
-      "source": "PkmCards / CardNexus FR",
-      "type": "Booster",
-      "id": "ev08-booster",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 6,
-          "moy": 7,
-          "max": 9
-        }
-      ]
+     "d": "2026-10-14",
+     "bas": 74,
+     "moy": 84,
+     "max": 89,
+     "rec": 1
     },
     {
-      "cote": 22,
-      "fourchette": [
-        18,
-        26
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Tripack Étincelles Déferlantes",
-      "qte": 1,
-      "retail": 19.99,
-      "serie": "etincelles-deferlantes",
-      "source": "Estimation (boosters + promo)",
-      "type": "Tripack",
-      "id": "ev08-tripack",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 18,
-          "moy": 22,
-          "max": 26
-        }
-      ]
+     "d": "2026-10-15",
+     "bas": 74,
+     "moy": 84,
+     "max": 89,
+     "rec": 1
     },
     {
-      "cote": 45,
-      "fourchette": [
-        38,
-        55
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Valise Étincelles Déferlantes",
-      "note": "6 boosters",
-      "qte": 1,
-      "retail": 39.99,
-      "serie": "etincelles-deferlantes",
-      "source": "Boutiques FR",
-      "type": "Valise",
-      "id": "ev08-valise",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 38,
-          "moy": 45,
-          "max": 55
-        }
-      ]
+     "d": "2026-10-16",
+     "bas": 74,
+     "moy": 84,
+     "max": 89,
+     "rec": 1
     },
     {
-      "cote": 6,
-      "fourchette": [
-        5,
-        8
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:20:00+02:00",
-      "nom": "Booster Aventures Ensemble",
-      "note": "blister plastique",
-      "qte": 3,
-      "retail": 6.5,
-      "serie": "aventures-ensemble",
-      "source": "Cote display Cardmarket ÷ 36",
-      "type": "Booster",
-      "id": "ev09-booster",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 5,
-          "moy": 6,
-          "max": 8
-        }
-      ]
+     "d": "2026-10-17",
+     "bas": 74,
+     "moy": 84,
+     "max": 89,
+     "rec": 1
     },
     {
-      "cote": 75,
-      "fourchette": [
-        65,
-        85
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Coffret Dresseur d'Élite (ETB) Aventures Ensemble",
-      "qte": 2,
-      "retail": 59.99,
-      "serie": "aventures-ensemble",
-      "source": "PkmCards FR",
-      "type": "ETB",
-      "id": "ev09-etb",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 65,
-          "moy": 75,
-          "max": 85
-        }
-      ]
-    },
-    {
-      "cote": 7,
-      "fourchette": [
-        6,
-        9
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:20:00+02:00",
-      "nom": "Booster Rivalités Destinées",
-      "note": "blister carton · Mewtwo, Carchacrok, Ho-Oh",
-      "qte": 3,
-      "retail": 6.5,
-      "serie": "rivalites-destinees",
-      "source": "PkmCards / CardNexus FR",
-      "type": "Booster",
-      "id": "ev10-booster",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 6,
-          "moy": 7,
-          "max": 9
-        }
-      ]
-    },
-    {
-      "cote": 130,
-      "fourchette": [
-        115,
-        150
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Demi-display Rivalités Destinées (18 boosters)",
-      "qte": 1,
-      "retail": 99.99,
-      "serie": "rivalites-destinees",
-      "source": "Amazon / boosters à l'unité FR",
-      "type": "Demi-display",
-      "id": "ev10-demidisplay",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 115,
-          "moy": 130,
-          "max": 150
-        }
-      ]
-    },
-    {
-      "cote": 110,
-      "fourchette": [
-        95,
-        120
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Coffret Dresseur d'Élite (ETB) Rivalités Destinées",
-      "note": "petit trou dans le blister",
-      "qte": 1,
-      "retail": 59.99,
-      "serie": "rivalites-destinees",
-      "source": "PkmCards FR (130 € neuf parfait, décote pour le trou)",
-      "type": "ETB",
-      "id": "ev10-etb",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 95,
-          "moy": 110,
-          "max": 120
-        }
-      ]
-    },
-    {
-      "cote": 24,
-      "fourchette": [
-        20,
-        28
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Tripack Rivalités Destinées",
-      "qte": 1,
-      "retail": 19.99,
-      "serie": "rivalites-destinees",
-      "source": "Estimation (boosters + promo)",
-      "type": "Tripack",
-      "id": "ev10-tripack",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 20,
-          "moy": 24,
-          "max": 28
-        }
-      ]
-    },
-    {
-      "cote": 100,
-      "fourchette": [
-        85,
-        125
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Bundle 6 boosters Destinées de Paldea",
-      "qte": 1,
-      "retail": 35.99,
-      "serie": "destinees-de-paldea",
-      "source": "Boutiques FR (124,99 € revendeur)",
-      "type": "Bundle",
-      "id": "ev45-bundle",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 85,
-          "moy": 100,
-          "max": 125
-        }
-      ]
-    },
-    {
-      "cote": 48,
-      "fourchette": [
-        40,
-        55
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Pokébox Destinées de Paldea Dracaufeu",
-      "note": "promo Dracaufeu",
-      "qte": 2,
-      "retail": 24.99,
-      "serie": "destinees-de-paldea",
-      "source": "PkmCards FR",
-      "type": "Pokébox",
-      "id": "ev45-pokebox",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 40,
-          "moy": 48,
-          "max": 55
-        }
-      ]
-    },
-    {
-      "cote": 25,
-      "fourchette": [
-        22,
-        38
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Tripack Destinées de Paldea",
-      "qte": 1,
-      "retail": 19.99,
-      "serie": "destinees-de-paldea",
-      "source": "PkmCards FR (22 € à 38 € selon la promo)",
-      "type": "Tripack",
-      "id": "ev45-tripack",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 22,
-          "moy": 25,
-          "max": 38
-        }
-      ]
-    },
-    {
-      "cote": 100,
-      "fourchette": [
-        85,
-        125
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Bundle 6 boosters Évolutions Prismatiques",
-      "qte": 2,
-      "retail": 35.99,
-      "serie": "evolutions-prismatiques",
-      "source": "Boutiques FR (124,99 € revendeur)",
-      "type": "Bundle",
-      "id": "ev85-bundle",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 85,
-          "moy": 100,
-          "max": 125
-        }
-      ]
-    },
-    {
-      "cote": 85,
-      "fourchette": [
-        70,
-        110
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Coffret Collection Spéciale Pochette à accessoires",
-      "qte": 4,
-      "retail": 29.99,
-      "serie": "evolutions-prismatiques",
-      "source": "Boutiques FR (109,99 € revendeur)",
-      "type": "Coffret",
-      "id": "ev85-pochette",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 70,
-          "moy": 85,
-          "max": 110
-        }
-      ]
-    },
-    {
-      "cote": 50,
-      "fourchette": [
-        40,
-        65
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Coffret Boîte surprise Évolutions Prismatiques",
-      "qte": 5,
-      "retail": 24.99,
-      "serie": "evolutions-prismatiques",
-      "source": "Boutiques FR (64,99 € revendeur)",
-      "type": "Coffret",
-      "id": "ev85-surprise",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 40,
-          "moy": 50,
-          "max": 65
-        }
-      ]
-    },
-    {
-      "cote": 30,
-      "fourchette": [
-        25,
-        35
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Tripack Foudre Noire",
-      "qte": 1,
-      "retail": 19.99,
-      "serie": "foudre-noire-flamme-blanche",
-      "source": "Estimation (boosters + promo)",
-      "type": "Tripack",
-      "id": "fn-tripack",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 25,
-          "moy": 30,
-          "max": 35
-        }
-      ]
-    },
-    {
-      "cote": 35,
-      "fourchette": [
-        30,
-        40
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Coffret Collection Poster Foudre Noire & Flamme Blanche",
-      "qte": 2,
-      "retail": 24.99,
-      "serie": "foudre-noire-flamme-blanche",
-      "source": "PkmCards FR",
-      "type": "Coffret",
-      "id": "fnfb-poster",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 30,
-          "moy": 35,
-          "max": 40
-        }
-      ]
-    },
-    {
-      "cote": 55,
-      "fourchette": [
-        45,
-        67
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Coffret Collection Illustration Victini",
-      "qte": 1,
-      "retail": 39.99,
-      "serie": "foudre-noire-flamme-blanche",
-      "source": "Boutiques FR",
-      "type": "Coffret",
-      "id": "fnfb-victini",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 45,
-          "moy": 55,
-          "max": 67
-        }
-      ]
-    },
-    {
-      "cote": 7,
-      "fourchette": [
-        6,
-        9
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:20:00+02:00",
-      "nom": "Booster Méga-Évolution",
-      "note": "blister carton · Florizarre, Gardevoir, Lucario, Kangourex",
-      "qte": 4,
-      "retail": 6.5,
-      "serie": "mega-evolution",
-      "source": "PkmCards / CardNexus FR",
-      "type": "Booster",
-      "id": "me01-booster",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 6,
-          "moy": 7,
-          "max": 9
-        }
-      ]
-    },
-    {
-      "cote": 22,
-      "fourchette": [
-        18,
-        26
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:40:00+02:00",
-      "nom": "Tripack Méga-Évolution",
-      "note": "promos Akwakwak et Psykokwak",
-      "qte": 2,
-      "retail": 19.99,
-      "serie": "mega-evolution",
-      "source": "Estimation (boosters + promo)",
-      "type": "Tripack",
-      "id": "me01-tripack",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 18,
-          "moy": 22,
-          "max": 26
-        }
-      ]
-    },
-    {
-      "cote": 9,
-      "fourchette": [
-        7,
-        12
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:20:00+02:00",
-      "nom": "Booster Flammes Fantasmagoriques",
-      "note": "blister carton · illustration Dracaufeu",
-      "qte": 1,
-      "retail": 6.5,
-      "serie": "flammes-fantasmagoriques",
-      "source": "Estimation d'après displays FR Leboncoin",
-      "type": "Booster",
-      "id": "me02-booster",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 7,
-          "moy": 9,
-          "max": 12
-        }
-      ]
-    },
-    {
-      "cote": 100,
-      "fourchette": [
-        85,
-        120
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:00:00+02:00",
-      "nom": "Coffret Dresseur d'Élite (ETB) Méga-Dracaufeu X",
-      "qte": 1,
-      "retail": 59.99,
-      "serie": "flammes-fantasmagoriques",
-      "source": "Annonces Leboncoin FR scellé",
-      "type": "ETB",
-      "id": "me02-etb",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 85,
-          "moy": 100,
-          "max": 120
-        }
-      ]
-    },
-    {
-      "cote": 30,
-      "fourchette": [
-        25,
-        45
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:00:00+02:00",
-      "nom": "Tripack Flammes Fantasmagoriques",
-      "qte": 1,
-      "retail": 22.9,
-      "serie": "flammes-fantasmagoriques",
-      "source": "Annonces Leboncoin FR scellé",
-      "type": "Tripack",
-      "id": "me02-tripack",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 25,
-          "moy": 30,
-          "max": 45
-        }
-      ]
-    },
-    {
-      "cote": 200,
-      "fourchette": [
-        180,
-        240
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:00:00+02:00",
-      "nom": "Ultra Premium Collection Méga-Dracaufeu X",
-      "qte": 1,
-      "retail": 169,
-      "serie": "flammes-fantasmagoriques",
-      "source": "Annonces Leboncoin FR scellé",
-      "type": "UPC",
-      "id": "me02-upc",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 180,
-          "moy": 200,
-          "max": 240
-        }
-      ]
-    },
-    {
-      "cote": 46,
-      "fourchette": [
-        40,
-        50
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:00:00+02:00",
-      "nom": "Bundle 6 boosters Héros Transcendants",
-      "qte": 1,
-      "retail": 35.99,
-      "serie": "heros-transcendants",
-      "source": "Boutiques FR, oct. 2026",
-      "type": "Bundle",
-      "id": "me025-bundle",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 40,
-          "moy": 46,
-          "max": 50
-        }
-      ]
-    },
-    {
-      "cote": 110,
-      "fourchette": [
-        95,
-        125
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:00:00+02:00",
-      "nom": "Coffret Dresseur d'Élite (ETB) Méga-Dracolosse",
-      "qte": 4,
-      "retail": 59.99,
-      "serie": "heros-transcendants",
-      "source": "Annonces Leboncoin FR scellé",
-      "type": "ETB",
-      "id": "me025-etb",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 95,
-          "moy": 110,
-          "max": 125
-        }
-      ]
-    },
-    {
-      "cote": 28,
-      "fourchette": [
-        22,
-        40
-      ],
-      "langue": "FR",
-      "maj": "2026-10-18T16:20:00+02:00",
-      "nom": "Mini-Tin Héros Transcendants (Pikachu & Gruikui)",
-      "note": "2 boosters",
-      "qte": 1,
-      "retail": 11.99,
-      "serie": "heros-transcendants",
-      "source": "Boutiques FR (11,99 € en sortie, 39,99 € en revendeur)",
-      "type": "Mini-Tin",
-      "id": "me025-minitin",
-      "historique": [
-        {
-          "d": "2026-10-18",
-          "bas": 22,
-          "moy": 28,
-          "max": 40
-        }
-      ]
+     "d": "2026-10-18",
+     "bas": 75,
+     "moy": 85,
+     "max": 90
     }
-  ]
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb 30 ans pokemon) via Pokescam"
+  },
+  {
+   "cote": 133,
+   "fourchette": [
+    113,
+    173
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:00:00+02:00",
+   "nom": "Coffret Dresseur d'Élite (ETB) 30e Anniversaire",
+   "qte": 1,
+   "retail": 59.99,
+   "serie": "30-ans",
+   "source": "Cote Cardmarket (via Pokescam), 18 oct. 2026",
+   "type": "ETB",
+   "id": "30-ans-etb",
+   "historique": [
+    {
+     "d": "2026-09-21",
+     "bas": 144,
+     "moy": 170,
+     "max": 221,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 125,
+     "moy": 147,
+     "max": 191,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 122,
+     "moy": 144,
+     "max": 188,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 118,
+     "moy": 139,
+     "max": 181,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 117,
+     "moy": 137,
+     "max": 179,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 115,
+     "moy": 135,
+     "max": 176,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 114,
+     "moy": 134,
+     "max": 174,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 113,
+     "moy": 133,
+     "max": 173,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 113,
+     "moy": 133,
+     "max": 173,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 112,
+     "moy": 132,
+     "max": 172,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 112,
+     "moy": 132,
+     "max": 172,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 112,
+     "moy": 132,
+     "max": 171,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 112,
+     "moy": 132,
+     "max": 171,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 111,
+     "moy": 131,
+     "max": 171,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 111,
+     "moy": 131,
+     "max": 171,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 111,
+     "moy": 131,
+     "max": 170,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 112,
+     "moy": 132,
+     "max": 171,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 112,
+     "moy": 132,
+     "max": 171,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 112,
+     "moy": 131,
+     "max": 171,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 112,
+     "moy": 132,
+     "max": 172,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 113,
+     "moy": 133,
+     "max": 173
+    }
+   ],
+   "cotePrev": 200,
+   "histSource": "Cote Cardmarket de ce produit via Pokescam"
+  },
+  {
+   "cote": 35,
+   "fourchette": [
+    30,
+    45
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Coffret Journée Pokémon 2026",
+   "qte": 1,
+   "retail": 24.9,
+   "serie": "mega-evolution",
+   "source": "Boutiques FR (34,99 € revendeur)",
+   "type": "Coffret",
+   "id": "30-ans-journee-2026",
+   "note": "1 booster Méga-Évolution + 2 Flammes Fantasmagoriques · promo Pikachu",
+   "historique": [
+    {
+     "d": "2026-04-07",
+     "bas": 31,
+     "moy": 36,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 27,
+     "moy": 31,
+     "max": 40,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 28,
+     "moy": 33,
+     "max": 42,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 30,
+     "moy": 35,
+     "max": 44,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 30,
+     "moy": 35,
+     "max": 44,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 32,
+     "moy": 38,
+     "max": 48,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 34,
+     "moy": 40,
+     "max": 52,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 35,
+     "moy": 41,
+     "max": 52,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 35,
+     "moy": 40,
+     "max": 52,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 35,
+     "moy": 40,
+     "max": 52,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 34,
+     "moy": 39,
+     "max": 50,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 33,
+     "moy": 38,
+     "max": 49,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 32,
+     "moy": 37,
+     "max": 48,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 32,
+     "moy": 37,
+     "max": 48,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 31,
+     "moy": 36,
+     "max": 47,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 31,
+     "moy": 36,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 32,
+     "moy": 37,
+     "max": 48,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 32,
+     "moy": 37,
+     "max": 48,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 31,
+     "moy": 36,
+     "max": 47,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 31,
+     "moy": 36,
+     "max": 47,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 31,
+     "moy": 36,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 30,
+     "moy": 36,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 30,
+     "moy": 36,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 30,
+     "moy": 35,
+     "max": 45,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 30,
+     "moy": 35,
+     "max": 44,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 30,
+     "moy": 35,
+     "max": 45
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display mega evolution) via Pokescam"
+  },
+  {
+   "cote": 50,
+   "fourchette": [
+    40,
+    60
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:00:00+02:00",
+   "nom": "Pokébox 30e Anniversaire (Nymphali-ex / Amphinobi-ex)",
+   "qte": 4,
+   "retail": 24.99,
+   "serie": "30-ans",
+   "source": "Leboncoin + boutiques FR, oct. 2026",
+   "type": "Pokébox",
+   "id": "30-ans-pokebox",
+   "historique": [
+    {
+     "d": "2026-09-21",
+     "bas": 51,
+     "moy": 64,
+     "max": 77,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 44,
+     "moy": 55,
+     "max": 66,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 43,
+     "moy": 54,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 42,
+     "moy": 52,
+     "max": 63,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 41,
+     "moy": 52,
+     "max": 62,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 41,
+     "moy": 51,
+     "max": 61,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 40,
+     "moy": 50,
+     "max": 60,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 40,
+     "moy": 50,
+     "max": 60,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 40,
+     "moy": 50,
+     "max": 60,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 40,
+     "moy": 50,
+     "max": 59,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 40,
+     "moy": 50,
+     "max": 59,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 40,
+     "moy": 49,
+     "max": 59,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 40,
+     "moy": 49,
+     "max": 59,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 39,
+     "moy": 49,
+     "max": 59,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 39,
+     "moy": 49,
+     "max": 59,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 39,
+     "moy": 49,
+     "max": 59,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 40,
+     "moy": 49,
+     "max": 59,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 40,
+     "moy": 49,
+     "max": 59,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 40,
+     "moy": 49,
+     "max": 59,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 40,
+     "moy": 50,
+     "max": 60,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 40,
+     "moy": 50,
+     "max": 60
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb 30 ans pokemon) via Pokescam"
+  },
+  {
+   "cote": 25,
+   "fourchette": [
+    20,
+    30
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Collection Illustration Premiers Partenaires Série 1",
+   "note": "abîmé · booster Premiers Partenaires + Méga-Évolution + Flammes Fantasmagoriques",
+   "qte": 1,
+   "retail": 19.99,
+   "serie": "mega-evolution",
+   "source": "Boutiques FR, décote pour l'état",
+   "type": "Coffret",
+   "id": "30-ans-premiers-partenaires-s1",
+   "historique": [
+    {
+     "d": "2026-04-07",
+     "bas": 21,
+     "moy": 26,
+     "max": 31,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 18,
+     "moy": 22,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 19,
+     "moy": 24,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 21,
+     "moy": 27,
+     "max": 32,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 23,
+     "moy": 29,
+     "max": 34,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 23,
+     "moy": 29,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 23,
+     "moy": 29,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 23,
+     "moy": 29,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 22,
+     "moy": 28,
+     "max": 34,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 22,
+     "moy": 27,
+     "max": 33,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 21,
+     "moy": 27,
+     "max": 32,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 21,
+     "moy": 26,
+     "max": 32,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 21,
+     "moy": 26,
+     "max": 31,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 21,
+     "moy": 26,
+     "max": 31,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 21,
+     "moy": 27,
+     "max": 32,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 21,
+     "moy": 26,
+     "max": 32,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 21,
+     "moy": 26,
+     "max": 31,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 21,
+     "moy": 26,
+     "max": 31,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 20,
+     "moy": 26,
+     "max": 31,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 20,
+     "moy": 25,
+     "max": 30
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display mega evolution) via Pokescam"
+  },
+  {
+   "cote": 25,
+   "fourchette": [
+    20,
+    30
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:20:00+02:00",
+   "nom": "Booster Évolution Céleste",
+   "note": "loose · illustration Rayquaza",
+   "qte": 1,
+   "retail": 4.99,
+   "serie": "evolution-celeste",
+   "source": "PkmCards / CardNexus FR, eBay FR",
+   "type": "Booster",
+   "id": "eb07-booster",
+   "historique": [
+    {
+     "d": "2025-08-16",
+     "bas": 13,
+     "moy": 17,
+     "max": 20,
+     "rec": 1
+    },
+    {
+     "d": "2025-09-21",
+     "bas": 13,
+     "moy": 17,
+     "max": 20,
+     "rec": 1
+    },
+    {
+     "d": "2025-11-11",
+     "bas": 12,
+     "moy": 15,
+     "max": 18,
+     "rec": 1
+    },
+    {
+     "d": "2025-12-21",
+     "bas": 12,
+     "moy": 15,
+     "max": 18,
+     "rec": 1
+    },
+    {
+     "d": "2026-01-23",
+     "bas": 13,
+     "moy": 16,
+     "max": 19,
+     "rec": 1
+    },
+    {
+     "d": "2026-04-07",
+     "bas": 19,
+     "moy": 24,
+     "max": 29,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 16,
+     "moy": 20,
+     "max": 23,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 16,
+     "moy": 20,
+     "max": 24,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 14,
+     "moy": 18,
+     "max": 22,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 15,
+     "moy": 19,
+     "max": 23,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 16,
+     "moy": 20,
+     "max": 24,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 21,
+     "moy": 26,
+     "max": 32,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 21,
+     "moy": 26,
+     "max": 32,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 21,
+     "moy": 26,
+     "max": 32,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 20,
+     "moy": 25,
+     "max": 29,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 20,
+     "moy": 24,
+     "max": 29,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 20,
+     "moy": 24,
+     "max": 29,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 20,
+     "moy": 24,
+     "max": 29,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 20,
+     "moy": 24,
+     "max": 29,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 20,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 20,
+     "moy": 25,
+     "max": 30
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display evolution celeste) via Pokescam"
+  },
+  {
+   "cote": 8,
+   "fourchette": [
+    6,
+    10
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:20:00+02:00",
+   "nom": "Booster Stars Étincelantes",
+   "note": "loose · illustration Shaymin",
+   "qte": 1,
+   "retail": 4.99,
+   "serie": "stars-etincelantes",
+   "source": "PkmCards / CardNexus FR",
+   "type": "Booster",
+   "id": "eb09-booster",
+   "historique": [
+    {
+     "d": "2025-08-16",
+     "bas": 5,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2025-09-21",
+     "bas": 5,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2025-11-11",
+     "bas": 5,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2025-12-21",
+     "bas": 5,
+     "moy": 7,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-01-23",
+     "bas": 5,
+     "moy": 7,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-04-07",
+     "bas": 5,
+     "moy": 7,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 5,
+     "moy": 7,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 5,
+     "moy": 7,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 5,
+     "moy": 7,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 5,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 5,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 5,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 5,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 5,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 5,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 5,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 5,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 5,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 6,
+     "moy": 8,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 6,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 6,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 6,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 6,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 6,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 6,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 6,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 6,
+     "moy": 8,
+     "max": 10
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display stars etincelantes) via Pokescam"
+  },
+  {
+   "cote": 15,
+   "fourchette": [
+    12,
+    20
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Duopack Tokopiyon (Origine Perdue + Évolutions à Paldea)",
+   "note": "un peu abîmé",
+   "qte": 1,
+   "retail": 12.99,
+   "serie": "origine-perdue-paldea",
+   "source": "Boutiques FR (19,90 € neuf, décote pour l'état)",
+   "type": "Duopack",
+   "id": "eb11ev02-duopack",
+   "historique": [
+    {
+     "d": "2025-08-16",
+     "bas": 7,
+     "moy": 9,
+     "max": 12,
+     "rec": 1
+    },
+    {
+     "d": "2025-09-21",
+     "bas": 9,
+     "moy": 11,
+     "max": 14,
+     "rec": 1
+    },
+    {
+     "d": "2025-11-11",
+     "bas": 8,
+     "moy": 10,
+     "max": 14,
+     "rec": 1
+    },
+    {
+     "d": "2025-12-21",
+     "bas": 10,
+     "moy": 12,
+     "max": 16,
+     "rec": 1
+    },
+    {
+     "d": "2026-01-23",
+     "bas": 9,
+     "moy": 12,
+     "max": 16,
+     "rec": 1
+    },
+    {
+     "d": "2026-04-07",
+     "bas": 10,
+     "moy": 12,
+     "max": 16,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 9,
+     "moy": 11,
+     "max": 15,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 10,
+     "moy": 12,
+     "max": 16,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 9,
+     "moy": 12,
+     "max": 16,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 9,
+     "moy": 11,
+     "max": 15,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 10,
+     "moy": 12,
+     "max": 16,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 11,
+     "moy": 14,
+     "max": 18,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 11,
+     "moy": 14,
+     "max": 18,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 11,
+     "moy": 14,
+     "max": 18,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 11,
+     "moy": 14,
+     "max": 19,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 11,
+     "moy": 14,
+     "max": 19,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 12,
+     "moy": 15,
+     "max": 20,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 12,
+     "moy": 15,
+     "max": 20,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 12,
+     "moy": 15,
+     "max": 19,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 12,
+     "moy": 15,
+     "max": 19,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 11,
+     "moy": 14,
+     "max": 19,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 12,
+     "moy": 15,
+     "max": 20,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 11,
+     "moy": 14,
+     "max": 19,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 11,
+     "moy": 13,
+     "max": 18,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 11,
+     "moy": 13,
+     "max": 18,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 12,
+     "moy": 15,
+     "max": 20,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 12,
+     "moy": 15,
+     "max": 20,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 12,
+     "moy": 15,
+     "max": 21,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 12,
+     "moy": 15,
+     "max": 21,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 12,
+     "moy": 15,
+     "max": 20
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display origine perdue) via Pokescam"
+  },
+  {
+   "cote": 7,
+   "fourchette": [
+    6,
+    9
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:20:00+02:00",
+   "nom": "Booster Flammes Obsidiennes",
+   "note": "blister plastique",
+   "qte": 1,
+   "retail": 6.5,
+   "serie": "flammes-obsidiennes",
+   "source": "Boutiques FR",
+   "type": "Booster",
+   "id": "ev03-booster",
+   "historique": [
+    {
+     "d": "2025-08-16",
+     "bas": 9,
+     "moy": 11,
+     "max": 14,
+     "rec": 1
+    },
+    {
+     "d": "2025-09-21",
+     "bas": 9,
+     "moy": 10,
+     "max": 13,
+     "rec": 1
+    },
+    {
+     "d": "2025-11-11",
+     "bas": 7,
+     "moy": 8,
+     "max": 11,
+     "rec": 1
+    },
+    {
+     "d": "2025-12-21",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-01-23",
+     "bas": 6,
+     "moy": 7,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-04-07",
+     "bas": 7,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 7,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 7,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 6,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 6,
+     "moy": 7,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 6,
+     "moy": 7,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 6,
+     "moy": 7,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 7,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 6,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 6,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 6,
+     "moy": 7,
+     "max": 9
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display flammes obsidiennes) via Pokescam"
+  },
+  {
+   "cote": 6,
+   "fourchette": [
+    5,
+    8
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:20:00+02:00",
+   "nom": "Booster Couronne Stellaire",
+   "note": "loose · illustration Terapagos",
+   "qte": 1,
+   "retail": 6.5,
+   "serie": "couronne-stellaire",
+   "source": "PkmCards / CardNexus FR",
+   "type": "Booster",
+   "id": "ev07-booster",
+   "historique": [
+    {
+     "d": "2025-08-16",
+     "bas": 4,
+     "moy": 5,
+     "max": 7,
+     "rec": 1
+    },
+    {
+     "d": "2025-09-21",
+     "bas": 5,
+     "moy": 6,
+     "max": 7,
+     "rec": 1
+    },
+    {
+     "d": "2025-11-11",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2025-12-21",
+     "bas": 5,
+     "moy": 6,
+     "max": 7,
+     "rec": 1
+    },
+    {
+     "d": "2026-01-23",
+     "bas": 4,
+     "moy": 5,
+     "max": 7,
+     "rec": 1
+    },
+    {
+     "d": "2026-04-07",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 4,
+     "moy": 5,
+     "max": 7,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 4,
+     "moy": 5,
+     "max": 7,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 4,
+     "moy": 5,
+     "max": 6,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 4,
+     "moy": 5,
+     "max": 7,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 4,
+     "moy": 5,
+     "max": 7,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 5,
+     "moy": 6,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 5,
+     "moy": 6,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 5,
+     "moy": 6,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 5,
+     "moy": 6,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 5,
+     "moy": 6,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 5,
+     "moy": 6,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 5,
+     "moy": 6,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 5,
+     "moy": 6,
+     "max": 8
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display couronne stellaire) via Pokescam"
+  },
+  {
+   "cote": 7,
+   "fourchette": [
+    6,
+    9
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:20:00+02:00",
+   "nom": "Booster Étincelles Déferlantes",
+   "note": "blister plastique",
+   "qte": 2,
+   "retail": 6.5,
+   "serie": "etincelles-deferlantes",
+   "source": "PkmCards / CardNexus FR",
+   "type": "Booster",
+   "id": "ev08-booster",
+   "historique": [
+    {
+     "d": "2025-08-16",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2025-09-21",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2025-11-11",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2025-12-21",
+     "bas": 6,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-01-23",
+     "bas": 5,
+     "moy": 6,
+     "max": 7,
+     "rec": 1
+    },
+    {
+     "d": "2026-04-07",
+     "bas": 6,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 5,
+     "moy": 6,
+     "max": 7,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 6,
+     "moy": 7,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 6,
+     "moy": 7,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 6,
+     "moy": 7,
+     "max": 9
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display etincelles deferlantes) via Pokescam"
+  },
+  {
+   "cote": 22,
+   "fourchette": [
+    18,
+    26
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Tripack Étincelles Déferlantes",
+   "qte": 1,
+   "retail": 19.99,
+   "serie": "etincelles-deferlantes",
+   "source": "Estimation (boosters + promo)",
+   "type": "Tripack",
+   "id": "ev08-tripack",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 13,
+     "moy": 16,
+     "max": 19,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 15,
+     "moy": 18,
+     "max": 21,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 15,
+     "moy": 18,
+     "max": 21,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 17,
+     "moy": 20,
+     "max": 24,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 17,
+     "moy": 20,
+     "max": 24,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 17,
+     "moy": 20,
+     "max": 24,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 17,
+     "moy": 21,
+     "max": 25,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 17,
+     "moy": 21,
+     "max": 25,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 17,
+     "moy": 21,
+     "max": 25,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 17,
+     "moy": 21,
+     "max": 25,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 17,
+     "moy": 21,
+     "max": 25,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 17,
+     "moy": 21,
+     "max": 25,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 17,
+     "moy": 21,
+     "max": 25,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 18,
+     "moy": 22,
+     "max": 26
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb etincelles deferlantes) via Pokescam"
+  },
+  {
+   "cote": 45,
+   "fourchette": [
+    38,
+    55
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Valise Étincelles Déferlantes",
+   "note": "6 boosters",
+   "qte": 1,
+   "retail": 39.99,
+   "serie": "etincelles-deferlantes",
+   "source": "Boutiques FR",
+   "type": "Valise",
+   "id": "ev08-valise",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 28,
+     "moy": 34,
+     "max": 41,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 31,
+     "moy": 37,
+     "max": 45,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 31,
+     "moy": 37,
+     "max": 45,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 35,
+     "moy": 41,
+     "max": 50,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 35,
+     "moy": 42,
+     "max": 51,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 35,
+     "moy": 42,
+     "max": 51,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 36,
+     "moy": 43,
+     "max": 52,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 37,
+     "moy": 44,
+     "max": 53,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 37,
+     "moy": 43,
+     "max": 53,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 37,
+     "moy": 43,
+     "max": 53,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 37,
+     "moy": 43,
+     "max": 53,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 36,
+     "moy": 43,
+     "max": 52,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 37,
+     "moy": 44,
+     "max": 53,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 37,
+     "moy": 44,
+     "max": 54,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 38,
+     "moy": 44,
+     "max": 54,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 38,
+     "moy": 45,
+     "max": 54,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 38,
+     "moy": 45,
+     "max": 54,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 38,
+     "moy": 45,
+     "max": 54,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 38,
+     "moy": 45,
+     "max": 54,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 38,
+     "moy": 45,
+     "max": 55,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 38,
+     "moy": 45,
+     "max": 55,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 38,
+     "moy": 45,
+     "max": 55,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 38,
+     "moy": 45,
+     "max": 55
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb etincelles deferlantes) via Pokescam"
+  },
+  {
+   "cote": 6,
+   "fourchette": [
+    5,
+    8
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:20:00+02:00",
+   "nom": "Booster Aventures Ensemble",
+   "note": "blister plastique",
+   "qte": 3,
+   "retail": 6.5,
+   "serie": "aventures-ensemble",
+   "source": "Cote display Cardmarket ÷ 36",
+   "type": "Booster",
+   "id": "ev09-booster",
+   "historique": [
+    {
+     "d": "2025-08-16",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2025-09-21",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2025-11-11",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2025-12-21",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-01-23",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-04-07",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 4,
+     "moy": 5,
+     "max": 7,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 4,
+     "moy": 5,
+     "max": 7,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 5,
+     "moy": 6,
+     "max": 8
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display aventures ensemble) via Pokescam"
+  },
+  {
+   "cote": 83,
+   "fourchette": [
+    72,
+    94
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Coffret Dresseur d'Élite (ETB) Aventures Ensemble",
+   "qte": 2,
+   "retail": 59.99,
+   "serie": "aventures-ensemble",
+   "source": "Cote Cardmarket (via Pokescam), 18 oct. 2026",
+   "type": "ETB",
+   "id": "ev09-etb",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 58,
+     "moy": 67,
+     "max": 76,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 59,
+     "moy": 68,
+     "max": 77,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 58,
+     "moy": 67,
+     "max": 76,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 72,
+     "moy": 83,
+     "max": 94,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 73,
+     "moy": 84,
+     "max": 95,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 71,
+     "moy": 82,
+     "max": 93,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 71,
+     "moy": 81,
+     "max": 92,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 71,
+     "moy": 81,
+     "max": 92,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 71,
+     "moy": 82,
+     "max": 92,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 72,
+     "moy": 83,
+     "max": 94,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 72,
+     "moy": 83,
+     "max": 94,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 73,
+     "moy": 85,
+     "max": 96,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 73,
+     "moy": 85,
+     "max": 96,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 75,
+     "moy": 86,
+     "max": 97,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 75,
+     "moy": 86,
+     "max": 97,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 74,
+     "moy": 86,
+     "max": 97,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 75,
+     "moy": 86,
+     "max": 97,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 74,
+     "moy": 85,
+     "max": 97,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 74,
+     "moy": 85,
+     "max": 97,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 73,
+     "moy": 84,
+     "max": 95,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 73,
+     "moy": 84,
+     "max": 95,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 73,
+     "moy": 85,
+     "max": 96,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 72,
+     "moy": 83,
+     "max": 94
+    }
+   ],
+   "cotePrev": 75,
+   "histSource": "Cote Cardmarket de ce produit via Pokescam"
+  },
+  {
+   "cote": 7,
+   "fourchette": [
+    6,
+    9
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:20:00+02:00",
+   "nom": "Booster Rivalités Destinées",
+   "note": "blister carton · Mewtwo, Carchacrok, Ho-Oh",
+   "qte": 3,
+   "retail": 6.5,
+   "serie": "rivalites-destinees",
+   "source": "PkmCards / CardNexus FR",
+   "type": "Booster",
+   "id": "ev10-booster",
+   "historique": [
+    {
+     "d": "2025-08-16",
+     "bas": 6,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2025-09-21",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2025-11-11",
+     "bas": 6,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2025-12-21",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-01-23",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-04-07",
+     "bas": 6,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 6,
+     "moy": 7,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 6,
+     "moy": 7,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 6,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 6,
+     "moy": 7,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 6,
+     "moy": 7,
+     "max": 9
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display rivalites destinees) via Pokescam"
+  },
+  {
+   "cote": 130,
+   "fourchette": [
+    115,
+    150
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Demi-display Rivalités Destinées (18 boosters)",
+   "qte": 1,
+   "retail": 99.99,
+   "serie": "rivalites-destinees",
+   "source": "Amazon / boosters à l'unité FR",
+   "type": "Demi-display",
+   "id": "ev10-demidisplay",
+   "historique": [
+    {
+     "d": "2025-08-16",
+     "bas": 107,
+     "moy": 121,
+     "max": 139,
+     "rec": 1
+    },
+    {
+     "d": "2025-09-21",
+     "bas": 104,
+     "moy": 118,
+     "max": 136,
+     "rec": 1
+    },
+    {
+     "d": "2025-11-11",
+     "bas": 106,
+     "moy": 120,
+     "max": 139,
+     "rec": 1
+    },
+    {
+     "d": "2025-12-21",
+     "bas": 102,
+     "moy": 116,
+     "max": 134,
+     "rec": 1
+    },
+    {
+     "d": "2026-01-23",
+     "bas": 112,
+     "moy": 127,
+     "max": 147,
+     "rec": 1
+    },
+    {
+     "d": "2026-04-07",
+     "bas": 123,
+     "moy": 139,
+     "max": 161,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 122,
+     "moy": 138,
+     "max": 159,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 108,
+     "moy": 122,
+     "max": 141,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 110,
+     "moy": 124,
+     "max": 143,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 106,
+     "moy": 120,
+     "max": 138,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 114,
+     "moy": 128,
+     "max": 148,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 114,
+     "moy": 129,
+     "max": 149,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 115,
+     "moy": 130,
+     "max": 149,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 114,
+     "moy": 129,
+     "max": 149,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 114,
+     "moy": 129,
+     "max": 149,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 110,
+     "moy": 125,
+     "max": 144,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 108,
+     "moy": 122,
+     "max": 141,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 110,
+     "moy": 124,
+     "max": 143,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 110,
+     "moy": 124,
+     "max": 143,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 109,
+     "moy": 124,
+     "max": 143,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 111,
+     "moy": 126,
+     "max": 145,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 111,
+     "moy": 126,
+     "max": 145,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 112,
+     "moy": 126,
+     "max": 146,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 114,
+     "moy": 129,
+     "max": 149,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 114,
+     "moy": 128,
+     "max": 148,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 114,
+     "moy": 129,
+     "max": 148,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 113,
+     "moy": 128,
+     "max": 148,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 113,
+     "moy": 128,
+     "max": 148,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 114,
+     "moy": 129,
+     "max": 149,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 115,
+     "moy": 130,
+     "max": 150,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 115,
+     "moy": 130,
+     "max": 150
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display rivalites destinees) via Pokescam"
+  },
+  {
+   "cote": 106,
+   "fourchette": [
+    92,
+    116
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Coffret Dresseur d'Élite (ETB) Rivalités Destinées",
+   "note": "petit trou dans le blister",
+   "qte": 1,
+   "retail": 59.99,
+   "serie": "rivalites-destinees",
+   "source": "Cote Cardmarket (via Pokescam), 18 oct. 2026",
+   "type": "ETB",
+   "id": "ev10-etb",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 99,
+     "moy": 114,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 103,
+     "moy": 118,
+     "max": 130,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 103,
+     "moy": 118,
+     "max": 130,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 92,
+     "moy": 106,
+     "max": 116,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 92,
+     "moy": 106,
+     "max": 116,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 90,
+     "moy": 104,
+     "max": 114,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 90,
+     "moy": 104,
+     "max": 114,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 90,
+     "moy": 104,
+     "max": 114,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 90,
+     "moy": 104,
+     "max": 113,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 90,
+     "moy": 103,
+     "max": 113,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 89,
+     "moy": 103,
+     "max": 113,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 89,
+     "moy": 103,
+     "max": 113,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 89,
+     "moy": 102,
+     "max": 112,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 88,
+     "moy": 101,
+     "max": 111,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 88,
+     "moy": 101,
+     "max": 111,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 88,
+     "moy": 102,
+     "max": 111,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 89,
+     "moy": 102,
+     "max": 112,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 89,
+     "moy": 102,
+     "max": 112,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 91,
+     "moy": 105,
+     "max": 114,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 94,
+     "moy": 108,
+     "max": 119,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 94,
+     "moy": 108,
+     "max": 118,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 93,
+     "moy": 107,
+     "max": 118,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 92,
+     "moy": 106,
+     "max": 116
+    }
+   ],
+   "cotePrev": 110,
+   "histSource": "Cote Cardmarket de ce produit via Pokescam"
+  },
+  {
+   "cote": 24,
+   "fourchette": [
+    20,
+    28
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Tripack Rivalités Destinées",
+   "qte": 1,
+   "retail": 19.99,
+   "serie": "rivalites-destinees",
+   "source": "Estimation (boosters + promo)",
+   "type": "Tripack",
+   "id": "ev10-tripack",
+   "historique": [
+    {
+     "d": "2025-08-16",
+     "bas": 19,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2025-09-21",
+     "bas": 18,
+     "moy": 22,
+     "max": 25,
+     "rec": 1
+    },
+    {
+     "d": "2025-11-11",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2025-12-21",
+     "bas": 18,
+     "moy": 21,
+     "max": 25,
+     "rec": 1
+    },
+    {
+     "d": "2026-01-23",
+     "bas": 20,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-04-07",
+     "bas": 21,
+     "moy": 26,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 21,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 19,
+     "moy": 23,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 20,
+     "moy": 24,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 20,
+     "moy": 24,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 20,
+     "moy": 24,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 20,
+     "moy": 24,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 20,
+     "moy": 24,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 19,
+     "moy": 23,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 20,
+     "moy": 24,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 20,
+     "moy": 24,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 20,
+     "moy": 24,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 20,
+     "moy": 24,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 20,
+     "moy": 24,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 20,
+     "moy": 24,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 20,
+     "moy": 24,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 20,
+     "moy": 24,
+     "max": 28
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display rivalites destinees) via Pokescam"
+  },
+  {
+   "cote": 100,
+   "fourchette": [
+    85,
+    125
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Bundle 6 boosters Destinées de Paldea",
+   "qte": 1,
+   "retail": 35.99,
+   "serie": "destinees-de-paldea",
+   "source": "Boutiques FR (124,99 € revendeur)",
+   "type": "Bundle",
+   "id": "ev45-bundle",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 61,
+     "moy": 71,
+     "max": 89,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 65,
+     "moy": 77,
+     "max": 96,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 57,
+     "moy": 67,
+     "max": 84,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 85,
+     "moy": 99,
+     "max": 124,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 80,
+     "moy": 94,
+     "max": 118,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 77,
+     "moy": 91,
+     "max": 113,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 77,
+     "moy": 91,
+     "max": 113,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 79,
+     "moy": 93,
+     "max": 117,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 81,
+     "moy": 96,
+     "max": 119,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 87,
+     "moy": 103,
+     "max": 129,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 87,
+     "moy": 102,
+     "max": 128,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 87,
+     "moy": 103,
+     "max": 128,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 87,
+     "moy": 103,
+     "max": 128,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 87,
+     "moy": 102,
+     "max": 128,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 87,
+     "moy": 102,
+     "max": 128,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 87,
+     "moy": 102,
+     "max": 128,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 85,
+     "moy": 100,
+     "max": 125
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb destinees de paldea) via Pokescam"
+  },
+  {
+   "cote": 48,
+   "fourchette": [
+    40,
+    55
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Pokébox Destinées de Paldea Dracaufeu",
+   "note": "promo Dracaufeu",
+   "qte": 2,
+   "retail": 24.99,
+   "serie": "destinees-de-paldea",
+   "source": "PkmCards FR",
+   "type": "Pokébox",
+   "id": "ev45-pokebox",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 29,
+     "moy": 34,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 31,
+     "moy": 37,
+     "max": 42,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 27,
+     "moy": 32,
+     "max": 37,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 40,
+     "moy": 48,
+     "max": 55,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 40,
+     "moy": 48,
+     "max": 55,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 40,
+     "moy": 48,
+     "max": 55,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 38,
+     "moy": 45,
+     "max": 52,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 36,
+     "moy": 44,
+     "max": 50,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 36,
+     "moy": 44,
+     "max": 50,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 37,
+     "moy": 45,
+     "max": 51,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 38,
+     "moy": 46,
+     "max": 53,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 41,
+     "moy": 49,
+     "max": 57,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 40,
+     "moy": 48,
+     "max": 55,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 40,
+     "moy": 48,
+     "max": 55,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 40,
+     "moy": 48,
+     "max": 55,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 41,
+     "moy": 49,
+     "max": 56,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 41,
+     "moy": 49,
+     "max": 56,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 41,
+     "moy": 49,
+     "max": 56,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 41,
+     "moy": 49,
+     "max": 56,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 41,
+     "moy": 49,
+     "max": 56,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 41,
+     "moy": 49,
+     "max": 56,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 40,
+     "moy": 48,
+     "max": 55
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb destinees de paldea) via Pokescam"
+  },
+  {
+   "cote": 25,
+   "fourchette": [
+    22,
+    38
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Tripack Destinées de Paldea",
+   "qte": 1,
+   "retail": 19.99,
+   "serie": "destinees-de-paldea",
+   "source": "PkmCards FR (22 € à 38 € selon la promo)",
+   "type": "Tripack",
+   "id": "ev45-tripack",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 16,
+     "moy": 18,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 17,
+     "moy": 19,
+     "max": 29,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 15,
+     "moy": 17,
+     "max": 25,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 22,
+     "moy": 25,
+     "max": 38,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 22,
+     "moy": 25,
+     "max": 38,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 22,
+     "moy": 25,
+     "max": 38,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 21,
+     "moy": 24,
+     "max": 36,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 20,
+     "moy": 23,
+     "max": 34,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 20,
+     "moy": 23,
+     "max": 34,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 21,
+     "moy": 23,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 21,
+     "moy": 24,
+     "max": 36,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 23,
+     "moy": 26,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 22,
+     "moy": 25,
+     "max": 38,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 22,
+     "moy": 25,
+     "max": 38,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 22,
+     "moy": 25,
+     "max": 38,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 22,
+     "moy": 26,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 23,
+     "moy": 26,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 23,
+     "moy": 26,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 22,
+     "moy": 26,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 22,
+     "moy": 26,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 23,
+     "moy": 26,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 22,
+     "moy": 25,
+     "max": 38
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb destinees de paldea) via Pokescam"
+  },
+  {
+   "cote": 100,
+   "fourchette": [
+    85,
+    125
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Bundle 6 boosters Évolutions Prismatiques",
+   "qte": 2,
+   "retail": 35.99,
+   "serie": "evolutions-prismatiques",
+   "source": "Boutiques FR (124,99 € revendeur)",
+   "type": "Bundle",
+   "id": "ev85-bundle",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 62,
+     "moy": 73,
+     "max": 92,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 62,
+     "moy": 73,
+     "max": 91,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 73,
+     "moy": 86,
+     "max": 108,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 87,
+     "moy": 102,
+     "max": 128,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 87,
+     "moy": 103,
+     "max": 129,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 86,
+     "moy": 101,
+     "max": 127,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 85,
+     "moy": 101,
+     "max": 126,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 86,
+     "moy": 101,
+     "max": 126,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 87,
+     "moy": 102,
+     "max": 127,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 85,
+     "moy": 100,
+     "max": 125,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 86,
+     "moy": 101,
+     "max": 126,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 85,
+     "moy": 100,
+     "max": 125
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb evolutions prismatiques) via Pokescam"
+  },
+  {
+   "cote": 85,
+   "fourchette": [
+    70,
+    110
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Coffret Collection Spéciale Pochette à accessoires",
+   "qte": 4,
+   "retail": 29.99,
+   "serie": "evolutions-prismatiques",
+   "source": "Boutiques FR (109,99 € revendeur)",
+   "type": "Coffret",
+   "id": "ev85-pochette",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 51,
+     "moy": 62,
+     "max": 81,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 51,
+     "moy": 62,
+     "max": 80,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 60,
+     "moy": 73,
+     "max": 95,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 71,
+     "moy": 87,
+     "max": 112,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 72,
+     "moy": 87,
+     "max": 113,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 71,
+     "moy": 86,
+     "max": 112,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 70,
+     "moy": 85,
+     "max": 111,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 70,
+     "moy": 85,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 70,
+     "moy": 85,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 70,
+     "moy": 85,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 70,
+     "moy": 85,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 71,
+     "moy": 86,
+     "max": 111,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 71,
+     "moy": 87,
+     "max": 112,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 70,
+     "moy": 85,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 70,
+     "moy": 85,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 70,
+     "moy": 85,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 70,
+     "moy": 85,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 70,
+     "moy": 85,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 70,
+     "moy": 85,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 70,
+     "moy": 85,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 70,
+     "moy": 85,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 70,
+     "moy": 86,
+     "max": 111,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 70,
+     "moy": 85,
+     "max": 110
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb evolutions prismatiques) via Pokescam"
+  },
+  {
+   "cote": 50,
+   "fourchette": [
+    40,
+    65
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Coffret Boîte surprise Évolutions Prismatiques",
+   "qte": 5,
+   "retail": 24.99,
+   "serie": "evolutions-prismatiques",
+   "source": "Boutiques FR (64,99 € revendeur)",
+   "type": "Coffret",
+   "id": "ev85-surprise",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 29,
+     "moy": 37,
+     "max": 48,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 29,
+     "moy": 36,
+     "max": 47,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 34,
+     "moy": 43,
+     "max": 56,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 41,
+     "moy": 51,
+     "max": 66,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 41,
+     "moy": 51,
+     "max": 67,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 41,
+     "moy": 51,
+     "max": 66,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 40,
+     "moy": 50,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 40,
+     "moy": 50,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 40,
+     "moy": 50,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 40,
+     "moy": 50,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 40,
+     "moy": 50,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 40,
+     "moy": 50,
+     "max": 66,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 41,
+     "moy": 51,
+     "max": 66,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 40,
+     "moy": 50,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 40,
+     "moy": 50,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 40,
+     "moy": 50,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 40,
+     "moy": 50,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 40,
+     "moy": 50,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 40,
+     "moy": 50,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 40,
+     "moy": 50,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 40,
+     "moy": 50,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 40,
+     "moy": 50,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 40,
+     "moy": 50,
+     "max": 65
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb evolutions prismatiques) via Pokescam"
+  },
+  {
+   "cote": 30,
+   "fourchette": [
+    25,
+    35
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Tripack Foudre Noire",
+   "qte": 1,
+   "retail": 19.99,
+   "serie": "foudre-noire-flamme-blanche",
+   "source": "Estimation (boosters + promo)",
+   "type": "Tripack",
+   "id": "fn-tripack",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 18,
+     "moy": 22,
+     "max": 25,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 18,
+     "moy": 22,
+     "max": 25,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 22,
+     "moy": 27,
+     "max": 31,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 26,
+     "moy": 31,
+     "max": 36,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 25,
+     "moy": 30,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 25,
+     "moy": 30,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 25,
+     "moy": 30,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 25,
+     "moy": 30,
+     "max": 34,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 24,
+     "moy": 29,
+     "max": 34,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 25,
+     "moy": 30,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 24,
+     "moy": 29,
+     "max": 34,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 25,
+     "moy": 30,
+     "max": 34,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 25,
+     "moy": 30,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 25,
+     "moy": 30,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 24,
+     "moy": 29,
+     "max": 34,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 25,
+     "moy": 30,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 25,
+     "moy": 30,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 25,
+     "moy": 30,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 25,
+     "moy": 30,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 25,
+     "moy": 30,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 25,
+     "moy": 30,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 25,
+     "moy": 30,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 25,
+     "moy": 30,
+     "max": 35
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb foudre noire) via Pokescam"
+  },
+  {
+   "cote": 35,
+   "fourchette": [
+    30,
+    40
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Coffret Collection Poster Foudre Noire & Flamme Blanche",
+   "qte": 2,
+   "retail": 24.99,
+   "serie": "foudre-noire-flamme-blanche",
+   "source": "PkmCards FR",
+   "type": "Coffret",
+   "id": "fnfb-poster",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 22,
+     "moy": 25,
+     "max": 29,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 22,
+     "moy": 25,
+     "max": 29,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 27,
+     "moy": 31,
+     "max": 36,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 31,
+     "moy": 36,
+     "max": 41,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 30,
+     "moy": 35,
+     "max": 40,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 30,
+     "moy": 35,
+     "max": 40,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 30,
+     "moy": 35,
+     "max": 40,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 30,
+     "moy": 34,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 29,
+     "moy": 34,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 30,
+     "moy": 35,
+     "max": 40,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 29,
+     "moy": 34,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 30,
+     "moy": 34,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 30,
+     "moy": 35,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 30,
+     "moy": 35,
+     "max": 40,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 29,
+     "moy": 34,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 30,
+     "moy": 35,
+     "max": 40,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 30,
+     "moy": 35,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 30,
+     "moy": 35,
+     "max": 40,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 30,
+     "moy": 35,
+     "max": 40,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 30,
+     "moy": 35,
+     "max": 40,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 30,
+     "moy": 35,
+     "max": 40,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 30,
+     "moy": 35,
+     "max": 40,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 30,
+     "moy": 35,
+     "max": 40
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb foudre noire) via Pokescam"
+  },
+  {
+   "cote": 55,
+   "fourchette": [
+    45,
+    67
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Coffret Collection Illustration Victini",
+   "qte": 1,
+   "retail": 39.99,
+   "serie": "foudre-noire-flamme-blanche",
+   "source": "Boutiques FR",
+   "type": "Coffret",
+   "id": "fnfb-victini",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 33,
+     "moy": 40,
+     "max": 49,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 33,
+     "moy": 40,
+     "max": 49,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 40,
+     "moy": 49,
+     "max": 60,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 46,
+     "moy": 57,
+     "max": 69,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 45,
+     "moy": 55,
+     "max": 67,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 45,
+     "moy": 55,
+     "max": 67,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 45,
+     "moy": 55,
+     "max": 67,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 44,
+     "moy": 54,
+     "max": 66,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 44,
+     "moy": 54,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 45,
+     "moy": 54,
+     "max": 66,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 44,
+     "moy": 53,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 44,
+     "moy": 54,
+     "max": 66,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 44,
+     "moy": 54,
+     "max": 66,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 45,
+     "moy": 55,
+     "max": 67,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 44,
+     "moy": 54,
+     "max": 65,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 45,
+     "moy": 55,
+     "max": 66,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 44,
+     "moy": 54,
+     "max": 66,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 45,
+     "moy": 55,
+     "max": 67,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 45,
+     "moy": 55,
+     "max": 67,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 45,
+     "moy": 55,
+     "max": 67,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 45,
+     "moy": 55,
+     "max": 66,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 45,
+     "moy": 54,
+     "max": 66,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 45,
+     "moy": 55,
+     "max": 67
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb foudre noire) via Pokescam"
+  },
+  {
+   "cote": 7,
+   "fourchette": [
+    6,
+    9
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:20:00+02:00",
+   "nom": "Booster Méga-Évolution",
+   "note": "blister carton · Florizarre, Gardevoir, Lucario, Kangourex",
+   "qte": 4,
+   "retail": 6.5,
+   "serie": "mega-evolution",
+   "source": "PkmCards / CardNexus FR",
+   "type": "Booster",
+   "id": "me01-booster",
+   "historique": [
+    {
+     "d": "2025-10-17",
+     "bas": 7,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2025-11-11",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2025-12-21",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-01-23",
+     "bas": 6,
+     "moy": 7,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-04-07",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 5,
+     "moy": 6,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 6,
+     "moy": 7,
+     "max": 8,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 6,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 7,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 7,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 7,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 7,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 7,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 7,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 6,
+     "moy": 7,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 6,
+     "moy": 7,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 6,
+     "moy": 7,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 6,
+     "moy": 7,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 6,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 6,
+     "moy": 7,
+     "max": 9
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display mega evolution) via Pokescam"
+  },
+  {
+   "cote": 22,
+   "fourchette": [
+    18,
+    26
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:40:00+02:00",
+   "nom": "Tripack Méga-Évolution",
+   "note": "promos Akwakwak et Psykokwak",
+   "qte": 2,
+   "retail": 19.99,
+   "serie": "mega-evolution",
+   "source": "Estimation (boosters + promo)",
+   "type": "Tripack",
+   "id": "me01-tripack",
+   "historique": [
+    {
+     "d": "2025-10-17",
+     "bas": 20,
+     "moy": 25,
+     "max": 29,
+     "rec": 1
+    },
+    {
+     "d": "2025-11-11",
+     "bas": 16,
+     "moy": 19,
+     "max": 23,
+     "rec": 1
+    },
+    {
+     "d": "2025-12-21",
+     "bas": 16,
+     "moy": 20,
+     "max": 23,
+     "rec": 1
+    },
+    {
+     "d": "2026-01-23",
+     "bas": 17,
+     "moy": 21,
+     "max": 24,
+     "rec": 1
+    },
+    {
+     "d": "2026-04-07",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 16,
+     "moy": 20,
+     "max": 23,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 17,
+     "moy": 21,
+     "max": 25,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 19,
+     "moy": 24,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 21,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 21,
+     "moy": 26,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 21,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 21,
+     "moy": 25,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 20,
+     "moy": 25,
+     "max": 29,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 20,
+     "moy": 24,
+     "max": 29,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 19,
+     "moy": 23,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 19,
+     "moy": 23,
+     "max": 28,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 19,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 18,
+     "moy": 23,
+     "max": 27,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 18,
+     "moy": 22,
+     "max": 26,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 18,
+     "moy": 22,
+     "max": 26
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display mega evolution) via Pokescam"
+  },
+  {
+   "cote": 9,
+   "fourchette": [
+    7,
+    12
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:20:00+02:00",
+   "nom": "Booster Flammes Fantasmagoriques",
+   "note": "blister carton · illustration Dracaufeu",
+   "qte": 1,
+   "retail": 6.5,
+   "serie": "flammes-fantasmagoriques",
+   "source": "Estimation d'après displays FR Leboncoin",
+   "type": "Booster",
+   "id": "me02-booster",
+   "historique": [
+    {
+     "d": "2025-12-21",
+     "bas": 6,
+     "moy": 7,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-01-23",
+     "bas": 5,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-04-07",
+     "bas": 6,
+     "moy": 7,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-05-01",
+     "bas": 5,
+     "moy": 7,
+     "max": 9,
+     "rec": 1
+    },
+    {
+     "d": "2026-06-08",
+     "bas": 6,
+     "moy": 8,
+     "max": 11,
+     "rec": 1
+    },
+    {
+     "d": "2026-07-03",
+     "bas": 6,
+     "moy": 8,
+     "max": 10,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 7,
+     "moy": 8,
+     "max": 11,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 7,
+     "moy": 9,
+     "max": 13,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 8,
+     "moy": 10,
+     "max": 14,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 8,
+     "moy": 10,
+     "max": 14,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 8,
+     "moy": 10,
+     "max": 14,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 8,
+     "moy": 10,
+     "max": 14,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 8,
+     "moy": 10,
+     "max": 14,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 8,
+     "moy": 10,
+     "max": 13,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 8,
+     "moy": 10,
+     "max": 13,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 8,
+     "moy": 10,
+     "max": 13,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 8,
+     "moy": 10,
+     "max": 13,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 7,
+     "moy": 9,
+     "max": 13,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 7,
+     "moy": 10,
+     "max": 13,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 7,
+     "moy": 10,
+     "max": 13,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 7,
+     "moy": 9,
+     "max": 12,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 7,
+     "moy": 9,
+     "max": 12,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 7,
+     "moy": 9,
+     "max": 13,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 7,
+     "moy": 9,
+     "max": 12,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 7,
+     "moy": 9,
+     "max": 13,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 7,
+     "moy": 9,
+     "max": 12,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 7,
+     "moy": 9,
+     "max": 12,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 7,
+     "moy": 9,
+     "max": 12
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (display flammes fantasmagoriques) via Pokescam"
+  },
+  {
+   "cote": 89,
+   "fourchette": [
+    76,
+    107
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:00:00+02:00",
+   "nom": "Coffret Dresseur d'Élite (ETB) Méga-Dracaufeu X",
+   "qte": 1,
+   "retail": 59.99,
+   "serie": "flammes-fantasmagoriques",
+   "source": "Cote Cardmarket (via Pokescam), 18 oct. 2026",
+   "type": "ETB",
+   "id": "me02-etb",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 73,
+     "moy": 85,
+     "max": 103,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 73,
+     "moy": 85,
+     "max": 103,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 81,
+     "moy": 94,
+     "max": 114,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 77,
+     "moy": 90,
+     "max": 108,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 77,
+     "moy": 90,
+     "max": 108,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 77,
+     "moy": 90,
+     "max": 108,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 77,
+     "moy": 90,
+     "max": 108,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 78,
+     "moy": 91,
+     "max": 109,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 78,
+     "moy": 91,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 77,
+     "moy": 91,
+     "max": 109,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 78,
+     "moy": 91,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 78,
+     "moy": 92,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 80,
+     "moy": 94,
+     "max": 112,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 79,
+     "moy": 92,
+     "max": 111,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 79,
+     "moy": 92,
+     "max": 111,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 78,
+     "moy": 91,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 78,
+     "moy": 91,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 78,
+     "moy": 92,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 78,
+     "moy": 92,
+     "max": 110,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 77,
+     "moy": 90,
+     "max": 108,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 77,
+     "moy": 90,
+     "max": 109,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 77,
+     "moy": 91,
+     "max": 109,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 76,
+     "moy": 89,
+     "max": 107
+    }
+   ],
+   "cotePrev": 100,
+   "histSource": "Cote Cardmarket de ce produit via Pokescam"
+  },
+  {
+   "cote": 30,
+   "fourchette": [
+    25,
+    45
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:00:00+02:00",
+   "nom": "Tripack Flammes Fantasmagoriques",
+   "qte": 1,
+   "retail": 19.99,
+   "serie": "flammes-fantasmagoriques",
+   "source": "Annonces Leboncoin FR scellé",
+   "type": "Tripack",
+   "id": "me02-tripack",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 24,
+     "moy": 29,
+     "max": 43,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 24,
+     "moy": 29,
+     "max": 43,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 27,
+     "moy": 32,
+     "max": 48,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 25,
+     "moy": 30,
+     "max": 45,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 25,
+     "moy": 30,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 25,
+     "moy": 30,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 25,
+     "moy": 30,
+     "max": 45,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 26,
+     "moy": 31,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 26,
+     "moy": 31,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 25,
+     "moy": 31,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 26,
+     "moy": 31,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 26,
+     "moy": 31,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 26,
+     "moy": 32,
+     "max": 47,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 26,
+     "moy": 31,
+     "max": 47,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 26,
+     "moy": 31,
+     "max": 47,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 26,
+     "moy": 31,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 26,
+     "moy": 31,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 26,
+     "moy": 31,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 26,
+     "moy": 31,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 25,
+     "moy": 30,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 25,
+     "moy": 31,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 25,
+     "moy": 31,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 25,
+     "moy": 30,
+     "max": 45
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb flammes fantasmagoriques) via Pokescam"
+  },
+  {
+   "cote": 200,
+   "fourchette": [
+    180,
+    240
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:00:00+02:00",
+   "nom": "Ultra Premium Collection Méga-Dracaufeu X",
+   "qte": 1,
+   "retail": 169,
+   "serie": "flammes-fantasmagoriques",
+   "source": "Annonces Leboncoin FR scellé",
+   "type": "UPC",
+   "id": "me02-upc",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 173,
+     "moy": 192,
+     "max": 230,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 173,
+     "moy": 192,
+     "max": 230,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 191,
+     "moy": 212,
+     "max": 255,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 182,
+     "moy": 202,
+     "max": 242,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 182,
+     "moy": 202,
+     "max": 243,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 182,
+     "moy": 203,
+     "max": 243,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 181,
+     "moy": 201,
+     "max": 242,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 184,
+     "moy": 204,
+     "max": 245,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 185,
+     "moy": 205,
+     "max": 246,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 183,
+     "moy": 204,
+     "max": 244,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 184,
+     "moy": 205,
+     "max": 246,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 186,
+     "moy": 207,
+     "max": 248,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 189,
+     "moy": 210,
+     "max": 252,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 186,
+     "moy": 207,
+     "max": 248,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 186,
+     "moy": 207,
+     "max": 248,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 185,
+     "moy": 206,
+     "max": 247,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 185,
+     "moy": 205,
+     "max": 246,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 185,
+     "moy": 206,
+     "max": 247,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 185,
+     "moy": 206,
+     "max": 247,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 182,
+     "moy": 203,
+     "max": 243,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 183,
+     "moy": 203,
+     "max": 244,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 183,
+     "moy": 204,
+     "max": 244,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 180,
+     "moy": 200,
+     "max": 240
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb flammes fantasmagoriques) via Pokescam"
+  },
+  {
+   "cote": 46,
+   "fourchette": [
+    40,
+    50
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:00:00+02:00",
+   "nom": "Bundle 6 boosters Héros Transcendants",
+   "qte": 1,
+   "retail": 35.99,
+   "serie": "heros-transcendants",
+   "source": "Boutiques FR, oct. 2026",
+   "type": "Bundle",
+   "id": "me025-bundle",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 30,
+     "moy": 35,
+     "max": 38,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 32,
+     "moy": 36,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 38,
+     "moy": 44,
+     "max": 47,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 35,
+     "moy": 40,
+     "max": 44,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 36,
+     "moy": 41,
+     "max": 44,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 36,
+     "moy": 42,
+     "max": 45,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 36,
+     "moy": 42,
+     "max": 45,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 37,
+     "moy": 42,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 37,
+     "moy": 43,
+     "max": 46,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 37,
+     "moy": 43,
+     "max": 47,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 38,
+     "moy": 44,
+     "max": 47,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 39,
+     "moy": 44,
+     "max": 48,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 39,
+     "moy": 44,
+     "max": 48,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 39,
+     "moy": 45,
+     "max": 49,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 39,
+     "moy": 45,
+     "max": 49,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 39,
+     "moy": 45,
+     "max": 49,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 38,
+     "moy": 44,
+     "max": 48,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 39,
+     "moy": 45,
+     "max": 49,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 38,
+     "moy": 44,
+     "max": 48,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 38,
+     "moy": 44,
+     "max": 48,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 39,
+     "moy": 45,
+     "max": 48,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 39,
+     "moy": 45,
+     "max": 49,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 40,
+     "moy": 46,
+     "max": 50
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb heros transcendants) via Pokescam"
+  },
+  {
+   "cote": 132,
+   "fourchette": [
+    114,
+    150
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:00:00+02:00",
+   "nom": "Coffret Dresseur d'Élite (ETB) Méga-Dracolosse",
+   "qte": 4,
+   "retail": 59.99,
+   "serie": "heros-transcendants",
+   "source": "Cote Cardmarket (via Pokescam), 18 oct. 2026",
+   "type": "ETB",
+   "id": "me025-etb",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 86,
+     "moy": 100,
+     "max": 114,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 90,
+     "moy": 104,
+     "max": 118,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 108,
+     "moy": 125,
+     "max": 142,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 100,
+     "moy": 116,
+     "max": 131,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 101,
+     "moy": 117,
+     "max": 133,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 103,
+     "moy": 119,
+     "max": 136,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 104,
+     "moy": 120,
+     "max": 136,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 105,
+     "moy": 121,
+     "max": 138,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 106,
+     "moy": 122,
+     "max": 139,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 106,
+     "moy": 123,
+     "max": 140,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 108,
+     "moy": 125,
+     "max": 142,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 110,
+     "moy": 128,
+     "max": 145,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 110,
+     "moy": 128,
+     "max": 145,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 111,
+     "moy": 129,
+     "max": 147,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 111,
+     "moy": 129,
+     "max": 147,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 111,
+     "moy": 128,
+     "max": 146,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 109,
+     "moy": 127,
+     "max": 144,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 111,
+     "moy": 129,
+     "max": 146,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 109,
+     "moy": 126,
+     "max": 143,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 110,
+     "moy": 127,
+     "max": 144,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 110,
+     "moy": 128,
+     "max": 145,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 112,
+     "moy": 130,
+     "max": 148,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 114,
+     "moy": 132,
+     "max": 150
+    }
+   ],
+   "cotePrev": 110,
+   "histSource": "Cote Cardmarket de ce produit via Pokescam"
+  },
+  {
+   "cote": 28,
+   "fourchette": [
+    22,
+    40
+   ],
+   "langue": "FR",
+   "maj": "2026-10-18T16:20:00+02:00",
+   "nom": "Mini-Tin Héros Transcendants (Pikachu & Gruikui)",
+   "note": "2 boosters",
+   "qte": 1,
+   "retail": 11.99,
+   "serie": "heros-transcendants",
+   "source": "Boutiques FR (11,99 € en sortie, 39,99 € en revendeur)",
+   "type": "Mini-Tin",
+   "id": "me025-minitin",
+   "historique": [
+    {
+     "d": "2026-07-02",
+     "bas": 17,
+     "moy": 21,
+     "max": 30,
+     "rec": 1
+    },
+    {
+     "d": "2026-08-02",
+     "bas": 17,
+     "moy": 22,
+     "max": 32,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-03",
+     "bas": 21,
+     "moy": 27,
+     "max": 38,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-26",
+     "bas": 19,
+     "moy": 25,
+     "max": 35,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-27",
+     "bas": 20,
+     "moy": 25,
+     "max": 36,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-28",
+     "bas": 20,
+     "moy": 25,
+     "max": 36,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-29",
+     "bas": 20,
+     "moy": 25,
+     "max": 36,
+     "rec": 1
+    },
+    {
+     "d": "2026-09-30",
+     "bas": 20,
+     "moy": 26,
+     "max": 37,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-02",
+     "bas": 20,
+     "moy": 26,
+     "max": 37,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-03",
+     "bas": 21,
+     "moy": 26,
+     "max": 37,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-04",
+     "bas": 21,
+     "moy": 27,
+     "max": 38,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-06",
+     "bas": 21,
+     "moy": 27,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-07",
+     "bas": 21,
+     "moy": 27,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-08",
+     "bas": 22,
+     "moy": 27,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-09",
+     "bas": 22,
+     "moy": 27,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-10",
+     "bas": 21,
+     "moy": 27,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-11",
+     "bas": 21,
+     "moy": 27,
+     "max": 38,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-12",
+     "bas": 21,
+     "moy": 27,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-14",
+     "bas": 21,
+     "moy": 27,
+     "max": 38,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-15",
+     "bas": 21,
+     "moy": 27,
+     "max": 38,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-16",
+     "bas": 21,
+     "moy": 27,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-17",
+     "bas": 22,
+     "moy": 28,
+     "max": 39,
+     "rec": 1
+    },
+    {
+     "d": "2026-10-18",
+     "bas": 22,
+     "moy": 28,
+     "max": 40
+    }
+   ],
+   "histSource": "Tendance Cardmarket de la série (etb heros transcendants) via Pokescam"
+  }
+ ]
 }
