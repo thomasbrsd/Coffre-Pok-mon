@@ -1,6 +1,6 @@
 {
   "meta": {
-    "maj": "2026-10-18T16:00:00+02:00"
+    "maj": "2026-10-18T16:20:00+02:00"
   },
   "items": [
     {
@@ -50,6 +50,159 @@
       "source": "Leboncoin + boutiques FR, oct. 2026",
       "type": "Pokébox",
       "id": "30-ans-pokebox"
+    },
+    {
+      "cote": 25,
+      "fourchette": [
+        20,
+        30
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:20:00+02:00",
+      "nom": "Booster Évolution Céleste",
+      "note": "loose · illustration Rayquaza",
+      "qte": 1,
+      "retail": 4.99,
+      "serie": "evolution-celeste",
+      "source": "PkmCards / CardNexus FR, eBay FR",
+      "type": "Booster",
+      "id": "eb07-booster"
+    },
+    {
+      "cote": 8,
+      "fourchette": [
+        6,
+        10
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:20:00+02:00",
+      "nom": "Booster Stars Étincelantes",
+      "note": "loose · illustration Shaymin",
+      "qte": 1,
+      "retail": 4.99,
+      "serie": "stars-etincelantes",
+      "source": "PkmCards / CardNexus FR",
+      "type": "Booster",
+      "id": "eb09-booster"
+    },
+    {
+      "cote": 7,
+      "fourchette": [
+        6,
+        9
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:20:00+02:00",
+      "nom": "Booster Flammes Obsidiennes",
+      "note": "blister plastique",
+      "qte": 1,
+      "retail": 6.5,
+      "serie": "flammes-obsidiennes",
+      "source": "Boutiques FR",
+      "type": "Booster",
+      "id": "ev03-booster"
+    },
+    {
+      "cote": 6,
+      "fourchette": [
+        5,
+        8
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:20:00+02:00",
+      "nom": "Booster Couronne Stellaire",
+      "note": "loose · illustration Terapagos",
+      "qte": 1,
+      "retail": 6.5,
+      "serie": "couronne-stellaire",
+      "source": "PkmCards / CardNexus FR",
+      "type": "Booster",
+      "id": "ev07-booster"
+    },
+    {
+      "cote": 7,
+      "fourchette": [
+        6,
+        9
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:20:00+02:00",
+      "nom": "Booster Étincelles Déferlantes",
+      "note": "blister plastique",
+      "qte": 2,
+      "retail": 6.5,
+      "serie": "etincelles-deferlantes",
+      "source": "PkmCards / CardNexus FR",
+      "type": "Booster",
+      "id": "ev08-booster"
+    },
+    {
+      "cote": 6,
+      "fourchette": [
+        5,
+        8
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:20:00+02:00",
+      "nom": "Booster Aventures Ensemble",
+      "note": "blister plastique",
+      "qte": 3,
+      "retail": 6.5,
+      "serie": "aventures-ensemble",
+      "source": "Cote display Cardmarket ÷ 36",
+      "type": "Booster",
+      "id": "ev09-booster"
+    },
+    {
+      "cote": 7,
+      "fourchette": [
+        6,
+        9
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:20:00+02:00",
+      "nom": "Booster Rivalités Destinées",
+      "note": "blister carton · Mewtwo, Carchacrok, Ho-Oh",
+      "qte": 3,
+      "retail": 6.5,
+      "serie": "rivalites-destinees",
+      "source": "PkmCards / CardNexus FR",
+      "type": "Booster",
+      "id": "ev10-booster"
+    },
+    {
+      "cote": 7,
+      "fourchette": [
+        6,
+        9
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:20:00+02:00",
+      "nom": "Booster Méga-Évolution",
+      "note": "blister carton · Florizarre, Gardevoir, Lucario, Kangourex",
+      "qte": 4,
+      "retail": 6.5,
+      "serie": "mega-evolution",
+      "source": "PkmCards / CardNexus FR",
+      "type": "Booster",
+      "id": "me01-booster"
+    },
+    {
+      "cote": 9,
+      "fourchette": [
+        7,
+        12
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:20:00+02:00",
+      "nom": "Booster Flammes Fantasmagoriques",
+      "note": "blister carton · illustration Dracaufeu",
+      "qte": 1,
+      "retail": 6.5,
+      "serie": "flammes-fantasmagoriques",
+      "source": "Estimation d'après displays FR Leboncoin",
+      "type": "Booster",
+      "id": "me02-booster"
     },
     {
       "cote": 100,
@@ -130,6 +283,23 @@
       "source": "Annonces Leboncoin FR scellé",
       "type": "ETB",
       "id": "me025-etb"
+    },
+    {
+      "cote": 28,
+      "fourchette": [
+        22,
+        40
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:20:00+02:00",
+      "nom": "Mini-Tin Héros Transcendants (Pikachu & Gruikui)",
+      "note": "2 boosters",
+      "qte": 1,
+      "retail": 11.99,
+      "serie": "heros-transcendants",
+      "source": "Boutiques FR (11,99 € en sortie, 39,99 € en revendeur)",
+      "type": "Mini-Tin",
+      "id": "me025-minitin"
     }
   ]
 }
