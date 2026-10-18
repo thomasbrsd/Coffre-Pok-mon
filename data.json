@@ -46,10 +46,11 @@
       "nom": "Coffret Journée Pokémon 2026",
       "qte": 1,
       "retail": 24.9,
-      "serie": "30-ans",
+      "serie": "mega-evolution",
       "source": "Boutiques FR (34,99 € revendeur)",
       "type": "Coffret",
-      "id": "30-ans-journee-2026"
+      "id": "30-ans-journee-2026",
+      "note": "1 booster Méga-Évolution + 2 Flammes Fantasmagoriques · promo Pikachu"
     },
     {
       "cote": 50,
@@ -76,10 +77,10 @@
       "langue": "FR",
       "maj": "2026-10-18T16:40:00+02:00",
       "nom": "Collection Illustration Premiers Partenaires Série 1",
-      "note": "abîmé",
+      "note": "abîmé · booster Premiers Partenaires + Méga-Évolution + Flammes Fantasmagoriques",
       "qte": 1,
       "retail": 19.99,
-      "serie": "30-ans",
+      "serie": "mega-evolution",
       "source": "Boutiques FR, décote pour l'état",
       "type": "Coffret",
       "id": "30-ans-premiers-partenaires-s1"
