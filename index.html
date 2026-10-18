@@ -57,6 +57,14 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
 .tile{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px 18px;display:flex;flex-direction:column;gap:6px;min-width:0}
 .tile .v{font-family:var(--f-display);font-weight:700;font-size:clamp(22px,4vw,30px);line-height:1.1;font-variant-numeric:tabular-nums}
 .tile .s{font-size:13px;color:var(--muted)}
+.alt{grid-column:1/-1;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.alt-row{display:flex;align-items:baseline;gap:6px 12px;flex-wrap:wrap;padding:8px 12px;border-radius:10px;background:var(--surface-2);font-size:12.5px;min-width:0}
+.alt-k{color:var(--muted);font-weight:600;letter-spacing:.06em;text-transform:uppercase;font-size:10.5px}
+.alt-v{color:var(--fg);font-weight:600}
+.alt-p{margin-left:auto;font-weight:600}
+.alts{font-family:var(--f-mono);font-size:11px;color:var(--muted);white-space:nowrap}
+.alts i{font-style:normal}
+@media (max-width:420px){.alt{grid-template-columns:1fr}}
 .tile.hero{background:linear-gradient(135deg,var(--surface) 0%,var(--surface-2) 100%);box-shadow:var(--shadow)}
 .tile.hero .v{font-size:clamp(28px,6vw,42px)}
 .pos{color:var(--good)} .neg{color:var(--bad)}
@@ -121,6 +129,7 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
   .item > .qty{grid-area:qty;align-self:start}
   .stats{grid-area:stats;display:grid !important;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;border-top:1px solid var(--line);padding-top:10px}
   .stats > div{align-items:flex-start !important;text-align:left !important;display:flex;flex-direction:column;gap:2px}
+  .alts{white-space:normal}
   .ml{display:block;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
 }
 @media (min-width:761px){ .stats{display:contents} }
@@ -143,6 +152,10 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
     <div class="tile hero"><span class="label">Valeur si tu vends au prix le plus bas</span><span class="v num" id="t-val">—</span><span class="s" id="t-items">—</span></div>
     <div class="tile"><span class="label">Coût au prix retail</span><span class="v num" id="t-retail">—</span><span class="s">prix de vente conseillés</span></div>
     <div class="tile"><span class="label">Bénéfice prudent</span><span class="v num" id="t-profit">—</span><span class="s" id="t-roi">—</span></div>
+    <div class="alt" aria-label="Autres scénarios">
+      <div class="alt-row"><span class="alt-k">À la cote moyenne</span><span class="alt-v num" id="a-moy-v">—</span><span class="alt-p num" id="a-moy-p">—</span></div>
+      <div class="alt-row"><span class="alt-k">Au prix max</span><span class="alt-v num" id="a-max-v">—</span><span class="alt-p num" id="a-max-p">—</span></div>
+    </div>
   </section>
 
   <main id="shelves">
@@ -151,7 +164,7 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
 
   <section class="notes">
     <p><b>Prix de vente bas</b> : le prix le plus bas auquel le produit scellé en version française part dans les ventes récentes (Leboncoin, eBay, Cardmarket, Vinted). C'est le scénario prudent : si tu vends vite ou sans négocier, tu devrais en tirer au moins ça. La cote moyenne et le prix max sont indiqués en dessous.</p>
-    <p><b>Bénéfice prudent</b> = (prix de vente bas − prix retail conseillé) × quantité. Les frais de port et commissions de vente ne sont pas déduits.</p>
+    <p><b>Bénéfice prudent</b> = (prix de vente bas − prix retail conseillé) × quantité. En petit dessous : le bénéfice si tu vends à la cote moyenne (moy.) ou au prix le plus haut observé (max). Les frais de port et commissions de vente ne sont pas déduits.</p>
     <p><b>Actualisation</b> : les prix sont revérifiés automatiquement chaque matin. La flèche indique l'évolution de la cote moyenne depuis la mise à jour précédente.</p>
   </section>
 </div>
@@ -186,6 +199,7 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
   const $ = id => document.getElementById(id);
 
   let items = [], meta = null;
+  const high = i => (Array.isArray(i.fourchette) && typeof i.fourchette[1]==="number") ? i.fourchette[1] : (i.cote||0);
   const low = i => (Array.isArray(i.fourchette) && typeof i.fourchette[0]==="number") ? i.fourchette[0] : (i.cote||0);
 
   function esc(s){return String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
@@ -205,19 +219,21 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
     // group
     const groups = {};
     for(const it of items){ (groups[it.serie] ||= []).push(it); }
-    let totVal=0, totRetail=0, totQty=0, totCote=0;
+    let totVal=0, totRetail=0, totQty=0, totCote=0, totMax=0;
     const gl = Object.entries(groups).map(([k,list])=>{
       list.sort((a,b)=>(b.cote||0)-(a.cote||0));
       const val=list.reduce((s,i)=>s+low(i)*(i.qte||0),0);
       const cv=list.reduce((s,i)=>s+(i.cote||0)*(i.qte||0),0);
       const ret=list.reduce((s,i)=>s+(i.retail||0)*(i.qte||0),0);
       const q=list.reduce((s,i)=>s+(i.qte||0),0);
-      totVal+=val; totRetail+=ret; totQty+=q; totCote+=cv;
+      totVal+=val; totRetail+=ret; totQty+=q; totCote+=cv; totMax+=list.reduce((s,i)=>s+high(i)*(i.qte||0),0);
       return {k,list,val,ret,q};
     }).sort((a,b)=>rank(a.k)-rank(b.k));
 
     $("t-val").textContent = fmt(totVal);
-    $("t-items").textContent = totQty+" produits · à la cote moyenne : "+fmt(totCote);
+    $("t-items").textContent = totQty+" produits · "+gl.length+" séries";
+    const altSet=(id,v)=>{const pr=v-totRetail; $(id+"-v").textContent=fmt(v); const e=$(id+"-p"); e.textContent=signed(pr)+(totRetail?" ("+(pr>=0?"+":"")+Math.round(pr/totRetail*100)+" %)":""); e.className="alt-p num "+(pr>=0?"pos":"neg");};
+    altSet("a-moy",totCote); altSet("a-max",totMax);
     $("t-retail").textContent = fmt(totRetail);
     const p = totVal-totRetail;
     $("t-profit").textContent = signed(p);
@@ -232,6 +248,7 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
         const lo = low(it);
         const unit = lo-(it.retail||0);
         const tot = unit*(it.qte||0);
+        const uMoy = (it.cote||0)-(it.retail||0), uMax = high(it)-(it.retail||0);
         let trend = "";
         if(typeof it.cotePrev==="number" && it.cotePrev>0){
           const d = it.cote-it.cotePrev;
@@ -245,7 +262,7 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
           <div class="stats">
             <div class="r"><span class="ml">Retail</span><span class="mono">${fmt(it.retail||0)}</span></div>
             <div class="r cote"><span class="ml">Prix bas</span><b>${fmt(lo)}</b>${trend}${range}</div>
-            <div class="r profit"><span class="ml">Bénéfice prudent</span><b class="${unit>=0?"pos":"neg"}">${signed(tot)}</b><small>${signed(unit)} / unité</small></div>
+            <div class="r profit"><span class="ml">Bénéfice prudent</span><b class="${unit>=0?"pos":"neg"}">${signed(tot)}</b><span class="alts">moy. <i class="${uMoy>=0?"pos":"neg"}">${signed(uMoy*(it.qte||0))}</i> · max <i class="${uMax>=0?"pos":"neg"}">${signed(uMax*(it.qte||0))}</i></span></div>
           </div>
         </article>`;
       }).join("");
