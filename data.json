@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "maj": "2026-10-18T16:00:00+02:00"
+  },
+  "items": [
+    {
+      "cote": 85,
+      "fourchette": [
+        75,
+        90
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:00:00+02:00",
+      "nom": "Bundle 6 boosters 30e Anniversaire",
+      "qte": 6,
+      "retail": 44.9,
+      "serie": "30-ans",
+      "source": "Annonces Leboncoin FR scellé, oct. 2026",
+      "type": "Bundle",
+      "id": "30-ans-bundle"
+    },
+    {
+      "cote": 200,
+      "fourchette": [
+        170,
+        260
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:00:00+02:00",
+      "nom": "Coffret Dresseur d'Élite (ETB) 30e Anniversaire",
+      "qte": 1,
+      "retail": 69.9,
+      "serie": "30-ans",
+      "source": "Annonces Leboncoin FR scellé, oct. 2026",
+      "type": "ETB",
+      "id": "30-ans-etb"
+    },
+    {
+      "cote": 50,
+      "fourchette": [
+        40,
+        60
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:00:00+02:00",
+      "nom": "Pokébox 30e Anniversaire (Nymphali-ex / Amphinobi-ex)",
+      "qte": 4,
+      "retail": 25.9,
+      "serie": "30-ans",
+      "source": "Leboncoin + boutiques FR, oct. 2026",
+      "type": "Pokébox",
+      "id": "30-ans-pokebox"
+    },
+    {
+      "cote": 100,
+      "fourchette": [
+        85,
+        120
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:00:00+02:00",
+      "nom": "Coffret Dresseur d'Élite (ETB) Méga-Dracaufeu X",
+      "qte": 1,
+      "retail": 59.99,
+      "serie": "flammes-fantasmagoriques",
+      "source": "Annonces Leboncoin FR scellé",
+      "type": "ETB",
+      "id": "me02-etb"
+    },
+    {
+      "cote": 30,
+      "fourchette": [
+        25,
+        45
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:00:00+02:00",
+      "nom": "Tripack Flammes Fantasmagoriques",
+      "qte": 1,
+      "retail": 22.9,
+      "serie": "flammes-fantasmagoriques",
+      "source": "Annonces Leboncoin FR scellé",
+      "type": "Tripack",
+      "id": "me02-tripack"
+    },
+    {
+      "cote": 200,
+      "fourchette": [
+        180,
+        240
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:00:00+02:00",
+      "nom": "Ultra Premium Collection Méga-Dracaufeu X",
+      "qte": 1,
+      "retail": 169,
+      "serie": "flammes-fantasmagoriques",
+      "source": "Annonces Leboncoin FR scellé",
+      "type": "UPC",
+      "id": "me02-upc"
+    },
+    {
+      "cote": 46,
+      "fourchette": [
+        40,
+        50
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:00:00+02:00",
+      "nom": "Bundle 6 boosters Héros Transcendants",
+      "qte": 1,
+      "retail": 35.99,
+      "serie": "heros-transcendants",
+      "source": "Boutiques FR, oct. 2026",
+      "type": "Bundle",
+      "id": "me025-bundle"
+    },
+    {
+      "cote": 110,
+      "fourchette": [
+        95,
+        125
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:00:00+02:00",
+      "nom": "Coffret Dresseur d'Élite (ETB) Méga-Dracolosse",
+      "qte": 4,
+      "retail": 59.99,
+      "serie": "heros-transcendants",
+      "source": "Annonces Leboncoin FR scellé",
+      "type": "ETB",
+      "id": "me025-etb"
+    }
+  ]
+}

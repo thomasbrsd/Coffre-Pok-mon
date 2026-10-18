@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Mon Coffre">
+<meta name="theme-color" content="#0f1120">
+<title>Mon Coffre Pokémon</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Instrument+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+/* Layout: a collector's vault — summary strip, then one "shelf" per series, items ranked by cote, each with a foil box thumbnail */
+:root{
+  --bg:#f3f4f8; --surface:#ffffff; --surface-2:#eceef5; --fg:#161827; --muted:#5d6178; --line:#dcdfea;
+  --accent:#3a4bd6; --good:#0f8a5f; --good-bg:#e1f4ec; --bad:#c23b3b; --bad-bg:#fbe6e6;
+  --s-gold:#c48a12; --s-gold-2:#f0c75a; --s-blue:#2c62d8; --s-blue-2:#6fb1ff; --s-red:#c8402f; --s-red-2:#ff9a6b; --s-grey:#6b6f86; --s-grey-2:#b7bbcf;
+  --shadow:0 1px 2px rgba(22,24,39,.06),0 8px 24px rgba(22,24,39,.06);
+  --f-display:"Unbounded","Arial Black",system-ui,sans-serif;
+  --f-body:"Instrument Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f1120; --surface:#171a2e; --surface-2:#1f2340; --fg:#eef0fa; --muted:#9a9fbd; --line:#2a2f52;
+  --accent:#8b98ff; --good:#4fd6a0; --good-bg:#12382c; --bad:#ff7d7d; --bad-bg:#3d1a22;
+  --s-gold:#f0c75a; --s-gold-2:#8a5d06; --s-blue:#6fb1ff; --s-blue-2:#1d3f94; --s-red:#ff9a6b; --s-red-2:#8c2a1e; --s-grey:#b7bbcf; --s-grey-2:#454a68;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 30px rgba(0,0,0,.25); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1120; --surface:#171a2e; --surface-2:#1f2340; --fg:#eef0fa; --muted:#9a9fbd; --line:#2a2f52;
+  --accent:#8b98ff; --good:#4fd6a0; --good-bg:#12382c; --bad:#ff7d7d; --bad-bg:#3d1a22;
+  --s-gold:#f0c75a; --s-gold-2:#8a5d06; --s-blue:#6fb1ff; --s-blue-2:#1d3f94; --s-red:#ff9a6b; --s-red-2:#8c2a1e; --s-grey:#b7bbcf; --s-grey-2:#454a68;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 30px rgba(0,0,0,.25); color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:15px;line-height:1.5}
+.wrap{max-width:1040px;margin:0 auto;padding-block:28px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:28px}
+.num{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+.label{font-size:11px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);font-weight:600}
+
+/* Header */
+header{display:flex;flex-direction:column;gap:10px}
+.brand{display:flex;align-items:center;gap:12px}
+.ball{width:34px;height:34px;flex:none;border-radius:50%;border:3px solid var(--fg);position:relative;overflow:hidden;background:var(--surface)}
+.ball::before{content:"";position:absolute;inset:0 0 50% 0;background:var(--s-red)}
+.ball::after{content:"";position:absolute;left:50%;top:50%;width:11px;height:11px;margin:-5.5px 0 0 -5.5px;border-radius:50%;background:var(--surface);border:3px solid var(--fg);box-shadow:0 0 0 0 transparent}
+.ball i{position:absolute;left:0;right:0;top:50%;height:3px;margin-top:-1.5px;background:var(--fg)}
+h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);line-height:1.05;margin:0;letter-spacing:-.01em;text-wrap:balance}
+.sync{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px;color:var(--muted);font-size:13.5px}
+.pulse{display:inline-flex;align-items:center;gap:7px;padding:4px 10px;border-radius:999px;background:var(--good-bg);color:var(--good);font-weight:600;font-size:12.5px}
+.pulse::before{content:"";width:7px;height:7px;border-radius:50%;background:currentColor;animation:p 2s ease-in-out infinite}
+@keyframes p{50%{opacity:.35}}
+@media (prefers-reduced-motion:reduce){.pulse::before{animation:none}}
+
+/* Summary */
+.summary{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:12px}
+.tile{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px 18px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.tile .v{font-family:var(--f-display);font-weight:700;font-size:clamp(22px,4vw,30px);line-height:1.1;font-variant-numeric:tabular-nums}
+.tile .s{font-size:13px;color:var(--muted)}
+.tile.hero{background:linear-gradient(135deg,var(--surface) 0%,var(--surface-2) 100%);box-shadow:var(--shadow)}
+.tile.hero .v{font-size:clamp(28px,6vw,42px)}
+.pos{color:var(--good)} .neg{color:var(--bad)}
+
+/* Series shelf */
+.shelf{display:flex;flex-direction:column;gap:10px}
+.shelf-head{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:6px 16px;padding-bottom:10px;border-bottom:2px solid var(--line);position:relative}
+.shelf-head::after{content:"";position:absolute;left:0;bottom:-2px;width:72px;height:2px;background:var(--sc)}
+.shelf-title{display:flex;flex-direction:column;gap:2px;min-width:0}
+.shelf-title h2{font-family:var(--f-display);font-weight:700;font-size:clamp(18px,3.4vw,23px);margin:0;line-height:1.15;text-wrap:balance}
+.code{font-family:var(--f-mono);font-size:12px;color:var(--sc);font-weight:600;letter-spacing:.04em}
+.shelf-tot{display:flex;gap:18px;font-size:13px;color:var(--muted)}
+.shelf-tot b{display:block;font-family:var(--f-mono);font-variant-numeric:tabular-nums;color:var(--fg);font-size:15px;font-weight:600}
+
+.cols,.item{display:grid;grid-template-columns:56px minmax(0,2.4fr) 44px minmax(0,.9fr) minmax(0,1.2fr) minmax(0,1.2fr);align-items:center;gap:12px}
+.cols{padding:0 14px;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.cols span:nth-child(n+3){text-align:right}
+.item{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.item > .r{text-align:right}
+.name{display:flex;flex-direction:column;gap:2px;min-width:0}
+.name strong{font-weight:600;font-size:15px;line-height:1.25}
+.name small{color:var(--muted);font-size:12.5px}
+.qty{font-family:var(--f-mono);font-weight:600;font-size:15px}
+.qty::before{content:"×";color:var(--muted);margin-right:2px;font-weight:400}
+.cote{display:flex;flex-direction:column;align-items:flex-end;gap:2px}
+.cote b{font-family:var(--f-mono);font-variant-numeric:tabular-nums;font-size:16px;font-weight:600}
+.trend{font-family:var(--f-mono);font-size:11.5px;padding:1px 6px;border-radius:6px;white-space:nowrap}
+.trend.up{color:var(--good);background:var(--good-bg)} .trend.down{color:var(--bad);background:var(--bad-bg)} .trend.flat{color:var(--muted);background:var(--surface-2)}
+.range{font-family:var(--f-mono);font-size:11px;color:var(--muted);white-space:nowrap}
+.profit{display:flex;flex-direction:column;align-items:flex-end;gap:1px}
+.profit b{font-family:var(--f-mono);font-variant-numeric:tabular-nums;font-size:16px;font-weight:600}
+.profit small{font-size:11.5px;color:var(--muted);font-family:var(--f-mono)}
+.mono{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+.ml{display:none}
+
+/* Foil box thumbnail */
+.box{width:52px;height:60px;border-radius:7px;position:relative;overflow:hidden;
+  background:linear-gradient(150deg,var(--sc) 0%,var(--sc2) 100%);
+  box-shadow:inset 0 0 0 1px rgba(255,255,255,.25),0 3px 8px rgba(0,0,0,.18);
+  display:flex;align-items:flex-end;justify-content:center;padding-bottom:7px}
+.box::before{content:"";position:absolute;inset:-40%;background:linear-gradient(115deg,transparent 35%,rgba(255,255,255,.55) 48%,rgba(255,255,255,0) 60%);transform:translateX(-30%);transition:transform .6s ease}
+.item:hover .box::before{transform:translateX(30%)}
+.box::after{content:"";position:absolute;top:8px;left:50%;width:18px;height:18px;margin-left:-9px;border-radius:50%;border:2px solid rgba(255,255,255,.85);background:linear-gradient(rgba(255,255,255,.35) 50%,transparent 50%)}
+.box span{position:relative;font-family:var(--f-display);font-weight:800;font-size:10.5px;color:#fff;letter-spacing:.04em;text-shadow:0 1px 2px rgba(0,0,0,.35)}
+@media (prefers-reduced-motion:reduce){.box::before{transition:none}}
+
+.state{background:var(--surface);border:1px dashed var(--line);border-radius:14px;padding:28px 20px;text-align:center;color:var(--muted)}
+.state strong{display:block;color:var(--fg);font-family:var(--f-display);font-weight:700;font-size:17px;margin-bottom:6px}
+
+.notes{display:flex;flex-direction:column;gap:8px;font-size:13px;color:var(--muted);max-width:68ch;border-top:1px solid var(--line);padding-top:18px}
+.notes p{margin:0}
+.notes b{color:var(--fg);font-weight:600}
+
+/* Phone */
+@media (max-width:760px){
+  .summary{grid-template-columns:1fr 1fr}
+  .tile.hero{grid-column:1/-1}
+  .cols{display:none}
+  .item{grid-template-columns:56px minmax(0,1fr) auto;grid-template-areas:"box name qty" "box stats stats";row-gap:10px}
+  .item > .box{grid-area:box;align-self:start}
+  .item > .name{grid-area:name}
+  .item > .qty{grid-area:qty;align-self:start}
+  .stats{grid-area:stats;display:grid !important;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;border-top:1px solid var(--line);padding-top:10px}
+  .stats > div{align-items:flex-start !important;text-align:left !important;display:flex;flex-direction:column;gap:2px}
+  .ml{display:block;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+}
+@media (min-width:761px){ .stats{display:contents} }
+</style>
+<style>body{margin:0;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}</style>
+</head>
+<body>
+
+
+<div class="wrap">
+  <header>
+    <div class="brand"><div class="ball" aria-hidden="true"><i></i></div><h1>Mon Coffre Pokémon</h1></div>
+    <div class="sync">
+      <span class="pulse" id="live">Cotes en direct</span>
+      <span id="maj">Chargement des cotes…</span>
+    </div>
+  </header>
+
+  <section class="summary" aria-label="Récapitulatif">
+    <div class="tile hero"><span class="label">Valeur si tu vends au prix le plus bas</span><span class="v num" id="t-val">—</span><span class="s" id="t-items">—</span></div>
+    <div class="tile"><span class="label">Coût au prix retail</span><span class="v num" id="t-retail">—</span><span class="s">prix de vente conseillés</span></div>
+    <div class="tile"><span class="label">Bénéfice prudent</span><span class="v num" id="t-profit">—</span><span class="s" id="t-roi">—</span></div>
+  </section>
+
+  <main id="shelves">
+    <div class="state"><strong>Ouverture du coffre…</strong>Tes produits et leurs cotes du jour vont s'afficher ici.</div>
+  </main>
+
+  <section class="notes">
+    <p><b>Prix de vente bas</b> : le prix le plus bas auquel le produit scellé en version française part dans les ventes récentes (Leboncoin, eBay, Cardmarket, Vinted). C'est le scénario prudent : si tu vends vite ou sans négocier, tu devrais en tirer au moins ça. La cote moyenne et le prix max sont indiqués en dessous.</p>
+    <p><b>Bénéfice prudent</b> = (prix de vente bas − prix retail conseillé) × quantité. Les frais de port et commissions de vente ne sont pas déduits.</p>
+    <p><b>Actualisation</b> : les prix sont revérifiés automatiquement chaque matin. La flèche indique l'évolution de la cote moyenne depuis la mise à jour précédente.</p>
+  </section>
+</div>
+
+<script>
+(function(){
+  const SERIES = {
+    "30-ans":{name:"Pokémon 30 ans",code:"30C · 30e Anniversaire",c:"--s-gold",c2:"--s-gold-2"},
+    "flammes-fantasmagoriques":{name:"Flammes Fantasmagoriques",code:"ME02",c:"--s-blue",c2:"--s-blue-2"},
+    "heros-transcendants":{name:"Héros Transcendants",code:"ME02.5",c:"--s-red",c2:"--s-red-2"}
+  };
+  const TYPE_ABBR = {"ETB":"ETB","Bundle":"BDL","Pokébox":"BOX","Tripack":"TRI","UPC":"UPC","Display":"DSP","Duopack":"DUO","Coffret":"CFT","Mini-Tin":"TIN"};
+  const eur = new Intl.NumberFormat("fr-FR",{style:"currency",currency:"EUR",maximumFractionDigits:0});
+  const eur2 = new Intl.NumberFormat("fr-FR",{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2});
+  const fmt = v => (Math.round(v)===v ? eur.format(v) : eur2.format(v));
+  const signed = v => (v>0?"+":v<0?"−":"") + fmt(Math.abs(v));
+  const $ = id => document.getElementById(id);
+
+  let items = [], meta = null;
+  const low = i => (Array.isArray(i.fourchette) && typeof i.fourchette[0]==="number") ? i.fourchette[0] : (i.cote||0);
+
+  function esc(s){return String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+
+  function fmtDate(iso){
+    try{const d=new Date(iso); if(isNaN(d)) return null;
+      return d.toLocaleDateString("fr-FR",{weekday:"long",day:"numeric",month:"long"})+" à "+d.toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"});}catch(e){return null}
+  }
+
+  function render(){
+    const shelves = $("shelves");
+    if(!items.length){
+      shelves.innerHTML = '<div class="state"><strong>Le coffre est vide pour l\'instant</strong>Dis à Claude ce que tu as acheté dans la conversation et il l\'ajoutera ici avec sa cote.</div>';
+      ["t-val","t-retail","t-profit"].forEach(i=>$(i).textContent="—");
+      return;
+    }
+    // group
+    const groups = {};
+    for(const it of items){ (groups[it.serie] ||= []).push(it); }
+    let totVal=0, totRetail=0, totQty=0, totCote=0;
+    const gl = Object.entries(groups).map(([k,list])=>{
+      list.sort((a,b)=>(b.cote||0)-(a.cote||0));
+      const val=list.reduce((s,i)=>s+low(i)*(i.qte||0),0);
+      const cv=list.reduce((s,i)=>s+(i.cote||0)*(i.qte||0),0);
+      const ret=list.reduce((s,i)=>s+(i.retail||0)*(i.qte||0),0);
+      const q=list.reduce((s,i)=>s+(i.qte||0),0);
+      totVal+=val; totRetail+=ret; totQty+=q; totCote+=cv;
+      return {k,list,val,ret,q};
+    }).sort((a,b)=>b.val-a.val);
+
+    $("t-val").textContent = fmt(totVal);
+    $("t-items").textContent = totQty+" produits · à la cote moyenne : "+fmt(totCote);
+    $("t-retail").textContent = fmt(totRetail);
+    const p = totVal-totRetail;
+    $("t-profit").textContent = signed(p);
+    $("t-profit").className = "v num "+(p>=0?"pos":"neg");
+    $("t-roi").textContent = totRetail ? (p>=0?"+":"")+Math.round(p/totRetail*100)+" % sur le prix retail" : "—";
+
+    shelves.innerHTML = gl.map(g=>{
+      const s = SERIES[g.k] || {name:g.list[0].serieNom||g.k,code:g.list[0].serieCode||"",c:"--s-grey",c2:"--s-grey-2"};
+      const style = `--sc:var(${s.c});--sc2:var(${s.c2})`;
+      const gp = g.val-g.ret;
+      const rows = g.list.map(it=>{
+        const lo = low(it);
+        const unit = lo-(it.retail||0);
+        const tot = unit*(it.qte||0);
+        let trend = "";
+        if(typeof it.cotePrev==="number" && it.cotePrev>0){
+          const d = it.cote-it.cotePrev;
+          trend = d>0 ? `<span class="trend up">▲ ${fmt(d)}</span>` : d<0 ? `<span class="trend down">▼ ${fmt(-d)}</span>` : `<span class="trend flat">= stable</span>`;
+        }
+        const range = Array.isArray(it.fourchette)&&it.fourchette.length===2 ? `<span class="range">cote moy. ${fmt(it.cote||0)} · max ${fmt(it.fourchette[1])}</span>` : "";
+        return `<article class="item" style="${style}">
+          <div class="box" aria-hidden="true"><span>${esc(TYPE_ABBR[it.type]||it.type.slice(0,3).toUpperCase())}</span></div>
+          <div class="name"><strong>${esc(it.nom)}</strong><small>${esc(it.type)} · ${esc(it.langue||"FR")}${it.note?" · "+esc(it.note):""}</small></div>
+          <div class="qty r" aria-label="Quantité">${it.qte}</div>
+          <div class="stats">
+            <div class="r"><span class="ml">Retail</span><span class="mono">${fmt(it.retail||0)}</span></div>
+            <div class="r cote"><span class="ml">Prix bas</span><b>${fmt(lo)}</b>${trend}${range}</div>
+            <div class="r profit"><span class="ml">Bénéfice prudent</span><b class="${unit>=0?"pos":"neg"}">${signed(tot)}</b><small>${signed(unit)} / unité</small></div>
+          </div>
+        </article>`;
+      }).join("");
+      return `<section class="shelf" style="${style}">
+        <div class="shelf-head">
+          <div class="shelf-title"><span class="code">${esc(s.code)}</span><h2>${esc(s.name)}</h2></div>
+          <div class="shelf-tot"><span>Valeur<b>${fmt(g.val)}</b></span><span>Bénéfice<b class="${gp>=0?"pos":"neg"}">${signed(gp)}</b></span></div>
+        </div>
+        <div class="cols" aria-hidden="true"><span></span><span>Produit</span><span>Qté</span><span>Retail</span><span>Prix de vente bas</span><span>Bénéfice prudent</span></div>
+        ${rows}
+      </section>`;
+    }).join("");
+  }
+
+  function renderMeta(){
+    const t = meta && fmtDate(meta.maj);
+    $("maj").textContent = t ? "Dernière actualisation : "+t : "Cotes du jour";
+  }
+
+  async function load(){
+    try{
+      const r = await fetch("data.json?t="+Date.now(),{cache:"no-store"});
+      if(!r.ok) throw new Error(r.status);
+      const d = await r.json();
+      items = (d.items||[]).filter(i=>(i.qte||0)>0);
+      meta = d.meta||null;
+      render(); renderMeta();
+    }catch(e){
+      $("live").textContent="Hors ligne";
+      $("maj").textContent="Impossible de charger les prix. Vérifie ta connexion puis recharge la page.";
+    }
+  }
+  load();
+})();
+</script>
+
+</body>
+</html>
