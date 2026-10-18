@@ -169,9 +169,13 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
     "couronne-stellaire":{name:"Couronne Stellaire",code:"EV07",c:"--s-teal",c2:"--s-blue-2"},
     "flammes-obsidiennes":{name:"Flammes Obsidiennes",code:"EV03",c:"--s-orange",c2:"--s-orange-2"},
     "stars-etincelantes":{name:"Stars Étincelantes",code:"EB09",c:"--s-violet",c2:"--s-violet-2"},
-    "evolution-celeste":{name:"Évolution Céleste",code:"EB07",c:"--s-green",c2:"--s-teal-2"}
+    "evolution-celeste":{name:"Évolution Céleste",code:"EB07",c:"--s-green",c2:"--s-teal-2"},
+    "destinees-de-paldea":{name:"Destinées de Paldea",code:"EV04.5",c:"--s-orange",c2:"--s-red-2"},
+    "evolutions-prismatiques":{name:"Évolutions Prismatiques",code:"EV08.5",c:"--s-violet",c2:"--s-pink-2"},
+    "foudre-noire-flamme-blanche":{name:"Foudre Noire & Flamme Blanche",code:"EV10.5",c:"--s-grey",c2:"--s-blue-2"},
+    "origine-perdue-paldea":{name:"Origine Perdue & Évolutions à Paldea",code:"EB11 · EV02",c:"--s-teal",c2:"--s-violet-2"}
   };
-  const TYPE_ABBR = {"ETB":"ETB","Bundle":"BDL","Pokébox":"BOX","Tripack":"TRI","UPC":"UPC","Display":"DSP","Booster":"BST","Duopack":"DUO","Coffret":"CFT","Mini-Tin":"TIN"};
+  const TYPE_ABBR = {"ETB":"ETB","Bundle":"BDL","Pokébox":"BOX","Tripack":"TRI","UPC":"UPC","Display":"DSP","Demi-display":"DMI","Valise":"VAL","Booster":"BST","Duopack":"DUO","Coffret":"CFT","Mini-Tin":"TIN"};
   const eur = new Intl.NumberFormat("fr-FR",{style:"currency",currency:"EUR",maximumFractionDigits:0});
   const eur2 = new Intl.NumberFormat("fr-FR",{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2});
   const fmt = v => (Math.round(v)===v ? eur.format(v) : eur2.format(v));

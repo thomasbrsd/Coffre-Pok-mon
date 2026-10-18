@@ -1,6 +1,6 @@
 {
   "meta": {
-    "maj": "2026-10-18T16:20:00+02:00"
+    "maj": "2026-10-18T16:40:00+02:00"
   },
   "items": [
     {
@@ -36,6 +36,22 @@
       "id": "30-ans-etb"
     },
     {
+      "cote": 35,
+      "fourchette": [
+        30,
+        45
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Coffret Journée Pokémon 2026",
+      "qte": 1,
+      "retail": 24.9,
+      "serie": "30-ans",
+      "source": "Boutiques FR (34,99 € revendeur)",
+      "type": "Coffret",
+      "id": "30-ans-journee-2026"
+    },
+    {
       "cote": 50,
       "fourchette": [
         40,
@@ -50,6 +66,23 @@
       "source": "Leboncoin + boutiques FR, oct. 2026",
       "type": "Pokébox",
       "id": "30-ans-pokebox"
+    },
+    {
+      "cote": 25,
+      "fourchette": [
+        20,
+        30
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Collection Illustration Premiers Partenaires Série 1",
+      "note": "abîmé",
+      "qte": 1,
+      "retail": 19.99,
+      "serie": "30-ans",
+      "source": "Boutiques FR, décote pour l'état",
+      "type": "Coffret",
+      "id": "30-ans-premiers-partenaires-s1"
     },
     {
       "cote": 25,
@@ -84,6 +117,23 @@
       "source": "PkmCards / CardNexus FR",
       "type": "Booster",
       "id": "eb09-booster"
+    },
+    {
+      "cote": 15,
+      "fourchette": [
+        12,
+        20
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Duopack Tokopiyon (Origine Perdue + Évolutions à Paldea)",
+      "note": "un peu abîmé",
+      "qte": 1,
+      "retail": 12.99,
+      "serie": "origine-perdue-paldea",
+      "source": "Boutiques FR (19,90 € neuf, décote pour l'état)",
+      "type": "Duopack",
+      "id": "eb11ev02-duopack"
     },
     {
       "cote": 7,
@@ -137,6 +187,39 @@
       "id": "ev08-booster"
     },
     {
+      "cote": 22,
+      "fourchette": [
+        18,
+        26
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Tripack Étincelles Déferlantes",
+      "qte": 1,
+      "retail": 19.99,
+      "serie": "etincelles-deferlantes",
+      "source": "Estimation (boosters + promo)",
+      "type": "Tripack",
+      "id": "ev08-tripack"
+    },
+    {
+      "cote": 45,
+      "fourchette": [
+        38,
+        55
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Valise Étincelles Déferlantes",
+      "note": "6 boosters",
+      "qte": 1,
+      "retail": 39.99,
+      "serie": "etincelles-deferlantes",
+      "source": "Boutiques FR",
+      "type": "Valise",
+      "id": "ev08-valise"
+    },
+    {
       "cote": 6,
       "fourchette": [
         5,
@@ -152,6 +235,22 @@
       "source": "Cote display Cardmarket ÷ 36",
       "type": "Booster",
       "id": "ev09-booster"
+    },
+    {
+      "cote": 75,
+      "fourchette": [
+        65,
+        85
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Coffret Dresseur d'Élite (ETB) Aventures Ensemble",
+      "qte": 2,
+      "retail": 59.99,
+      "serie": "aventures-ensemble",
+      "source": "PkmCards FR",
+      "type": "ETB",
+      "id": "ev09-etb"
     },
     {
       "cote": 7,
@@ -171,6 +270,200 @@
       "id": "ev10-booster"
     },
     {
+      "cote": 130,
+      "fourchette": [
+        115,
+        150
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Demi-display Rivalités Destinées (18 boosters)",
+      "qte": 1,
+      "retail": 99.99,
+      "serie": "rivalites-destinees",
+      "source": "Amazon / boosters à l'unité FR",
+      "type": "Demi-display",
+      "id": "ev10-demidisplay"
+    },
+    {
+      "cote": 110,
+      "fourchette": [
+        95,
+        120
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Coffret Dresseur d'Élite (ETB) Rivalités Destinées",
+      "note": "petit trou dans le blister",
+      "qte": 1,
+      "retail": 59.99,
+      "serie": "rivalites-destinees",
+      "source": "PkmCards FR (130 € neuf parfait, décote pour le trou)",
+      "type": "ETB",
+      "id": "ev10-etb"
+    },
+    {
+      "cote": 24,
+      "fourchette": [
+        20,
+        28
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Tripack Rivalités Destinées",
+      "qte": 1,
+      "retail": 19.99,
+      "serie": "rivalites-destinees",
+      "source": "Estimation (boosters + promo)",
+      "type": "Tripack",
+      "id": "ev10-tripack"
+    },
+    {
+      "cote": 100,
+      "fourchette": [
+        85,
+        125
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Bundle 6 boosters Destinées de Paldea",
+      "qte": 1,
+      "retail": 35.99,
+      "serie": "destinees-de-paldea",
+      "source": "Boutiques FR (124,99 € revendeur)",
+      "type": "Bundle",
+      "id": "ev45-bundle"
+    },
+    {
+      "cote": 48,
+      "fourchette": [
+        40,
+        55
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Pokébox Destinées de Paldea Dracaufeu",
+      "note": "promo Dracaufeu",
+      "qte": 2,
+      "retail": 24.99,
+      "serie": "destinees-de-paldea",
+      "source": "PkmCards FR",
+      "type": "Pokébox",
+      "id": "ev45-pokebox"
+    },
+    {
+      "cote": 25,
+      "fourchette": [
+        22,
+        38
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Tripack Destinées de Paldea",
+      "qte": 1,
+      "retail": 19.99,
+      "serie": "destinees-de-paldea",
+      "source": "PkmCards FR (22 € à 38 € selon la promo)",
+      "type": "Tripack",
+      "id": "ev45-tripack"
+    },
+    {
+      "cote": 100,
+      "fourchette": [
+        85,
+        125
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Bundle 6 boosters Évolutions Prismatiques",
+      "qte": 2,
+      "retail": 35.99,
+      "serie": "evolutions-prismatiques",
+      "source": "Boutiques FR (124,99 € revendeur)",
+      "type": "Bundle",
+      "id": "ev85-bundle"
+    },
+    {
+      "cote": 85,
+      "fourchette": [
+        70,
+        110
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Coffret Collection Spéciale Pochette à accessoires",
+      "qte": 4,
+      "retail": 29.99,
+      "serie": "evolutions-prismatiques",
+      "source": "Boutiques FR (109,99 € revendeur)",
+      "type": "Coffret",
+      "id": "ev85-pochette"
+    },
+    {
+      "cote": 50,
+      "fourchette": [
+        40,
+        65
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Coffret Boîte surprise Évolutions Prismatiques",
+      "qte": 5,
+      "retail": 24.99,
+      "serie": "evolutions-prismatiques",
+      "source": "Boutiques FR (64,99 € revendeur)",
+      "type": "Coffret",
+      "id": "ev85-surprise"
+    },
+    {
+      "cote": 30,
+      "fourchette": [
+        25,
+        35
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Tripack Foudre Noire",
+      "qte": 1,
+      "retail": 19.99,
+      "serie": "foudre-noire-flamme-blanche",
+      "source": "Estimation (boosters + promo)",
+      "type": "Tripack",
+      "id": "fn-tripack"
+    },
+    {
+      "cote": 35,
+      "fourchette": [
+        30,
+        40
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Coffret Collection Poster Foudre Noire & Flamme Blanche",
+      "qte": 2,
+      "retail": 24.99,
+      "serie": "foudre-noire-flamme-blanche",
+      "source": "PkmCards FR",
+      "type": "Coffret",
+      "id": "fnfb-poster"
+    },
+    {
+      "cote": 55,
+      "fourchette": [
+        45,
+        67
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Coffret Collection Illustration Victini",
+      "qte": 1,
+      "retail": 39.99,
+      "serie": "foudre-noire-flamme-blanche",
+      "source": "Boutiques FR",
+      "type": "Coffret",
+      "id": "fnfb-victini"
+    },
+    {
       "cote": 7,
       "fourchette": [
         6,
@@ -186,6 +479,23 @@
       "source": "PkmCards / CardNexus FR",
       "type": "Booster",
       "id": "me01-booster"
+    },
+    {
+      "cote": 22,
+      "fourchette": [
+        18,
+        26
+      ],
+      "langue": "FR",
+      "maj": "2026-10-18T16:40:00+02:00",
+      "nom": "Tripack Méga-Évolution",
+      "note": "promos Akwakwak et Psykokwak",
+      "qte": 2,
+      "retail": 19.99,
+      "serie": "mega-evolution",
+      "source": "Estimation (boosters + promo)",
+      "type": "Tripack",
+      "id": "me01-tripack"
     },
     {
       "cote": 9,
@@ -229,7 +539,7 @@
       "langue": "FR",
       "maj": "2026-10-18T16:00:00+02:00",
       "nom": "Tripack Flammes Fantasmagoriques",
-      "qte": 1,
+      "qte": 2,
       "retail": 22.9,
       "serie": "flammes-fantasmagoriques",
       "source": "Annonces Leboncoin FR scellé",
