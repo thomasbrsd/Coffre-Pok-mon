@@ -203,7 +203,7 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
   <section class="notes">
     <p><b>Prix de vente bas</b> : le prix le plus bas auquel le produit scellé en version française part dans les ventes récentes (Leboncoin, eBay, Cardmarket, Vinted). C'est le scénario prudent : si tu vends vite ou sans négocier, tu devrais en tirer au moins ça. La cote moyenne et le prix max sont indiqués en dessous.</p>
     <p><b>Bénéfice prudent</b> = (prix de vente bas − prix retail conseillé) × quantité. En petit dessous : le bénéfice si tu vends à la cote moyenne (moy.) ou au prix le plus haut observé (max). Les frais de port et commissions de vente ne sont pas déduits.</p>
-    <p><b>Actualisation</b> : les prix sont revérifiés automatiquement chaque matin. La flèche indique l'évolution de la cote moyenne depuis la mise à jour précédente.</p>
+    <p><b>Actualisation</b> : les prix sont revérifiés automatiquement chaque matin.</p>
   </section>
   <a class="foot-link" href="#graphiques"><svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M1.5 12.5 5.5 8l3 2.5 6-7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>Évolution des prix</a>
 </div>
@@ -320,7 +320,7 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
           <div class="qty r" aria-label="Quantité">${it.qte}</div>
           <div class="stats">
             <div class="r"><span class="ml">Retail</span><span class="mono">${fmt(it.retail||0)}</span></div>
-            <div class="r cote"><span class="ml">Prix bas</span><b>${fmt(lo)}</b>${trend}${range}</div>
+            <div class="r cote"><span class="ml">Prix bas</span><b>${fmt(lo)}</b>${range}</div>
             <div class="r profit"><span class="ml">Bénéfice prudent</span><b class="${unit>=0?"pos":"neg"}">${signed(tot)}</b><span class="alts"><span>moy. <i class="${uMoy>=0?"pos":"neg"}">${signed(uMoy*(it.qte||0))}</i></span><span>max <i class="${uMax>=0?"pos":"neg"}">${signed(uMax*(it.qte||0))}</i></span></span></div>
           </div>
         </article>`;
