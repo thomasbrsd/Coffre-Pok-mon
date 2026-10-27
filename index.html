@@ -156,6 +156,21 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
 .hist th:not(:first-child),.hist td:not(:first-child){text-align:right}
 .hist-wrap{overflow-x:auto}
 
+.foot-links{align-self:center;display:flex;flex-wrap:wrap;justify-content:center;gap:8px}
+.sv-tiles{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.sv-tiles div{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px;display:flex;flex-direction:column;gap:4px;min-width:0}
+.sv-tiles b{font-family:var(--f-display);font-weight:700;font-size:clamp(18px,3.6vw,24px);font-variant-numeric:tabular-nums}
+.sale{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px;display:grid;grid-template-columns:56px minmax(0,1fr) auto;gap:6px 12px;align-items:center}
+.sale .box{grid-row:1 / span 2}
+.sale-name{display:flex;flex-direction:column;gap:2px;min-width:0}
+.sale-name strong{font-weight:600;font-size:15px;line-height:1.25}
+.sale-name small{color:var(--muted);font-size:12.5px}
+.sale-amt{text-align:right;display:flex;flex-direction:column;gap:2px;align-items:flex-end}
+.sale-amt b{font-family:var(--f-mono);font-variant-numeric:tabular-nums;font-size:16px}
+.sale-amt small{font-family:var(--f-mono);font-size:11.5px;color:var(--muted)}
+.sale-det{grid-column:2 / span 2;display:flex;flex-wrap:wrap;gap:4px 14px;font-family:var(--f-mono);font-size:12px;color:var(--muted);border-top:1px solid var(--line);padding-top:8px}
+.sale-list{display:flex;flex-direction:column;gap:10px}
+@media (max-width:420px){.sv-tiles{grid-template-columns:1fr 1fr}.sv-tiles div:first-child{grid-column:1/-1}}
 /* Phone */
 @media (max-width:760px){
   .summary{grid-template-columns:1fr 1fr}
@@ -205,7 +220,7 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
     <p><b>Bénéfice prudent</b> = (prix de vente bas − prix retail conseillé) × quantité. En petit dessous : le bénéfice si tu vends à la cote moyenne (moy.) ou au prix le plus haut observé (max). Les frais de port et commissions de vente ne sont pas déduits.</p>
     <p><b>Actualisation</b> : les prix sont revérifiés automatiquement chaque matin.</p>
   </section>
-  <a class="foot-link" href="#graphiques"><svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M1.5 12.5 5.5 8l3 2.5 6-7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>Évolution des prix</a>
+  <div class="foot-links"><a class="foot-link" href="#graphiques"><svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M1.5 12.5 5.5 8l3 2.5 6-7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>Évolution des prix</a><a class="foot-link" href="#ventes"><svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M2 4.5h12l-1.2 7.5H3.2L2 4.5Zm3.5 0V3a2.5 2.5 0 0 1 5 0v1.5" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>Mes ventes</a></div>
 </div>
 
 <div class="wrap" id="view-charts" hidden>
@@ -226,6 +241,20 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
     <p class="ch-note" id="ch-note"></p>
     <div class="hist-wrap"><table class="hist"><thead><tr><th>Date</th><th>Prix bas</th><th>Cote moy.</th><th>Max</th></tr></thead><tbody id="ch-rows"></tbody></table></div>
   </div>
+</div>
+
+<div class="wrap" id="view-sales" hidden>
+  <div class="ch-head">
+    <a class="back" href="#">← Retour au coffre</a>
+    <h2>Mes ventes</h2>
+  </div>
+  <div class="sv-tiles">
+    <div><span class="label">Bénéfice réalisé</span><b id="sv-profit">—</b></div>
+    <div><span class="label">Total encaissé</span><b id="sv-total">—</b></div>
+    <div><span class="label">Articles vendus</span><b id="sv-count">—</b></div>
+  </div>
+  <div class="sale-list" id="sv-list"><div class="state"><strong>Aucune vente pour l'instant</strong>Dis à Claude ce que tu as vendu et à quel prix : la vente s'affichera ici avec ton bénéfice.</div></div>
+  <section class="notes"><p><b>Bénéfice réalisé</b> = prix de vente − prix d'achat × quantité. Les frais de port et commissions ne sont pas déduits, sauf si tu les as indiqués.</p></section>
 </div>
 
 <script>
@@ -436,9 +465,29 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
     hit.addEventListener("pointerleave",()=>{tip.style.opacity=0;cross.setAttribute("opacity",0);});
     plot.insertBefore(svg,tip);
   }
+  // ---------- Mes ventes ----------
+  let sales=[];
+  function renderSales(){
+    const list=$("sv-list"); if(!list) return;
+    const S=sales.slice().sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+    const tot=S.reduce((s,v)=>s+(+v.prixTotal||0),0), cost=S.reduce((s,v)=>s+(+v.achat||0)*(+v.qte||0),0), n=S.reduce((s,v)=>s+(+v.qte||0),0);
+    const pr=tot-cost; $("sv-profit").textContent=S.length?signed(pr):"—"; $("sv-profit").className=S.length?(pr>=0?"pos":"neg"):"";
+    $("sv-total").textContent=S.length?fmt(tot):"—"; $("sv-count").textContent=S.length?String(n):"—";
+    if(!S.length){ list.innerHTML='<div class="state"><strong>Aucune vente pour l\'instant</strong>Dis à Claude ce que tu as vendu et à quel prix : la vente s\'affichera ici avec ton bénéfice.</div>'; return; }
+    list.innerHTML=S.map(v=>{ const s=SERIES[v.serie]||{name:v.serie||"",c:"--s-grey",c2:"--s-grey-2"}; const q=+v.qte||1, t=+v.prixTotal||0, a=+v.achat||0, p=t-a*q;
+      let dd=v.date; try{dd=new Date(v.date+"T12:00:00").toLocaleDateString("fr-FR",{day:"numeric",month:"long",year:"numeric"})}catch(e){}
+      return `<article class="sale" style="--sc:var(${s.c});--sc2:var(${s.c2})">
+        <div class="box" aria-hidden="true"><span>${esc(TYPE_ABBR[v.type]||String(v.type||"").slice(0,3).toUpperCase())}</span></div>
+        <div class="sale-name"><strong>${esc(v.nom)}${q>1?" ×"+q:""}</strong><small>${esc(s.name)} · vendu le ${esc(dd)}${v.ou?" · "+esc(v.ou):""}</small></div>
+        <div class="sale-amt"><b class="${p>=0?"pos":"neg"}">${signed(p)}</b><small>bénéfice</small></div>
+        <div class="sale-det"><span>Vendu ${fmt(t)}${q>1?" ("+fmt(t/q)+" / u.)":""}</span><span>Acheté ${fmt(a*q)}${q>1?" ("+fmt(a)+" / u.)":""}</span>${v.note?"<span>"+esc(v.note)+"</span>":""}</div>
+      </article>`; }).join("");
+  }
+
   function route(){
-    const charts=location.hash==="#graphiques";
-    $("view-main").hidden=charts; $("view-charts").hidden=!charts;
+    const charts=location.hash==="#graphiques", sv=location.hash==="#ventes";
+    $("view-main").hidden=charts||sv; $("view-charts").hidden=!charts; $("view-sales").hidden=!sv;
+    if(sv) renderSales();
     if(charts){ fillSelect(); drawChart(); }
     try{window.scrollTo(0,0)}catch(e){}
   }
@@ -458,6 +507,7 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
       if(!r.ok) throw new Error(r.status);
       const d = await r.json();
       items = (d.items||[]).filter(i=>(i.qte||0)>0);
+      try{ const rv=await fetch("ventes.json?t="+Date.now(),{cache:"no-store"}); if(rv.ok){ sales=(await rv.json()).ventes||[]; renderSales(); } }catch(e){}
       meta = d.meta||null;
       render(); renderMeta();
     }catch(e){
