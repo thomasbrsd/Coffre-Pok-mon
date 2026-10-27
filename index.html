@@ -59,7 +59,10 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
 .tile{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px 18px;display:flex;flex-direction:column;gap:6px;min-width:0}
 .tile .v{font-family:var(--f-display);font-weight:700;font-size:clamp(22px,4vw,30px);line-height:1.1;font-variant-numeric:tabular-nums}
 .tile .s{font-size:13px;color:var(--muted)}
-.alt{grid-column:1/-1;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.alt{grid-column:1/-1;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.alt-real{text-decoration:none;color:inherit;border:1px solid var(--line);background:var(--surface)}
+.alt-real:hover,.alt-real:focus-visible{border-color:var(--accent);outline:none}
+@media (max-width:760px){.alt{grid-template-columns:1fr}}
 .alt-row{display:flex;align-items:baseline;gap:6px 12px;flex-wrap:wrap;padding:8px 12px;border-radius:10px;background:var(--surface-2);font-size:12.5px;min-width:0}
 .alt-k{color:var(--muted);font-weight:600;letter-spacing:.06em;text-transform:uppercase;font-size:10.5px}
 .alt-v{color:var(--fg);font-weight:600}
@@ -208,6 +211,7 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
     <div class="alt" aria-label="Autres scénarios">
       <div class="alt-row"><span class="alt-k">À la cote moyenne</span><span class="alt-v num" id="a-moy-v">—</span><span class="alt-p num" id="a-moy-p">—</span></div>
       <div class="alt-row"><span class="alt-k">Au prix max</span><span class="alt-v num" id="a-max-v">—</span><span class="alt-p num" id="a-max-p">—</span></div>
+      <a class="alt-row alt-real" href="#ventes"><span class="alt-k">Déjà réalisé (ventes)</span><span class="alt-v num" id="a-real-v">—</span><span class="alt-p num" id="a-real-p">—</span></a>
     </div>
   </section>
 
@@ -321,7 +325,7 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
     $("t-val").textContent = fmt(totVal);
     $("t-items").textContent = totQty+" produits · "+gl.length+" séries";
     const altSet=(id,v)=>{const pr=v-totRetail; $(id+"-v").textContent=fmt(v); const e=$(id+"-p"); e.textContent=signed(pr)+(totRetail?" ("+(pr>=0?"+":"")+Math.round(pr/totRetail*100)+" %)":""); e.className="alt-p num "+(pr>=0?"pos":"neg");};
-    altSet("a-moy",totCote); altSet("a-max",totMax);
+    altSet("a-moy",totCote); altSet("a-max",totMax); updateRealized();
     $("t-retail").textContent = fmt(totRetail);
     const p = totVal-totRetail;
     $("t-profit").textContent = signed(p);
@@ -467,7 +471,15 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(26px,5vw,40px);l
   }
   // ---------- Mes ventes ----------
   let sales=[];
+  function updateRealized(){
+    const tot=sales.reduce((s,v)=>s+(+v.prixTotal||0),0), cost=sales.reduce((s,v)=>s+(+v.achat||0)*(+v.qte||0),0), n=sales.reduce((s,v)=>s+(+v.qte||0),0);
+    const vEl=$("a-real-v"), pEl=$("a-real-p"); if(!vEl) return;
+    if(!sales.length){ vEl.textContent="aucune vente"; pEl.textContent="—"; pEl.className="alt-p num"; return; }
+    const pr=tot-cost; vEl.textContent=fmt(tot)+" encaissés · "+n+" vendu"+(n>1?"s":"");
+    pEl.textContent=signed(pr); pEl.className="alt-p num "+(pr>=0?"pos":"neg");
+  }
   function renderSales(){
+    updateRealized();
     const list=$("sv-list"); if(!list) return;
     const S=sales.slice().sort((a,b)=>(b.date||"").localeCompare(a.date||""));
     const tot=S.reduce((s,v)=>s+(+v.prixTotal||0),0), cost=S.reduce((s,v)=>s+(+v.achat||0)*(+v.qte||0),0), n=S.reduce((s,v)=>s+(+v.qte||0),0);
