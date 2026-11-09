@@ -1,6 +1,6 @@
 {
  "meta": {
-  "maj": "2026-10-27T14:05:00+01:00"
+  "maj": "2026-11-09T16:05:00+01:00"
  },
  "items": [
   {
@@ -169,24 +169,127 @@
      "d": "2026-10-27",
      "max": 88,
      "moy": 74
+    },
+    {
+     "bas": 65,
+     "d": "2026-10-28",
+     "max": 88,
+     "moy": 74
+    },
+    {
+     "bas": 65,
+     "d": "2026-10-29",
+     "max": 88,
+     "moy": 74
+    },
+    {
+     "bas": 65,
+     "d": "2026-10-30",
+     "max": 88,
+     "moy": 74
+    },
+    {
+     "bas": 65,
+     "d": "2026-10-31",
+     "max": 88,
+     "moy": 74
+    },
+    {
+     "bas": 65,
+     "d": "2026-11-01",
+     "max": 88,
+     "moy": 74
+    },
+    {
+     "bas": 65,
+     "d": "2026-11-02",
+     "max": 88,
+     "moy": 74
+    },
+    {
+     "bas": 65,
+     "d": "2026-11-03",
+     "max": 88,
+     "moy": 74
+    },
+    {
+     "bas": 65,
+     "d": "2026-11-04",
+     "max": 88,
+     "moy": 74
+    },
+    {
+     "bas": 65,
+     "d": "2026-11-05",
+     "max": 88,
+     "moy": 74
+    },
+    {
+     "bas": 65,
+     "d": "2026-11-06",
+     "max": 88,
+     "moy": 74
+    },
+    {
+     "bas": 65,
+     "d": "2026-11-07",
+     "max": 88,
+     "moy": 74
+    },
+    {
+     "bas": 65,
+     "d": "2026-11-08",
+     "max": 88,
+     "moy": 74
+    },
+    {
+     "bas": 65,
+     "d": "2026-11-09",
+     "max": 88,
+     "moy": 74
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Bundle 6 boosters 30e Anniversaire",
    "qte": 10,
    "retail": 35.99,
    "serie": "30-ans",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Bundle",
    "id": "30-ans-bundle"
   },
   {
-   "cote": 131,
-   "cotePrev": 130,
+   "cote": 40,
    "fourchette": [
-    111,
-    169
+    30,
+    54
+   ],
+   "historique": [
+    {
+     "bas": 30,
+     "d": "2026-11-09",
+     "max": 54,
+     "moy": 40
+    }
+   ],
+   "langue": "FR",
+   "maj": "2026-11-09T16:05:00+01:00",
+   "nom": "Decks de combat Mentali-ex et Noctali-ex",
+   "note": "les deux decks : Mentali-ex (promo Victini) et Noctali-ex (promo Zeraora)",
+   "qte": 2,
+   "retail": 19.99,
+   "serie": "30-ans",
+   "source": "Cardmarket premier prix 54 € (fin oct., 1 à 2 offres), prix public ~20 €",
+   "type": "Deck",
+   "id": "30-ans-decks"
+  },
+  {
+   "cote": 120,
+   "cotePrev": 120,
+   "fourchette": [
+    101,
+    155
    ],
    "histSource": "Cote Cardmarket de ce produit via Pokescam",
    "historique": [
@@ -389,15 +492,93 @@
      "d": "2026-10-27",
      "max": 169,
      "moy": 131
+    },
+    {
+     "bas": 109,
+     "d": "2026-10-28",
+     "max": 166,
+     "moy": 129
+    },
+    {
+     "bas": 109,
+     "d": "2026-10-29",
+     "max": 166,
+     "moy": 129
+    },
+    {
+     "bas": 108,
+     "d": "2026-10-30",
+     "max": 165,
+     "moy": 128
+    },
+    {
+     "bas": 106,
+     "d": "2026-10-31",
+     "max": 162,
+     "moy": 126
+    },
+    {
+     "bas": 103,
+     "d": "2026-11-01",
+     "max": 157,
+     "moy": 122
+    },
+    {
+     "bas": 103,
+     "d": "2026-11-02",
+     "max": 157,
+     "moy": 122
+    },
+    {
+     "bas": 103,
+     "d": "2026-11-03",
+     "max": 157,
+     "moy": 122
+    },
+    {
+     "bas": 102,
+     "d": "2026-11-04",
+     "max": 156,
+     "moy": 121
+    },
+    {
+     "bas": 102,
+     "d": "2026-11-05",
+     "max": 156,
+     "moy": 121
+    },
+    {
+     "bas": 102,
+     "d": "2026-11-06",
+     "max": 156,
+     "moy": 121
+    },
+    {
+     "bas": 102,
+     "d": "2026-11-07",
+     "max": 156,
+     "moy": 121
+    },
+    {
+     "bas": 101,
+     "d": "2026-11-08",
+     "max": 155,
+     "moy": 120
+    },
+    {
+     "bas": 101,
+     "d": "2026-11-09",
+     "max": 155,
+     "moy": 120
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Coffret Dresseur d'Élite (ETB) 30e Anniversaire",
    "qte": 1,
    "retail": 59.99,
    "serie": "30-ans",
-   "source": "Cote Cardmarket via Pokescam 130,70 € (26/10/2026), -2 % sur 7 j",
+   "source": "Cote Cardmarket via Pokescam 120,26 € (07/11/2026, inchangée), -2 % sur 7 j ; offre la plus basse 95 €",
    "type": "ETB",
    "id": "30-ans-etb"
   },
@@ -644,18 +825,146 @@
      "d": "2026-10-27",
      "max": 45,
      "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-10-28",
+     "max": 45,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-10-29",
+     "max": 45,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-10-30",
+     "max": 45,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-10-31",
+     "max": 45,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-01",
+     "max": 45,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-02",
+     "max": 45,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-03",
+     "max": 45,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-04",
+     "max": 45,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-05",
+     "max": 45,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-06",
+     "max": 45,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-07",
+     "max": 45,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-08",
+     "max": 45,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-09",
+     "max": 45,
+     "moy": 35
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Coffret Journée Pokémon 2026",
    "note": "1 booster Méga-Évolution + 2 Flammes Fantasmagoriques · promo Pikachu",
    "qte": 1,
    "retail": 24.9,
    "serie": "mega-evolution",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Coffret",
    "id": "30-ans-journee-2026"
+  },
+  {
+   "cote": 90,
+   "fourchette": [
+    70,
+    120
+   ],
+   "historique": [
+    {
+     "bas": 70,
+     "d": "2026-11-09",
+     "max": 120,
+     "moy": 90
+    }
+   ],
+   "langue": "FR",
+   "maj": "2026-11-09T16:05:00+01:00",
+   "nom": "Collection Premium Métamorph",
+   "note": "8 boosters + promo Métamorph + porte-carte",
+   "qte": 1,
+   "retail": 49.99,
+   "serie": "30-ans",
+   "source": "Cardmarket premier prix 119,99 € (23 oct., peu d'offres), Play-in 89,90 €",
+   "type": "Coffret",
+   "id": "30-ans-metamorph"
+  },
+  {
+   "cote": 70,
+   "fourchette": [
+    55,
+    90
+   ],
+   "historique": [
+    {
+     "bas": 55,
+     "d": "2026-11-09",
+     "max": 90,
+     "moy": 70
+    }
+   ],
+   "langue": "FR",
+   "maj": "2026-11-09T16:05:00+01:00",
+   "nom": "Collection avec figurine Mew",
+   "note": "5 boosters + figurine + promo Mew",
+   "qte": 1,
+   "retail": 39.99,
+   "serie": "30-ans",
+   "source": "Cardmarket premier prix 87 € (26 oct., peu d'offres), rayon FR 37,99 à 44,99 €, revendeurs 70 €",
+   "type": "Coffret",
+   "id": "30-ans-mew-figurine"
   },
   {
    "cote": 22,
@@ -828,16 +1137,94 @@
      "d": "2026-10-27",
      "max": 30,
      "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-10-28",
+     "max": 30,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-10-29",
+     "max": 30,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-10-30",
+     "max": 30,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-10-31",
+     "max": 30,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-01",
+     "max": 30,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-02",
+     "max": 30,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-03",
+     "max": 30,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-04",
+     "max": 30,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-05",
+     "max": 30,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-06",
+     "max": 30,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-07",
+     "max": 30,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-08",
+     "max": 30,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-09",
+     "max": 30,
+     "moy": 22
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Mini-Tin 30e Anniversaire",
    "note": "2 boosters + stickers + carte illustration",
    "qte": 2,
    "retail": 14.99,
    "serie": "30-ans",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Mini-Tin",
    "id": "30-ans-minitin"
   },
@@ -1049,16 +1436,94 @@
      "d": "2026-10-27",
      "max": 62,
      "moy": 52
+    },
+    {
+     "bas": 43,
+     "d": "2026-10-28",
+     "max": 62,
+     "moy": 52
+    },
+    {
+     "bas": 43,
+     "d": "2026-10-29",
+     "max": 62,
+     "moy": 52
+    },
+    {
+     "bas": 43,
+     "d": "2026-10-30",
+     "max": 62,
+     "moy": 52
+    },
+    {
+     "bas": 43,
+     "d": "2026-10-31",
+     "max": 62,
+     "moy": 52
+    },
+    {
+     "bas": 43,
+     "d": "2026-11-01",
+     "max": 62,
+     "moy": 52
+    },
+    {
+     "bas": 43,
+     "d": "2026-11-02",
+     "max": 62,
+     "moy": 52
+    },
+    {
+     "bas": 43,
+     "d": "2026-11-03",
+     "max": 62,
+     "moy": 52
+    },
+    {
+     "bas": 43,
+     "d": "2026-11-04",
+     "max": 62,
+     "moy": 52
+    },
+    {
+     "bas": 43,
+     "d": "2026-11-05",
+     "max": 62,
+     "moy": 52
+    },
+    {
+     "bas": 43,
+     "d": "2026-11-06",
+     "max": 62,
+     "moy": 52
+    },
+    {
+     "bas": 43,
+     "d": "2026-11-07",
+     "max": 62,
+     "moy": 52
+    },
+    {
+     "bas": 43,
+     "d": "2026-11-08",
+     "max": 62,
+     "moy": 52
+    },
+    {
+     "bas": 43,
+     "d": "2026-11-09",
+     "max": 62,
+     "moy": 52
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Pokébox 30e Anniversaire (Nymphali-ex / Amphinobi-ex)",
    "note": "prix d'achat moyen : 4 à 24,99 € + 2 à 27,99 €",
    "qte": 6,
    "retail": 25.99,
    "serie": "30-ans",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Pokébox",
    "id": "30-ans-pokebox"
   },
@@ -1305,16 +1770,94 @@
      "d": "2026-10-27",
      "max": 30,
      "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-10-28",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-10-29",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-10-30",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-10-31",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-01",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-02",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-03",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-04",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-05",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-06",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-07",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-08",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-09",
+     "max": 30,
+     "moy": 25
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Collection Illustration Premiers Partenaires Série 1",
    "note": "abîmé · booster Premiers Partenaires + Méga-Évolution + Flammes Fantasmagoriques",
    "qte": 1,
    "retail": 19.99,
    "serie": "mega-evolution",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Coffret",
    "id": "30-ans-premiers-partenaires-s1"
   },
@@ -1596,16 +2139,94 @@
      "d": "2026-10-27",
      "max": 30,
      "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-10-28",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-10-29",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-10-30",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-10-31",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-01",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-02",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-03",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-04",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-05",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-06",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-07",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-08",
+     "max": 30,
+     "moy": 25
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-09",
+     "max": 30,
+     "moy": 25
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Booster Évolution Céleste",
    "note": "loose · illustration Rayquaza",
    "qte": 1,
    "retail": 4.99,
    "serie": "evolution-celeste",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Booster",
    "id": "eb07-booster"
   },
@@ -1880,16 +2501,94 @@
      "d": "2026-10-27",
      "max": 10,
      "moy": 8
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-28",
+     "max": 10,
+     "moy": 8
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-29",
+     "max": 10,
+     "moy": 8
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-30",
+     "max": 10,
+     "moy": 8
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-31",
+     "max": 10,
+     "moy": 8
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-01",
+     "max": 10,
+     "moy": 8
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-02",
+     "max": 10,
+     "moy": 8
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-03",
+     "max": 10,
+     "moy": 8
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-04",
+     "max": 10,
+     "moy": 8
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-05",
+     "max": 10,
+     "moy": 8
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-06",
+     "max": 10,
+     "moy": 8
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-07",
+     "max": 10,
+     "moy": 8
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-08",
+     "max": 10,
+     "moy": 8
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-09",
+     "max": 10,
+     "moy": 8
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Booster Stars Étincelantes",
    "note": "loose · illustration Shaymin",
    "qte": 1,
    "retail": 4.99,
    "serie": "stars-etincelantes",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Booster",
    "id": "eb09-booster"
   },
@@ -2164,16 +2863,94 @@
      "d": "2026-10-27",
      "max": 20,
      "moy": 15
+    },
+    {
+     "bas": 12,
+     "d": "2026-10-28",
+     "max": 20,
+     "moy": 15
+    },
+    {
+     "bas": 12,
+     "d": "2026-10-29",
+     "max": 20,
+     "moy": 15
+    },
+    {
+     "bas": 12,
+     "d": "2026-10-30",
+     "max": 20,
+     "moy": 15
+    },
+    {
+     "bas": 12,
+     "d": "2026-10-31",
+     "max": 20,
+     "moy": 15
+    },
+    {
+     "bas": 12,
+     "d": "2026-11-01",
+     "max": 20,
+     "moy": 15
+    },
+    {
+     "bas": 12,
+     "d": "2026-11-02",
+     "max": 20,
+     "moy": 15
+    },
+    {
+     "bas": 12,
+     "d": "2026-11-03",
+     "max": 20,
+     "moy": 15
+    },
+    {
+     "bas": 12,
+     "d": "2026-11-04",
+     "max": 20,
+     "moy": 15
+    },
+    {
+     "bas": 12,
+     "d": "2026-11-05",
+     "max": 20,
+     "moy": 15
+    },
+    {
+     "bas": 12,
+     "d": "2026-11-06",
+     "max": 20,
+     "moy": 15
+    },
+    {
+     "bas": 12,
+     "d": "2026-11-07",
+     "max": 20,
+     "moy": 15
+    },
+    {
+     "bas": 12,
+     "d": "2026-11-08",
+     "max": 20,
+     "moy": 15
+    },
+    {
+     "bas": 12,
+     "d": "2026-11-09",
+     "max": 20,
+     "moy": 15
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Duopack Tokopiyon (Origine Perdue + Évolutions à Paldea)",
    "note": "un peu abîmé",
    "qte": 1,
    "retail": 12.99,
    "serie": "origine-perdue-paldea",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Duopack",
    "id": "eb11ev02-duopack"
   },
@@ -2455,16 +3232,94 @@
      "d": "2026-10-27",
      "max": 9,
      "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-28",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-29",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-30",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-31",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-01",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-02",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-03",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-04",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-05",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-06",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-07",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-08",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-09",
+     "max": 9,
+     "moy": 7
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Booster Flammes Obsidiennes",
    "note": "blister plastique",
    "qte": 1,
    "retail": 6.5,
    "serie": "flammes-obsidiennes",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Booster",
    "id": "ev03-booster"
   },
@@ -2746,16 +3601,94 @@
      "d": "2026-10-27",
      "max": 8,
      "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-10-28",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-10-29",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-10-30",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-10-31",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-01",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-02",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-03",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-04",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-05",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-06",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-07",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-08",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-09",
+     "max": 8,
+     "moy": 6
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Booster Couronne Stellaire",
    "note": "loose · illustration Terapagos",
    "qte": 1,
    "retail": 6.5,
    "serie": "couronne-stellaire",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Booster",
    "id": "ev07-booster"
   },
@@ -3037,16 +3970,94 @@
      "d": "2026-10-27",
      "max": 9,
      "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-28",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-29",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-30",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-31",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-01",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-02",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-03",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-04",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-05",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-06",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-07",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-08",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-09",
+     "max": 9,
+     "moy": 7
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Booster Étincelles Déferlantes",
    "note": "blister plastique",
    "qte": 2,
    "retail": 6.5,
    "serie": "etincelles-deferlantes",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Booster",
    "id": "ev08-booster"
   },
@@ -3272,15 +4283,93 @@
      "d": "2026-10-27",
      "max": 26,
      "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-10-28",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-10-29",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-10-30",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-10-31",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-01",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-02",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-03",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-04",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-05",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-06",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-07",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-08",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-09",
+     "max": 26,
+     "moy": 22
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Tripack Étincelles Déferlantes",
    "qte": 1,
    "retail": 19.99,
    "serie": "etincelles-deferlantes",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Tripack",
    "id": "ev08-tripack"
   },
@@ -3506,16 +4595,94 @@
      "d": "2026-10-27",
      "max": 55,
      "moy": 45
+    },
+    {
+     "bas": 38,
+     "d": "2026-10-28",
+     "max": 55,
+     "moy": 45
+    },
+    {
+     "bas": 38,
+     "d": "2026-10-29",
+     "max": 55,
+     "moy": 45
+    },
+    {
+     "bas": 38,
+     "d": "2026-10-30",
+     "max": 55,
+     "moy": 45
+    },
+    {
+     "bas": 38,
+     "d": "2026-10-31",
+     "max": 55,
+     "moy": 45
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-01",
+     "max": 55,
+     "moy": 45
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-02",
+     "max": 55,
+     "moy": 45
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-03",
+     "max": 55,
+     "moy": 45
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-04",
+     "max": 55,
+     "moy": 45
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-05",
+     "max": 55,
+     "moy": 45
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-06",
+     "max": 55,
+     "moy": 45
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-07",
+     "max": 55,
+     "moy": 45
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-08",
+     "max": 55,
+     "moy": 45
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-09",
+     "max": 55,
+     "moy": 45
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Valise Étincelles Déferlantes",
    "note": "6 boosters",
    "qte": 1,
    "retail": 39.99,
    "serie": "etincelles-deferlantes",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Valise",
    "id": "ev08-valise"
   },
@@ -3797,25 +4964,103 @@
      "d": "2026-10-27",
      "max": 8,
      "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-10-28",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-10-29",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-10-30",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-10-31",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-01",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-02",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-03",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-04",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-05",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-06",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-07",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-08",
+     "max": 8,
+     "moy": 6
+    },
+    {
+     "bas": 5,
+     "d": "2026-11-09",
+     "max": 8,
+     "moy": 6
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Booster Aventures Ensemble",
    "note": "blister plastique",
    "qte": 3,
    "retail": 6.5,
    "serie": "aventures-ensemble",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Booster",
    "id": "ev09-booster"
   },
   {
-   "cote": 86,
-   "cotePrev": 84,
+   "cote": 88,
+   "cotePrev": 88,
    "fourchette": [
-    75,
-    97
+    78,
+    99
    ],
    "histSource": "Cote Cardmarket de ce produit via Pokescam",
    "historique": [
@@ -4032,15 +5277,93 @@
      "d": "2026-10-27",
      "max": 97,
      "moy": 86
+    },
+    {
+     "bas": 76,
+     "d": "2026-10-28",
+     "max": 98,
+     "moy": 87
+    },
+    {
+     "bas": 75,
+     "d": "2026-10-29",
+     "max": 97,
+     "moy": 86
+    },
+    {
+     "bas": 75,
+     "d": "2026-10-30",
+     "max": 97,
+     "moy": 86
+    },
+    {
+     "bas": 73,
+     "d": "2026-10-31",
+     "max": 94,
+     "moy": 83
+    },
+    {
+     "bas": 74,
+     "d": "2026-11-01",
+     "max": 95,
+     "moy": 84
+    },
+    {
+     "bas": 76,
+     "d": "2026-11-02",
+     "max": 97,
+     "moy": 86
+    },
+    {
+     "bas": 76,
+     "d": "2026-11-03",
+     "max": 97,
+     "moy": 86
+    },
+    {
+     "bas": 76,
+     "d": "2026-11-04",
+     "max": 97,
+     "moy": 86
+    },
+    {
+     "bas": 77,
+     "d": "2026-11-05",
+     "max": 98,
+     "moy": 87
+    },
+    {
+     "bas": 77,
+     "d": "2026-11-06",
+     "max": 98,
+     "moy": 87
+    },
+    {
+     "bas": 77,
+     "d": "2026-11-07",
+     "max": 98,
+     "moy": 87
+    },
+    {
+     "bas": 77,
+     "d": "2026-11-08",
+     "max": 98,
+     "moy": 87
+    },
+    {
+     "bas": 78,
+     "d": "2026-11-09",
+     "max": 99,
+     "moy": 88
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Coffret Dresseur d'Élite (ETB) Aventures Ensemble",
    "qte": 2,
    "retail": 59.99,
    "serie": "aventures-ensemble",
-   "source": "Cote Cardmarket via Pokescam 85,61 € (27/10/2026), +4 % sur 7 j",
+   "source": "Cote Cardmarket via Pokescam 87,78 € (09/11/2026, inchangée), +3 % sur 7 j ; offre la plus basse 49,99 €",
    "type": "ETB",
    "id": "ev09-etb"
   },
@@ -4322,16 +5645,94 @@
      "d": "2026-10-27",
      "max": 9,
      "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-28",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-29",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-30",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-31",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-01",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-02",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-03",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-04",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-05",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-06",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-07",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-08",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-09",
+     "max": 9,
+     "moy": 7
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Booster Rivalités Destinées",
    "note": "blister carton · Mewtwo, Carchacrok, Ho-Oh",
    "qte": 3,
    "retail": 6.5,
    "serie": "rivalites-destinees",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Booster",
    "id": "ev10-booster"
   },
@@ -4613,24 +6014,102 @@
      "d": "2026-10-27",
      "max": 150,
      "moy": 130
+    },
+    {
+     "bas": 115,
+     "d": "2026-10-28",
+     "max": 150,
+     "moy": 130
+    },
+    {
+     "bas": 115,
+     "d": "2026-10-29",
+     "max": 150,
+     "moy": 130
+    },
+    {
+     "bas": 115,
+     "d": "2026-10-30",
+     "max": 150,
+     "moy": 130
+    },
+    {
+     "bas": 115,
+     "d": "2026-10-31",
+     "max": 150,
+     "moy": 130
+    },
+    {
+     "bas": 115,
+     "d": "2026-11-01",
+     "max": 150,
+     "moy": 130
+    },
+    {
+     "bas": 115,
+     "d": "2026-11-02",
+     "max": 150,
+     "moy": 130
+    },
+    {
+     "bas": 115,
+     "d": "2026-11-03",
+     "max": 150,
+     "moy": 130
+    },
+    {
+     "bas": 115,
+     "d": "2026-11-04",
+     "max": 150,
+     "moy": 130
+    },
+    {
+     "bas": 115,
+     "d": "2026-11-05",
+     "max": 150,
+     "moy": 130
+    },
+    {
+     "bas": 115,
+     "d": "2026-11-06",
+     "max": 150,
+     "moy": 130
+    },
+    {
+     "bas": 115,
+     "d": "2026-11-07",
+     "max": 150,
+     "moy": 130
+    },
+    {
+     "bas": 115,
+     "d": "2026-11-08",
+     "max": 150,
+     "moy": 130
+    },
+    {
+     "bas": 115,
+     "d": "2026-11-09",
+     "max": 150,
+     "moy": 130
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Demi-display Rivalités Destinées (18 boosters)",
    "qte": 1,
    "retail": 99.99,
    "serie": "rivalites-destinees",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Demi-display",
    "id": "ev10-demidisplay"
   },
   {
-   "cote": 98,
-   "cotePrev": 96,
+   "cote": 94,
+   "cotePrev": 94,
    "fourchette": [
-    85,
-    106
+    84,
+    102
    ],
    "histSource": "Cote Cardmarket de ce produit via Pokescam",
    "historique": [
@@ -4847,16 +6326,94 @@
      "d": "2026-10-27",
      "max": 106,
      "moy": 98
+    },
+    {
+     "bas": 84,
+     "d": "2026-10-28",
+     "max": 104,
+     "moy": 96
+    },
+    {
+     "bas": 85,
+     "d": "2026-10-29",
+     "max": 105,
+     "moy": 97
+    },
+    {
+     "bas": 85,
+     "d": "2026-10-30",
+     "max": 105,
+     "moy": 97
+    },
+    {
+     "bas": 85,
+     "d": "2026-10-31",
+     "max": 105,
+     "moy": 97
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-01",
+     "max": 105,
+     "moy": 97
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-02",
+     "max": 105,
+     "moy": 97
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-03",
+     "max": 105,
+     "moy": 97
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-04",
+     "max": 105,
+     "moy": 97
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-05",
+     "max": 105,
+     "moy": 97
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-06",
+     "max": 104,
+     "moy": 96
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-07",
+     "max": 104,
+     "moy": 96
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-08",
+     "max": 104,
+     "moy": 96
+    },
+    {
+     "bas": 84,
+     "d": "2026-11-09",
+     "max": 102,
+     "moy": 94
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Coffret Dresseur d'Élite (ETB) Rivalités Destinées",
    "note": "petit trou dans le blister",
    "qte": 1,
    "retail": 59.99,
    "serie": "rivalites-destinees",
-   "source": "Cote Cardmarket via Pokescam 117,24 € (27/10/2026), décote petit trou blister",
+   "source": "Pokescam affiche 114,10 € (relevé du 07/11, plus ancien que celui de 112,31 € du 09/11) : cote maintenue, décote petit trou blister ; offre la plus basse 99,49 €",
    "type": "ETB",
    "id": "ev10-etb"
   },
@@ -5138,15 +6695,93 @@
      "d": "2026-10-27",
      "max": 28,
      "moy": 24
+    },
+    {
+     "bas": 20,
+     "d": "2026-10-28",
+     "max": 28,
+     "moy": 24
+    },
+    {
+     "bas": 20,
+     "d": "2026-10-29",
+     "max": 28,
+     "moy": 24
+    },
+    {
+     "bas": 20,
+     "d": "2026-10-30",
+     "max": 28,
+     "moy": 24
+    },
+    {
+     "bas": 20,
+     "d": "2026-10-31",
+     "max": 28,
+     "moy": 24
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-01",
+     "max": 28,
+     "moy": 24
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-02",
+     "max": 28,
+     "moy": 24
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-03",
+     "max": 28,
+     "moy": 24
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-04",
+     "max": 28,
+     "moy": 24
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-05",
+     "max": 28,
+     "moy": 24
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-06",
+     "max": 28,
+     "moy": 24
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-07",
+     "max": 28,
+     "moy": 24
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-08",
+     "max": 28,
+     "moy": 24
+    },
+    {
+     "bas": 20,
+     "d": "2026-11-09",
+     "max": 28,
+     "moy": 24
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Tripack Rivalités Destinées",
    "qte": 1,
    "retail": 19.99,
    "serie": "rivalites-destinees",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Tripack",
    "id": "ev10-tripack"
   },
@@ -5365,15 +7000,93 @@
      "d": "2026-10-27",
      "max": 125,
      "moy": 100
+    },
+    {
+     "bas": 85,
+     "d": "2026-10-28",
+     "max": 125,
+     "moy": 100
+    },
+    {
+     "bas": 85,
+     "d": "2026-10-29",
+     "max": 125,
+     "moy": 100
+    },
+    {
+     "bas": 85,
+     "d": "2026-10-30",
+     "max": 125,
+     "moy": 100
+    },
+    {
+     "bas": 85,
+     "d": "2026-10-31",
+     "max": 125,
+     "moy": 100
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-01",
+     "max": 125,
+     "moy": 100
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-02",
+     "max": 125,
+     "moy": 100
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-03",
+     "max": 125,
+     "moy": 100
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-04",
+     "max": 125,
+     "moy": 100
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-05",
+     "max": 125,
+     "moy": 100
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-06",
+     "max": 125,
+     "moy": 100
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-07",
+     "max": 125,
+     "moy": 100
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-08",
+     "max": 125,
+     "moy": 100
+    },
+    {
+     "bas": 85,
+     "d": "2026-11-09",
+     "max": 125,
+     "moy": 100
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Bundle 6 boosters Destinées de Paldea",
    "qte": 1,
    "retail": 35.99,
    "serie": "destinees-de-paldea",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Bundle",
    "id": "ev45-bundle"
   },
@@ -5592,16 +7305,94 @@
      "d": "2026-10-27",
      "max": 55,
      "moy": 48
+    },
+    {
+     "bas": 40,
+     "d": "2026-10-28",
+     "max": 55,
+     "moy": 48
+    },
+    {
+     "bas": 40,
+     "d": "2026-10-29",
+     "max": 55,
+     "moy": 48
+    },
+    {
+     "bas": 40,
+     "d": "2026-10-30",
+     "max": 55,
+     "moy": 48
+    },
+    {
+     "bas": 40,
+     "d": "2026-10-31",
+     "max": 55,
+     "moy": 48
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-01",
+     "max": 55,
+     "moy": 48
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-02",
+     "max": 55,
+     "moy": 48
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-03",
+     "max": 55,
+     "moy": 48
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-04",
+     "max": 55,
+     "moy": 48
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-05",
+     "max": 55,
+     "moy": 48
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-06",
+     "max": 55,
+     "moy": 48
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-07",
+     "max": 55,
+     "moy": 48
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-08",
+     "max": 55,
+     "moy": 48
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-09",
+     "max": 55,
+     "moy": 48
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Pokébox Destinées de Paldea Dracaufeu",
    "note": "promo Dracaufeu",
    "qte": 2,
    "retail": 24.99,
    "serie": "destinees-de-paldea",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Pokébox",
    "id": "ev45-pokebox"
   },
@@ -5820,15 +7611,93 @@
      "d": "2026-10-27",
      "max": 38,
      "moy": 25
+    },
+    {
+     "bas": 22,
+     "d": "2026-10-28",
+     "max": 38,
+     "moy": 25
+    },
+    {
+     "bas": 22,
+     "d": "2026-10-29",
+     "max": 38,
+     "moy": 25
+    },
+    {
+     "bas": 22,
+     "d": "2026-10-30",
+     "max": 38,
+     "moy": 25
+    },
+    {
+     "bas": 22,
+     "d": "2026-10-31",
+     "max": 38,
+     "moy": 25
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-01",
+     "max": 38,
+     "moy": 25
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-02",
+     "max": 38,
+     "moy": 25
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-03",
+     "max": 38,
+     "moy": 25
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-04",
+     "max": 38,
+     "moy": 25
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-05",
+     "max": 38,
+     "moy": 25
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-06",
+     "max": 38,
+     "moy": 25
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-07",
+     "max": 38,
+     "moy": 25
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-08",
+     "max": 38,
+     "moy": 25
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-09",
+     "max": 38,
+     "moy": 25
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Tripack Destinées de Paldea",
    "qte": 1,
    "retail": 19.99,
    "serie": "destinees-de-paldea",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Tripack",
    "id": "ev45-tripack"
   },
@@ -6054,15 +7923,93 @@
      "d": "2026-10-27",
      "max": 70,
      "moy": 58
+    },
+    {
+     "bas": 50,
+     "d": "2026-10-28",
+     "max": 70,
+     "moy": 58
+    },
+    {
+     "bas": 50,
+     "d": "2026-10-29",
+     "max": 70,
+     "moy": 58
+    },
+    {
+     "bas": 50,
+     "d": "2026-10-30",
+     "max": 70,
+     "moy": 58
+    },
+    {
+     "bas": 50,
+     "d": "2026-10-31",
+     "max": 70,
+     "moy": 58
+    },
+    {
+     "bas": 50,
+     "d": "2026-11-01",
+     "max": 70,
+     "moy": 58
+    },
+    {
+     "bas": 50,
+     "d": "2026-11-02",
+     "max": 70,
+     "moy": 58
+    },
+    {
+     "bas": 50,
+     "d": "2026-11-03",
+     "max": 70,
+     "moy": 58
+    },
+    {
+     "bas": 50,
+     "d": "2026-11-04",
+     "max": 70,
+     "moy": 58
+    },
+    {
+     "bas": 50,
+     "d": "2026-11-05",
+     "max": 70,
+     "moy": 58
+    },
+    {
+     "bas": 50,
+     "d": "2026-11-06",
+     "max": 70,
+     "moy": 58
+    },
+    {
+     "bas": 50,
+     "d": "2026-11-07",
+     "max": 70,
+     "moy": 58
+    },
+    {
+     "bas": 50,
+     "d": "2026-11-08",
+     "max": 70,
+     "moy": 58
+    },
+    {
+     "bas": 50,
+     "d": "2026-11-09",
+     "max": 70,
+     "moy": 58
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Bundle 6 boosters Évolutions Prismatiques",
    "qte": 2,
    "retail": 35.99,
    "serie": "evolutions-prismatiques",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Bundle",
    "id": "ev85-bundle"
   },
@@ -6288,15 +8235,93 @@
      "d": "2026-10-27",
      "max": 65,
      "moy": 44
+    },
+    {
+     "bas": 38,
+     "d": "2026-10-28",
+     "max": 65,
+     "moy": 44
+    },
+    {
+     "bas": 38,
+     "d": "2026-10-29",
+     "max": 65,
+     "moy": 44
+    },
+    {
+     "bas": 38,
+     "d": "2026-10-30",
+     "max": 65,
+     "moy": 44
+    },
+    {
+     "bas": 38,
+     "d": "2026-10-31",
+     "max": 65,
+     "moy": 44
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-01",
+     "max": 65,
+     "moy": 44
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-02",
+     "max": 65,
+     "moy": 44
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-03",
+     "max": 65,
+     "moy": 44
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-04",
+     "max": 65,
+     "moy": 44
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-05",
+     "max": 65,
+     "moy": 44
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-06",
+     "max": 65,
+     "moy": 44
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-07",
+     "max": 65,
+     "moy": 44
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-08",
+     "max": 65,
+     "moy": 44
+    },
+    {
+     "bas": 38,
+     "d": "2026-11-09",
+     "max": 65,
+     "moy": 44
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Coffret Collection Spéciale Pochette à accessoires",
    "qte": 4,
    "retail": 29.99,
    "serie": "evolutions-prismatiques",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Coffret",
    "id": "ev85-pochette"
   },
@@ -6522,15 +8547,93 @@
      "d": "2026-10-27",
      "max": 65,
      "moy": 50
+    },
+    {
+     "bas": 40,
+     "d": "2026-10-28",
+     "max": 65,
+     "moy": 50
+    },
+    {
+     "bas": 40,
+     "d": "2026-10-29",
+     "max": 65,
+     "moy": 50
+    },
+    {
+     "bas": 40,
+     "d": "2026-10-30",
+     "max": 65,
+     "moy": 50
+    },
+    {
+     "bas": 40,
+     "d": "2026-10-31",
+     "max": 65,
+     "moy": 50
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-01",
+     "max": 65,
+     "moy": 50
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-02",
+     "max": 65,
+     "moy": 50
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-03",
+     "max": 65,
+     "moy": 50
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-04",
+     "max": 65,
+     "moy": 50
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-05",
+     "max": 65,
+     "moy": 50
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-06",
+     "max": 65,
+     "moy": 50
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-07",
+     "max": 65,
+     "moy": 50
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-08",
+     "max": 65,
+     "moy": 50
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-09",
+     "max": 65,
+     "moy": 50
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Coffret Boîte surprise Évolutions Prismatiques",
    "qte": 5,
    "retail": 24.99,
    "serie": "evolutions-prismatiques",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Coffret",
    "id": "ev85-surprise"
   },
@@ -6756,15 +8859,93 @@
      "d": "2026-10-27",
      "max": 35,
      "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-10-28",
+     "max": 35,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-10-29",
+     "max": 35,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-10-30",
+     "max": 35,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-10-31",
+     "max": 35,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-01",
+     "max": 35,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-02",
+     "max": 35,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-03",
+     "max": 35,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-04",
+     "max": 35,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-05",
+     "max": 35,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-06",
+     "max": 35,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-07",
+     "max": 35,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-08",
+     "max": 35,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-09",
+     "max": 35,
+     "moy": 30
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Tripack Foudre Noire",
    "qte": 1,
    "retail": 19.99,
    "serie": "foudre-noire-flamme-blanche",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Tripack",
    "id": "fn-tripack"
   },
@@ -6990,15 +9171,93 @@
      "d": "2026-10-27",
      "max": 40,
      "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-10-28",
+     "max": 40,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-10-29",
+     "max": 40,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-10-30",
+     "max": 40,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-10-31",
+     "max": 40,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-01",
+     "max": 40,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-02",
+     "max": 40,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-03",
+     "max": 40,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-04",
+     "max": 40,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-05",
+     "max": 40,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-06",
+     "max": 40,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-07",
+     "max": 40,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-08",
+     "max": 40,
+     "moy": 35
+    },
+    {
+     "bas": 30,
+     "d": "2026-11-09",
+     "max": 40,
+     "moy": 35
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Coffret Collection Poster Foudre Noire & Flamme Blanche",
    "qte": 2,
    "retail": 24.99,
    "serie": "foudre-noire-flamme-blanche",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Coffret",
    "id": "fnfb-poster"
   },
@@ -7224,15 +9483,93 @@
      "d": "2026-10-27",
      "max": 67,
      "moy": 55
+    },
+    {
+     "bas": 45,
+     "d": "2026-10-28",
+     "max": 67,
+     "moy": 55
+    },
+    {
+     "bas": 45,
+     "d": "2026-10-29",
+     "max": 67,
+     "moy": 55
+    },
+    {
+     "bas": 45,
+     "d": "2026-10-30",
+     "max": 67,
+     "moy": 55
+    },
+    {
+     "bas": 45,
+     "d": "2026-10-31",
+     "max": 67,
+     "moy": 55
+    },
+    {
+     "bas": 45,
+     "d": "2026-11-01",
+     "max": 67,
+     "moy": 55
+    },
+    {
+     "bas": 45,
+     "d": "2026-11-02",
+     "max": 67,
+     "moy": 55
+    },
+    {
+     "bas": 45,
+     "d": "2026-11-03",
+     "max": 67,
+     "moy": 55
+    },
+    {
+     "bas": 45,
+     "d": "2026-11-04",
+     "max": 67,
+     "moy": 55
+    },
+    {
+     "bas": 45,
+     "d": "2026-11-05",
+     "max": 67,
+     "moy": 55
+    },
+    {
+     "bas": 45,
+     "d": "2026-11-06",
+     "max": 67,
+     "moy": 55
+    },
+    {
+     "bas": 45,
+     "d": "2026-11-07",
+     "max": 67,
+     "moy": 55
+    },
+    {
+     "bas": 45,
+     "d": "2026-11-08",
+     "max": 67,
+     "moy": 55
+    },
+    {
+     "bas": 45,
+     "d": "2026-11-09",
+     "max": 67,
+     "moy": 55
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Coffret Collection Illustration Victini",
    "qte": 1,
    "retail": 39.99,
    "serie": "foudre-noire-flamme-blanche",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Coffret",
    "id": "fnfb-victini"
   },
@@ -7507,16 +9844,94 @@
      "d": "2026-10-27",
      "max": 9,
      "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-28",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-29",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-30",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-10-31",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-01",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-02",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-03",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-04",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-05",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-06",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-07",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-08",
+     "max": 9,
+     "moy": 7
+    },
+    {
+     "bas": 6,
+     "d": "2026-11-09",
+     "max": 9,
+     "moy": 7
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Booster Méga-Évolution",
    "note": "blister carton · Florizarre, Gardevoir, Lucario, Kangourex",
    "qte": 4,
    "retail": 6.5,
    "serie": "mega-evolution",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Booster",
    "id": "me01-booster"
   },
@@ -7791,16 +10206,94 @@
      "d": "2026-10-27",
      "max": 26,
      "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-10-28",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-10-29",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-10-30",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-10-31",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-01",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-02",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-03",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-04",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-05",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-06",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-07",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-08",
+     "max": 26,
+     "moy": 22
+    },
+    {
+     "bas": 18,
+     "d": "2026-11-09",
+     "max": 26,
+     "moy": 22
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Tripack Méga-Évolution",
    "note": "promos Akwakwak et Psykokwak",
    "qte": 2,
    "retail": 19.99,
    "serie": "mega-evolution",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Tripack",
    "id": "me01-tripack"
   },
@@ -8061,25 +10554,103 @@
      "d": "2026-10-27",
      "max": 12,
      "moy": 9
+    },
+    {
+     "bas": 7,
+     "d": "2026-10-28",
+     "max": 12,
+     "moy": 9
+    },
+    {
+     "bas": 7,
+     "d": "2026-10-29",
+     "max": 12,
+     "moy": 9
+    },
+    {
+     "bas": 7,
+     "d": "2026-10-30",
+     "max": 12,
+     "moy": 9
+    },
+    {
+     "bas": 7,
+     "d": "2026-10-31",
+     "max": 12,
+     "moy": 9
+    },
+    {
+     "bas": 7,
+     "d": "2026-11-01",
+     "max": 12,
+     "moy": 9
+    },
+    {
+     "bas": 7,
+     "d": "2026-11-02",
+     "max": 12,
+     "moy": 9
+    },
+    {
+     "bas": 7,
+     "d": "2026-11-03",
+     "max": 12,
+     "moy": 9
+    },
+    {
+     "bas": 7,
+     "d": "2026-11-04",
+     "max": 12,
+     "moy": 9
+    },
+    {
+     "bas": 7,
+     "d": "2026-11-05",
+     "max": 12,
+     "moy": 9
+    },
+    {
+     "bas": 7,
+     "d": "2026-11-06",
+     "max": 12,
+     "moy": 9
+    },
+    {
+     "bas": 7,
+     "d": "2026-11-07",
+     "max": 12,
+     "moy": 9
+    },
+    {
+     "bas": 7,
+     "d": "2026-11-08",
+     "max": 12,
+     "moy": 9
+    },
+    {
+     "bas": 7,
+     "d": "2026-11-09",
+     "max": 12,
+     "moy": 9
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Booster Flammes Fantasmagoriques",
    "note": "blister carton · illustration Dracaufeu",
    "qte": 1,
    "retail": 6.5,
    "serie": "flammes-fantasmagoriques",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Booster",
    "id": "me02-booster"
   },
   {
    "cote": 91,
-   "cotePrev": 92,
+   "cotePrev": 91,
    "fourchette": [
-    78,
-    109
+    79,
+    110
    ],
    "histSource": "Cote Cardmarket de ce produit via Pokescam",
    "historique": [
@@ -8296,15 +10867,93 @@
      "d": "2026-10-27",
      "max": 109,
      "moy": 91
+    },
+    {
+     "bas": 78,
+     "d": "2026-10-28",
+     "max": 109,
+     "moy": 91
+    },
+    {
+     "bas": 81,
+     "d": "2026-10-29",
+     "max": 113,
+     "moy": 94
+    },
+    {
+     "bas": 81,
+     "d": "2026-10-30",
+     "max": 113,
+     "moy": 94
+    },
+    {
+     "bas": 81,
+     "d": "2026-10-31",
+     "max": 113,
+     "moy": 94
+    },
+    {
+     "bas": 81,
+     "d": "2026-11-01",
+     "max": 113,
+     "moy": 94
+    },
+    {
+     "bas": 80,
+     "d": "2026-11-02",
+     "max": 111,
+     "moy": 92
+    },
+    {
+     "bas": 80,
+     "d": "2026-11-03",
+     "max": 111,
+     "moy": 92
+    },
+    {
+     "bas": 80,
+     "d": "2026-11-04",
+     "max": 111,
+     "moy": 92
+    },
+    {
+     "bas": 78,
+     "d": "2026-11-05",
+     "max": 109,
+     "moy": 90
+    },
+    {
+     "bas": 78,
+     "d": "2026-11-06",
+     "max": 109,
+     "moy": 90
+    },
+    {
+     "bas": 79,
+     "d": "2026-11-07",
+     "max": 110,
+     "moy": 91
+    },
+    {
+     "bas": 79,
+     "d": "2026-11-08",
+     "max": 110,
+     "moy": 91
+    },
+    {
+     "bas": 79,
+     "d": "2026-11-09",
+     "max": 110,
+     "moy": 91
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Coffret Dresseur d'Élite (ETB) Méga-Dracaufeu X",
    "qte": 1,
    "retail": 59.99,
    "serie": "flammes-fantasmagoriques",
-   "source": "Cote Cardmarket via Pokescam 91,40 € (27/10/2026), stable",
+   "source": "Cote Cardmarket via Pokescam 91,44 € (07/11/2026, inchangée), -1 % sur 7 j ; offre la plus basse 55 €",
    "type": "ETB",
    "id": "me02-etb"
   },
@@ -8530,15 +11179,93 @@
      "d": "2026-10-27",
      "max": 45,
      "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-10-28",
+     "max": 45,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-10-29",
+     "max": 45,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-10-30",
+     "max": 45,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-10-31",
+     "max": 45,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-01",
+     "max": 45,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-02",
+     "max": 45,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-03",
+     "max": 45,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-04",
+     "max": 45,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-05",
+     "max": 45,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-06",
+     "max": 45,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-07",
+     "max": 45,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-08",
+     "max": 45,
+     "moy": 30
+    },
+    {
+     "bas": 25,
+     "d": "2026-11-09",
+     "max": 45,
+     "moy": 30
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Tripack Flammes Fantasmagoriques",
    "qte": 1,
    "retail": 19.99,
    "serie": "flammes-fantasmagoriques",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Tripack",
    "id": "me02-tripack"
   },
@@ -8764,15 +11491,93 @@
      "d": "2026-10-27",
      "max": 240,
      "moy": 200
+    },
+    {
+     "bas": 180,
+     "d": "2026-10-28",
+     "max": 240,
+     "moy": 200
+    },
+    {
+     "bas": 180,
+     "d": "2026-10-29",
+     "max": 240,
+     "moy": 200
+    },
+    {
+     "bas": 180,
+     "d": "2026-10-30",
+     "max": 240,
+     "moy": 200
+    },
+    {
+     "bas": 180,
+     "d": "2026-10-31",
+     "max": 240,
+     "moy": 200
+    },
+    {
+     "bas": 180,
+     "d": "2026-11-01",
+     "max": 240,
+     "moy": 200
+    },
+    {
+     "bas": 180,
+     "d": "2026-11-02",
+     "max": 240,
+     "moy": 200
+    },
+    {
+     "bas": 180,
+     "d": "2026-11-03",
+     "max": 240,
+     "moy": 200
+    },
+    {
+     "bas": 180,
+     "d": "2026-11-04",
+     "max": 240,
+     "moy": 200
+    },
+    {
+     "bas": 180,
+     "d": "2026-11-05",
+     "max": 240,
+     "moy": 200
+    },
+    {
+     "bas": 180,
+     "d": "2026-11-06",
+     "max": 240,
+     "moy": 200
+    },
+    {
+     "bas": 180,
+     "d": "2026-11-07",
+     "max": 240,
+     "moy": 200
+    },
+    {
+     "bas": 180,
+     "d": "2026-11-08",
+     "max": 240,
+     "moy": 200
+    },
+    {
+     "bas": 180,
+     "d": "2026-11-09",
+     "max": 240,
+     "moy": 200
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Ultra Premium Collection Méga-Dracaufeu X",
    "qte": 1,
    "retail": 169,
    "serie": "flammes-fantasmagoriques",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "UPC",
    "id": "me02-upc"
   },
@@ -8998,24 +11803,102 @@
      "d": "2026-10-27",
      "max": 50,
      "moy": 46
+    },
+    {
+     "bas": 40,
+     "d": "2026-10-28",
+     "max": 50,
+     "moy": 46
+    },
+    {
+     "bas": 40,
+     "d": "2026-10-29",
+     "max": 50,
+     "moy": 46
+    },
+    {
+     "bas": 40,
+     "d": "2026-10-30",
+     "max": 50,
+     "moy": 46
+    },
+    {
+     "bas": 40,
+     "d": "2026-10-31",
+     "max": 50,
+     "moy": 46
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-01",
+     "max": 50,
+     "moy": 46
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-02",
+     "max": 50,
+     "moy": 46
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-03",
+     "max": 50,
+     "moy": 46
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-04",
+     "max": 50,
+     "moy": 46
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-05",
+     "max": 50,
+     "moy": 46
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-06",
+     "max": 50,
+     "moy": 46
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-07",
+     "max": 50,
+     "moy": 46
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-08",
+     "max": 50,
+     "moy": 46
+    },
+    {
+     "bas": 40,
+     "d": "2026-11-09",
+     "max": 50,
+     "moy": 46
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Bundle 6 boosters Héros Transcendants",
    "qte": 1,
    "retail": 35.99,
    "serie": "heros-transcendants",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Bundle",
    "id": "me025-bundle"
   },
   {
-   "cote": 121,
-   "cotePrev": 122,
+   "cote": 125,
+   "cotePrev": 123,
    "fourchette": [
-    103,
-    138
+    106,
+    142
    ],
    "histSource": "Cote Cardmarket de ce produit via Pokescam",
    "historique": [
@@ -9232,15 +12115,93 @@
      "d": "2026-10-27",
      "max": 138,
      "moy": 121
+    },
+    {
+     "bas": 101,
+     "d": "2026-10-28",
+     "max": 136,
+     "moy": 119
+    },
+    {
+     "bas": 103,
+     "d": "2026-10-29",
+     "max": 138,
+     "moy": 121
+    },
+    {
+     "bas": 103,
+     "d": "2026-10-30",
+     "max": 138,
+     "moy": 121
+    },
+    {
+     "bas": 103,
+     "d": "2026-10-31",
+     "max": 138,
+     "moy": 121
+    },
+    {
+     "bas": 105,
+     "d": "2026-11-01",
+     "max": 140,
+     "moy": 123
+    },
+    {
+     "bas": 104,
+     "d": "2026-11-02",
+     "max": 139,
+     "moy": 122
+    },
+    {
+     "bas": 104,
+     "d": "2026-11-03",
+     "max": 139,
+     "moy": 122
+    },
+    {
+     "bas": 104,
+     "d": "2026-11-04",
+     "max": 139,
+     "moy": 122
+    },
+    {
+     "bas": 102,
+     "d": "2026-11-05",
+     "max": 137,
+     "moy": 120
+    },
+    {
+     "bas": 105,
+     "d": "2026-11-06",
+     "max": 141,
+     "moy": 124
+    },
+    {
+     "bas": 104,
+     "d": "2026-11-07",
+     "max": 140,
+     "moy": 123
+    },
+    {
+     "bas": 104,
+     "d": "2026-11-08",
+     "max": 140,
+     "moy": 123
+    },
+    {
+     "bas": 106,
+     "d": "2026-11-09",
+     "max": 142,
+     "moy": 125
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Coffret Dresseur d'Élite (ETB) Méga-Dracolosse",
    "qte": 4,
    "retail": 59.99,
    "serie": "heros-transcendants",
-   "source": "Cote Cardmarket via Pokescam 120,88 € (26/10/2026), -8 % sur 7 j",
+   "source": "Cote Cardmarket via Pokescam 125,06 € (09/11/2026), +2 % sur 7 j ; offre la plus basse 68,95 €",
    "type": "ETB",
    "id": "me025-etb"
   },
@@ -9466,18 +12427,145 @@
      "d": "2026-10-27",
      "max": 40,
      "moy": 28
+    },
+    {
+     "bas": 22,
+     "d": "2026-10-28",
+     "max": 40,
+     "moy": 28
+    },
+    {
+     "bas": 22,
+     "d": "2026-10-29",
+     "max": 40,
+     "moy": 28
+    },
+    {
+     "bas": 22,
+     "d": "2026-10-30",
+     "max": 40,
+     "moy": 28
+    },
+    {
+     "bas": 22,
+     "d": "2026-10-31",
+     "max": 40,
+     "moy": 28
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-01",
+     "max": 40,
+     "moy": 28
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-02",
+     "max": 40,
+     "moy": 28
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-03",
+     "max": 40,
+     "moy": 28
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-04",
+     "max": 40,
+     "moy": 28
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-05",
+     "max": 40,
+     "moy": 28
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-06",
+     "max": 40,
+     "moy": 28
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-07",
+     "max": 40,
+     "moy": 28
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-08",
+     "max": 40,
+     "moy": 28
+    },
+    {
+     "bas": 22,
+     "d": "2026-11-09",
+     "max": 40,
+     "moy": 28
     }
    ],
    "langue": "FR",
-   "maj": "2026-10-27T06:54:04+01:00",
+   "maj": "2026-11-09T15:57:50+01:00",
    "nom": "Mini-Tin Héros Transcendants (Pikachu & Gruikui)",
    "note": "2 boosters",
    "qte": 1,
    "retail": 11.99,
    "serie": "heros-transcendants",
-   "source": "Recherche du 2026-10-27 (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
+   "source": "Recherche du 2026-11-09 après-midi (eBay.fr, Cardmarket, boutiques FR) : pas de nouvelle vente fiable, prix maintenus",
    "type": "Mini-Tin",
    "id": "me025-minitin"
+  },
+  {
+   "cote": 48,
+   "fourchette": [
+    40,
+    55
+   ],
+   "historique": [
+    {
+     "bas": 40,
+     "d": "2026-11-09",
+     "max": 55,
+     "moy": 48
+    }
+   ],
+   "langue": "FR",
+   "maj": "2026-11-09T16:05:00+01:00",
+   "nom": "Bundle 6 boosters Règne Delta",
+   "qte": 1,
+   "retail": 35.99,
+   "serie": "regne-delta",
+   "source": "Sortie 6 nov. : marché US ~50 $, boutiques UK 40 à 45 £",
+   "type": "Bundle",
+   "id": "me06-bundle"
+  },
+  {
+   "cote": 90,
+   "fourchette": [
+    75,
+    110
+   ],
+   "historique": [
+    {
+     "bas": 75,
+     "d": "2026-11-09",
+     "max": 110,
+     "moy": 90
+    }
+   ],
+   "langue": "FR",
+   "maj": "2026-11-09T16:05:00+01:00",
+   "nom": "Coffret Dresseur d'Élite (ETB) Règne Delta",
+   "note": "Méga-Rayquaza",
+   "qte": 1,
+   "retail": 59.99,
+   "serie": "regne-delta",
+   "source": "Sortie 6 nov. : revendeurs FR ~75 €, marché US ~106 $, boutiques UK 80 à 111 £",
+   "type": "ETB",
+   "id": "me06-etb"
   }
  ]
 }
